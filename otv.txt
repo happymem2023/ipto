@@ -1,0 +1,8 @@
+OTV亦非云,#genre#
+CCTV5,txt=4403&channel=5&ml=2300&py=1
+CCTV10,txt=4403&channel=10&ml=2300&py=5
+东方卫视,txt=4403&channel=26&ml=2300&py=2
+浙江卫视,txt=4403&channel=19&ml=2300&py=2
+广东少儿,txt=4403&channel=63&ml=1300&py=0
+深圳体育健康,txt=4403&channel=50&ml=1300&py=3
+深圳公共,txt=4403&channel=52&ml=1300&py=0
