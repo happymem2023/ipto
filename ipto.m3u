@@ -1,1606 +1,1692 @@
 #EXTM3U
-#EXTINF:-1 group-title="浙江电信M",CCTV1
-http://115.239.82.67:9999/udp/233.50.200.99:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV2
-http://115.239.82.67:9999/udp/233.50.200.25:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV3
-http://115.239.82.67:9999/udp/233.50.200.107:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV4
-http://115.239.82.67:9999/udp/233.50.202.38:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV5
-http://115.239.82.67:9999/udp/233.50.200.108:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV6
-http://115.239.82.67:9999/udp/233.50.200.109:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV7
-http://115.239.82.67:9999/udp/233.50.200.24:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV8
-http://115.239.82.67:9999/udp/233.50.200.110:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV9
-http://115.239.82.67:9999/udp/233.50.200.23:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV10
-http://115.239.82.67:9999/udp/233.50.200.22:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV11
-http://115.239.82.67:9999/udp/233.50.202.39:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV12
-http://115.239.82.67:9999/udp/233.50.200.21:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV13
-http://115.239.82.67:9999/udp/233.50.200.111:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV14
-http://115.239.82.67:9999/udp/233.50.200.103:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV15
-http://115.239.82.67:9999/udp/233.50.202.40:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV16
-http://115.239.82.67:9999/udp/233.50.200.112:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV17
-http://115.239.82.67:9999/udp/233.50.200.113:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV5+
-http://115.239.82.67:9999/udp/233.50.201.220:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV16-4K
-http://115.239.82.67:9999/udp/233.50.201.63:5140
-#EXTINF:-1 group-title="浙江电信M",CETV1
-http://115.239.82.67:9999/udp/233.50.200.169:5140
-#EXTINF:-1 group-title="浙江电信M",CETV4
-http://115.239.82.67:9999/udp/233.50.200.162:5140
-#EXTINF:-1 group-title="浙江电信M",凤凰中文
-http://115.239.82.67:9999/udp/233.50.202.35:5140
-#EXTINF:-1 group-title="浙江电信M",凤凰资讯
-http://115.239.82.67:9999/udp/233.50.202.36:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩竞技
-http://115.239.82.67:9999/udp/233.50.201.193:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩篮球
-http://115.239.82.67:9999/udp/233.50.201.194:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩青少
-http://115.239.82.67:9999/udp/233.50.201.195:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩广场舞
-http://115.239.82.67:9999/udp/233.50.202.29:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV纪实4K
-http://115.239.82.67:9999/udp/233.50.200.182:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV少儿4K
-http://115.239.82.67:9999/udp/233.50.200.183:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV视界4K
-http://115.239.82.67:9999/udp/233.50.200.185:5140
-#EXTINF:-1 group-title="浙江电信M",华数电视剧
-http://115.239.82.67:9999/udp/233.50.201.116:5140
-#EXTINF:-1 group-title="浙江电信M",探索记录
-http://115.239.82.67:9999/udp/233.50.201.117:5140
-#EXTINF:-1 group-title="浙江电信M",茶频道
-http://115.239.82.67:9999/udp/233.50.200.124:5140
-#EXTINF:-1 group-title="浙江电信M",动漫秀场
-http://115.239.82.67:9999/udp/233.50.200.12:5140
-#EXTINF:-1 group-title="浙江电信M",都市剧场
-http://115.239.82.67:9999/udp/233.50.200.11:5140
-#EXTINF:-1 group-title="浙江电信M",法治天地
-http://115.239.82.67:9999/udp/233.50.200.120:5140
-#EXTINF:-1 group-title="浙江电信M",欢笑剧场4K
-http://115.239.82.67:9999/udp/233.50.200.229:5140
-#EXTINF:-1 group-title="浙江电信M",金色学堂
-http://115.239.82.67:9999/udp/233.50.200.122:5140
-#EXTINF:-1 group-title="浙江电信M",快乐垂钓
-http://115.239.82.67:9999/udp/233.50.200.123:5140
-#EXTINF:-1 group-title="浙江电信M",乐游
-http://115.239.82.67:9999/udp/233.50.200.148:5140
-#EXTINF:-1 group-title="浙江电信M",生活时尚
-http://115.239.82.67:9999/udp/233.50.200.15:5140
-#EXTINF:-1 group-title="浙江电信M",游戏风云
-http://115.239.82.67:9999/udp/233.50.200.14:5140
-#EXTINF:-1 group-title="浙江电信M",环球旅游
-http://115.239.82.67:9999/udp/233.50.202.31:5140
-#EXTINF:-1 group-title="浙江电信M",魅力足球
-http://115.239.82.67:9999/udp/233.50.200.176:5140
-#EXTINF:-1 group-title="浙江电信M",第一财经
-http://115.239.82.67:9999/udp/233.50.200.125:5140
-#EXTINF:-1 group-title="浙江电信M",东方财经
-http://115.239.82.67:9999/udp/233.50.200.177:5140
-#EXTINF:-1 group-title="浙江电信M",纪实人文
-http://115.239.82.67:9999/udp/233.50.200.168:5140
-#EXTINF:-1 group-title="浙江电信M",北京纪实科教
-http://115.239.82.67:9999/udp/233.50.202.34:5140
-#EXTINF:-1 group-title="浙江电信M",云南卫视
-http://115.239.82.67:9999/udp/233.50.200.115:5140
-#EXTINF:-1 group-title="浙江电信M",安徽卫视
-http://115.239.82.67:9999/udp/233.50.200.106:5140
-#EXTINF:-1 group-title="浙江电信M",北京卫视
-http://115.239.82.67:9999/udp/233.50.200.179:5140
-#EXTINF:-1 group-title="浙江电信M",东方卫视
-http://115.239.82.67:9999/udp/233.50.200.248:5140
-#EXTINF:-1 group-title="浙江电信M",东南卫视
-http://115.239.82.67:9999/udp/233.50.201.146:5140
-#EXTINF:-1 group-title="浙江电信M",广东卫视
-http://115.239.82.67:9999/udp/233.50.200.149:5140
-#EXTINF:-1 group-title="浙江电信M",广西卫视
-http://115.239.82.67:9999/udp/233.50.200.136:5140
-#EXTINF:-1 group-title="浙江电信M",贵州卫视
-http://115.239.82.67:9999/udp/233.50.201.142:5140
-#EXTINF:-1 group-title="浙江电信M",海南卫视
-http://115.239.82.67:9999/udp/233.50.200.165:5140
-#EXTINF:-1 group-title="浙江电信M",河北卫视
-http://115.239.82.67:9999/udp/233.50.200.105:5140
-#EXTINF:-1 group-title="浙江电信M",河南卫视
-http://115.239.82.67:9999/udp/233.50.201.144:5140
-#EXTINF:-1 group-title="浙江电信M",黑龙江卫视
-http://115.239.82.67:9999/udp/233.50.200.189:5140
-#EXTINF:-1 group-title="浙江电信M",湖北卫视
-http://115.239.82.67:9999/udp/233.50.200.147:5140
-#EXTINF:-1 group-title="浙江电信M",湖南卫视
-http://115.239.82.67:9999/udp/233.50.200.190:5140
-#EXTINF:-1 group-title="浙江电信M",吉林卫视
-http://115.239.82.67:9999/udp/233.50.202.42:5140
-#EXTINF:-1 group-title="浙江电信M",江苏卫视
-http://115.239.82.67:9999/udp/233.50.200.144:5140
-#EXTINF:-1 group-title="浙江电信M",江西卫视
-http://115.239.82.67:9999/udp/233.50.200.119:5140
-#EXTINF:-1 group-title="浙江电信M",辽宁卫视
-http://115.239.82.67:9999/udp/233.50.201.141:5140
-#EXTINF:-1 group-title="浙江电信M",山东卫视
-http://115.239.82.67:9999/udp/233.50.201.105:5140
-#EXTINF:-1 group-title="浙江电信M",四川卫视
-http://115.239.82.67:9999/udp/233.50.200.118:5140
-#EXTINF:-1 group-title="浙江电信M",天津卫视
-http://115.239.82.67:9999/udp/233.50.200.104:5140
-#EXTINF:-1 group-title="浙江电信M",浙江卫视
-http://115.239.82.67:9999/udp/233.50.201.100:5140
-#EXTINF:-1 group-title="浙江电信M",重庆卫视
-http://115.239.82.67:9999/udp/233.50.200.114:5140
-#EXTINF:-1 group-title="浙江电信M",甘肃卫视
-http://115.239.82.67:9999/udp/233.50.200.163:5140
-#EXTINF:-1 group-title="浙江电信M",山西卫视
-http://115.239.82.67:9999/udp/233.50.201.51:5140
-#EXTINF:-1 group-title="浙江电信M",陕西卫视
-http://115.239.82.67:9999/udp/233.50.201.59:5140
-#EXTINF:-1 group-title="浙江电信M",宁夏卫视
-http://115.239.82.67:9999/udp/233.50.201.57:5140
-#EXTINF:-1 group-title="浙江电信M",青海卫视
-http://115.239.82.67:9999/udp/233.50.201.65:5140
-#EXTINF:-1 group-title="浙江电信M",西藏卫视
-http://115.239.82.67:9999/udp/233.50.201.70:5140
-#EXTINF:-1 group-title="浙江电信M",兵团卫视
-http://115.239.82.67:9999/udp/233.50.201.72:5140
-#EXTINF:-1 group-title="浙江电信M",深圳卫视
-http://115.239.82.67:9999/udp/233.50.200.188:5140
-#EXTINF:-1 group-title="浙江电信M",三沙卫视
-http://115.239.82.67:9999/udp/233.50.200.175:5140
-#EXTINF:-1 group-title="浙江电信M",江苏国际
-http://115.239.82.67:9999/udp/233.50.202.37:5140
-#EXTINF:-1 group-title="浙江电信M",浙江新闻
-http://115.239.82.67:9999/udp/233.50.201.137:5140
-#EXTINF:-1 group-title="浙江电信M",浙江之江纪录
-http://115.239.82.67:9999/udp/233.50.202.25:5140
-#EXTINF:-1 group-title="浙江电信M",浙江教育
-http://115.239.82.67:9999/udp/233.50.201.134:5140
-#EXTINF:-1 group-title="浙江电信M",浙江经济
-http://115.239.82.67:9999/udp/233.50.201.133:5140
-#EXTINF:-1 group-title="浙江电信M",浙江民生
-http://115.239.82.67:9999/udp/233.50.201.136:5140
-#EXTINF:-1 group-title="浙江电信M",浙江钱江
-http://115.239.82.67:9999/udp/233.50.201.132:5140
-#EXTINF:-1 group-title="浙江电信M",浙江少儿
-http://115.239.82.67:9999/udp/233.50.201.138:5140
-#EXTINF:-1 group-title="浙江电信M",杭州导视
-http://115.239.82.67:9999/udp/233.50.201.182:5140
-#EXTINF:-1 group-title="浙江电信M",杭州综合
-http://115.239.82.67:9999/udp/233.50.201.173:5140
-#EXTINF:-1 group-title="浙江电信M",杭州明珠
-http://115.239.82.67:9999/udp/233.50.201.174:5140
-#EXTINF:-1 group-title="浙江电信M",杭州生活
-http://115.239.82.67:9999/udp/233.50.201.175:5140
-#EXTINF:-1 group-title="浙江电信M",杭州影视
-http://115.239.82.67:9999/udp/233.50.201.176:5140
-#EXTINF:-1 group-title="浙江电信M",杭州青少
-http://115.239.82.67:9999/udp/233.50.201.177:5140
-#EXTINF:-1 group-title="浙江电信M",哈哈炫动
-http://115.239.82.67:9999/udp/233.50.200.167:5140
-#EXTINF:-1 group-title="浙江电信M",卡酷少儿
-http://115.239.82.67:9999/udp/233.50.202.33:5140
-#EXTINF:-1 group-title="山西联通M",CCTV1
-http://60.223.72.28:8002/rtp/226.0.2.153:9136
-#EXTINF:-1 group-title="山西联通M",CCTV2
-http://60.223.72.28:8002/rtp/226.0.2.154:9144
-#EXTINF:-1 group-title="山西联通M",CCTV3
-http://60.223.72.28:8002/rtp/226.0.2.208:9576
-#EXTINF:-1 group-title="山西联通M",CCTV4
-http://60.223.72.28:8002/rtp/226.0.2.156:9160
-#EXTINF:-1 group-title="山西联通M",CCTV5
-http://60.223.72.28:8002/rtp/226.0.2.209:9584
-#EXTINF:-1 group-title="山西联通M",CCTV6
-http://60.223.72.28:8002/rtp/226.0.2.210:9592
-#EXTINF:-1 group-title="山西联通M",CCTV7
-http://60.223.72.28:8002/rtp/226.0.2.159:9184
-#EXTINF:-1 group-title="山西联通M",CCTV8
-http://60.223.72.28:8002/rtp/226.0.2.211:9600
-#EXTINF:-1 group-title="山西联通M",CCTV9
-http://60.223.72.28:8002/rtp/226.0.2.161:9200
-#EXTINF:-1 group-title="山西联通M",CCTV10
-http://60.223.72.28:8002/rtp/226.0.2.162:9208
-#EXTINF:-1 group-title="山西联通M",CCTV12
-http://60.223.72.28:8002/rtp/226.0.2.164:9224
-#EXTINF:-1 group-title="山西联通M",CCTV13
-http://60.223.72.28:8002/rtp/226.0.2.165:9232
-#EXTINF:-1 group-title="山西联通M",CCTV14
-http://60.223.72.28:8002/rtp/226.0.2.166:9240
-#EXTINF:-1 group-title="山西联通M",CCTV5+
-http://60.223.72.28:8002/rtp/226.0.2.168:9256
-#EXTINF:-1 group-title="山西联通M",CCTV16
-http://60.223.72.28:8002/rtp/226.0.2.169:9264
-#EXTINF:-1 group-title="山西联通M",CCTV17
-http://60.223.72.28:8002/rtp/226.0.2.170:9272
-#EXTINF:-1 group-title="山西联通M",CCTV1
-http://60.223.72.28:8002/rtp/226.0.2.16:8040
-#EXTINF:-1 group-title="山西联通M",CCTV1
-http://60.223.72.28:8002/rtp/226.0.2.18:8056
-#EXTINF:-1 group-title="山西联通M",CCTV2
-http://60.223.72.28:8002/rtp/226.0.2.19:8064
-#EXTINF:-1 group-title="山西联通M",CCTV3
-http://60.223.72.28:8002/rtp/226.0.2.20:8072
-#EXTINF:-1 group-title="山西联通M",CCTV4
-http://60.223.72.28:8002/rtp/226.0.2.21:8080
-#EXTINF:-1 group-title="山西联通M",CCTV5
-http://60.223.72.28:8002/rtp/226.0.2.22:8088
-#EXTINF:-1 group-title="山西联通M",CCTV6
-http://60.223.72.28:8002/rtp/226.0.2.23:8096
-#EXTINF:-1 group-title="山西联通M",CCTV7
-http://60.223.72.28:8002/rtp/226.0.2.24:8104
-#EXTINF:-1 group-title="山西联通M",CCTV8
-http://60.223.72.28:8002/rtp/226.0.2.25:8112
-#EXTINF:-1 group-title="山西联通M",CCTV9
-http://60.223.72.28:8002/rtp/226.0.2.26:8120
-#EXTINF:-1 group-title="山西联通M",CCTV10
-http://60.223.72.28:8002/rtp/226.0.2.27:8128
-#EXTINF:-1 group-title="山西联通M",CCTV11
-http://60.223.72.28:8002/rtp/226.0.2.28:8136
-#EXTINF:-1 group-title="山西联通M",CCTV12
-http://60.223.72.28:8002/rtp/226.0.2.29:8144
-#EXTINF:-1 group-title="山西联通M",CCTV13
-http://60.223.72.28:8002/rtp/226.0.2.30:8152
-#EXTINF:-1 group-title="山西联通M",CCTV14
-http://60.223.72.28:8002/rtp/226.0.2.31:8160
-#EXTINF:-1 group-title="山西联通M",CCTV15
-http://60.223.72.28:8002/rtp/226.0.2.32:8168
-#EXTINF:-1 group-title="山西联通M",CCTV17
-http://60.223.72.28:8002/rtp/226.0.2.207:9568
-#EXTINF:-1 group-title="山西联通M",CCTV央视台球
-http://60.223.72.28:8002/rtp/226.0.2.216:9640
-#EXTINF:-1 group-title="山西联通M",CCTV高尔夫网球
-http://60.223.72.28:8002/rtp/226.0.2.217:9648
-#EXTINF:-1 group-title="山西联通M",CCTV电视指南
-http://60.223.72.28:8002/rtp/226.0.2.218:9656
-#EXTINF:-1 group-title="山西联通M",CCTV央视文化精品
-http://60.223.72.28:8002/rtp/226.0.2.219:9664
-#EXTINF:-1 group-title="山西联通M",CCTV风云音乐
-http://60.223.72.28:8002/rtp/226.0.2.220:9672
-#EXTINF:-1 group-title="山西联通M",CCTV第一剧场
-http://60.223.72.28:8002/rtp/226.0.2.221:9680
-#EXTINF:-1 group-title="山西联通M",CCTV世界地理
-http://60.223.72.28:8002/rtp/226.0.2.222:9688
-#EXTINF:-1 group-title="山西联通M",CCTV兵器科技
-http://60.223.72.28:8002/rtp/226.0.2.223:9696
-#EXTINF:-1 group-title="山西联通M",CCTV怀旧剧场
-http://60.223.72.28:8002/rtp/226.0.2.224:9704
-#EXTINF:-1 group-title="山西联通M",CCTV风云足球
-http://60.223.72.28:8002/rtp/226.0.2.225:9712
-#EXTINF:-1 group-title="山西联通M",CCTV女性时尚
-http://60.223.72.28:8002/rtp/226.0.2.226:9720
-#EXTINF:-1 group-title="山西联通M",CCTV风云剧场
-http://60.223.72.28:8002/rtp/226.0.2.227:9728
-#EXTINF:-1 group-title="山西联通M",CCTV老故事
-http://60.223.72.28:8002/rtp/226.0.2.112:8808
-#EXTINF:-1 group-title="山西联通M",CHC影迷电影
-http://60.223.72.28:8002/rtp/226.0.2.93:8004
-#EXTINF:-1 group-title="山西联通M",CHC动作电影
-http://60.223.72.28:8002/rtp/226.0.2.94:8012
-#EXTINF:-1 group-title="山西联通M",CHC家庭影院
-http://60.223.72.28:8002/rtp/226.0.2.240:9820
-#EXTINF:-1 group-title="山西联通M",CETV1
-http://60.223.72.28:8002/rtp/226.0.2.68:8456
-#EXTINF:-1 group-title="山西联通M",CETV1
-http://60.223.72.28:8002/rtp/226.0.2.181:9360
-#EXTINF:-1 group-title="山西联通M",CETV2
-http://60.223.72.28:8002/rtp/226.0.2.69:8464
-#EXTINF:-1 group-title="山西联通M",CETV4
-http://60.223.72.28:8002/rtp/226.0.2.70:8472
-#EXTINF:-1 group-title="山西联通M",CETV早期教育
-http://60.223.72.28:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 group-title="山西联通M",湖南卫视
-http://60.223.72.28:8002/rtp/226.0.2.143:9056
-#EXTINF:-1 group-title="山西联通M",浙江卫视
-http://60.223.72.28:8002/rtp/226.0.2.144:9064
-#EXTINF:-1 group-title="山西联通M",安徽卫视
-http://60.223.72.28:8002/rtp/226.0.2.145:9072
-#EXTINF:-1 group-title="山西联通M",广东卫视
-http://60.223.72.28:8002/rtp/226.0.2.146:9080
-#EXTINF:-1 group-title="山西联通M",深圳卫视
-http://60.223.72.28:8002/rtp/226.0.2.147:9088
-#EXTINF:-1 group-title="山西联通M",天津卫视
-http://60.223.72.28:8002/rtp/226.0.2.148:9096
-#EXTINF:-1 group-title="山西联通M",山东卫视
-http://60.223.72.28:8002/rtp/226.0.2.149:9104
-#EXTINF:-1 group-title="山西联通M",湖北卫视
-http://60.223.72.28:8002/rtp/226.0.2.150:9112
-#EXTINF:-1 group-title="山西联通M",黑龙江卫视
-http://60.223.72.28:8002/rtp/226.0.2.151:9120
-#EXTINF:-1 group-title="山西联通M",山西卫视
-http://60.223.72.28:8002/rtp/226.0.2.152:9128
-#EXTINF:-1 group-title="山西联通M",辽宁卫视
-http://60.223.72.28:8002/rtp/226.0.2.173:9296
-#EXTINF:-1 group-title="山西联通M",重庆卫视
-http://60.223.72.28:8002/rtp/226.0.2.174:9304
-#EXTINF:-1 group-title="山西联通M",东方卫视
-http://60.223.72.28:8002/rtp/226.0.2.175:9312
-#EXTINF:-1 group-title="山西联通M",江苏卫视
-http://60.223.72.28:8002/rtp/226.0.2.176:9320
-#EXTINF:-1 group-title="山西联通M",北京卫视
-http://60.223.72.28:8002/rtp/226.0.2.177:9328
-#EXTINF:-1 group-title="山西联通M",河北卫视
-http://60.223.72.28:8002/rtp/226.0.2.178:9336
-#EXTINF:-1 group-title="山西联通M",四川卫视
-http://60.223.72.28:8002/rtp/226.0.2.179:9344
-#EXTINF:-1 group-title="山西联通M",贵州卫视
-http://60.223.72.28:8002/rtp/226.0.2.180:9352
-#EXTINF:-1 group-title="山西联通M",湖南卫视
-http://60.223.72.28:8002/rtp/226.0.2.33:8176
-#EXTINF:-1 group-title="山西联通M",东方卫视
-http://60.223.72.28:8002/rtp/226.0.2.34:8184
-#EXTINF:-1 group-title="山西联通M",辽宁卫视
-http://60.223.72.28:8002/rtp/226.0.2.35:8192
-#EXTINF:-1 group-title="山西联通M",浙江卫视
-http://60.223.72.28:8002/rtp/226.0.2.36:8200
-#EXTINF:-1 group-title="山西联通M",安徽卫视
-http://60.223.72.28:8002/rtp/226.0.2.37:8208
-#EXTINF:-1 group-title="山西联通M",江苏卫视
-http://60.223.72.28:8002/rtp/226.0.2.38:8216
-#EXTINF:-1 group-title="山西联通M",北京卫视
-http://60.223.72.28:8002/rtp/226.0.2.39:8224
-#EXTINF:-1 group-title="山西联通M",东南卫视
-http://60.223.72.28:8002/rtp/226.0.2.40:8232
-#EXTINF:-1 group-title="山西联通M",东南卫视
-http://60.223.72.28:8002/rtp/226.0.2.188:9416
-#EXTINF:-1 group-title="山西联通M",四川卫视
-http://60.223.72.28:8002/rtp/226.0.2.42:8248
-#EXTINF:-1 group-title="山西联通M",贵州卫视
-http://60.223.72.28:8002/rtp/226.0.2.43:8256
-#EXTINF:-1 group-title="山西联通M",广东卫视
-http://60.223.72.28:8002/rtp/226.0.2.45:8272
-#EXTINF:-1 group-title="山西联通M",广西卫视
-http://60.223.72.28:8002/rtp/226.0.2.46:8280
-#EXTINF:-1 group-title="山西联通M",广西卫视
-http://60.223.72.28:8002/rtp/226.0.2.231:9760
-#EXTINF:-1 group-title="山西联通M",深圳卫视
-http://60.223.72.28:8002/rtp/226.0.2.47:8288
-#EXTINF:-1 group-title="山西联通M",黑龙江卫视
-http://60.223.72.28:8002/rtp/226.0.2.48:8296
-#EXTINF:-1 group-title="山西联通M",湖北卫视
-http://60.223.72.28:8002/rtp/226.0.2.49:8304
-#EXTINF:-1 group-title="山西联通M",重庆卫视
-http://60.223.72.28:8002/rtp/226.0.2.50:8312
-#EXTINF:-1 group-title="山西联通M",山东卫视
-http://60.223.72.28:8002/rtp/226.0.2.51:8320
-#EXTINF:-1 group-title="山西联通M",河南卫视
-http://60.223.72.28:8002/rtp/226.0.2.52:8328
-#EXTINF:-1 group-title="山西联通M",河南卫视
-http://60.223.72.28:8002/rtp/226.0.2.195:9472
-#EXTINF:-1 group-title="山西联通M",陕西卫视
-http://60.223.72.28:8002/rtp/226.0.2.53:8336
-#EXTINF:-1 group-title="山西联通M",江西卫视
-http://60.223.72.28:8002/rtp/226.0.2.54:8344
-#EXTINF:-1 group-title="山西联通M",江西卫视
-http://60.223.72.28:8002/rtp/226.0.2.198:9496
-#EXTINF:-1 group-title="山西联通M",甘肃卫视
-http://60.223.72.28:8002/rtp/226.0.2.55:8352
-#EXTINF:-1 group-title="山西联通M",天津卫视
-http://60.223.72.28:8002/rtp/226.0.2.56:8360
-#EXTINF:-1 group-title="山西联通M",吉林卫视
-http://60.223.72.28:8002/rtp/226.0.2.58:8376
-#EXTINF:-1 group-title="山西联通M",青海卫视
-http://60.223.72.28:8002/rtp/226.0.2.59:8384
-#EXTINF:-1 group-title="山西联通M",云南卫视
-http://60.223.72.28:8002/rtp/226.0.2.60:8392
-#EXTINF:-1 group-title="山西联通M",海南卫视
-http://60.223.72.28:8002/rtp/226.0.2.61:8400
-#EXTINF:-1 group-title="山西联通M",海南卫视
-http://60.223.72.28:8002/rtp/226.0.2.212:9608
-#EXTINF:-1 group-title="山西联通M",吉林卫视
-http://60.223.72.28:8002/rtp/226.0.2.199:9504
-#EXTINF:-1 group-title="山西联通M",兵团卫视
-http://60.223.72.28:8002/rtp/226.0.2.62:8408
-#EXTINF:-1 group-title="山西联通M",内蒙古卫视
-http://60.223.72.28:8002/rtp/226.0.2.63:8416
-#EXTINF:-1 group-title="山西联通M",宁夏卫视
-http://60.223.72.28:8002/rtp/226.0.2.64:8424
-#EXTINF:-1 group-title="山西联通M",河北卫视
-http://60.223.72.28:8002/rtp/226.0.2.65:8432
-#EXTINF:-1 group-title="山西联通M",西藏卫视
-http://60.223.72.28:8002/rtp/226.0.2.66:8440
-#EXTINF:-1 group-title="山西联通M",新疆卫视
-http://60.223.72.28:8002/rtp/226.0.2.67:8448
-#EXTINF:-1 group-title="山西联通M",上海纪实
-http://60.223.72.28:8002/rtp/226.0.2.193:9456
-#EXTINF:-1 group-title="山西联通M",金鹰纪实
-http://60.223.72.28:8002/rtp/226.0.2.194:9464
-#EXTINF:-1 group-title="山西联通M",证券服务
-http://60.223.72.28:8002/rtp/226.0.2.71:8480
-#EXTINF:-1 group-title="山西联通M",新动漫
-http://60.223.72.28:8002/rtp/226.0.2.73:8496
-#EXTINF:-1 group-title="山西联通M",东方财经
-http://60.223.72.28:8002/rtp/226.0.2.76:8520
-#EXTINF:-1 group-title="山西联通M",乐游
-http://60.223.72.28:8002/rtp/226.0.2.77:8528
-#EXTINF:-1 group-title="山西联通M",游戏风云
-http://60.223.72.28:8002/rtp/226.0.2.78:8536
-#EXTINF:-1 group-title="山西联通M",都市剧场
-http://60.223.72.28:8002/rtp/226.0.2.81:8560
-#EXTINF:-1 group-title="山西联通M",法治天地
-http://60.223.72.28:8002/rtp/226.0.2.83:8576
-#EXTINF:-1 group-title="山西联通M",生活时尚
-http://60.223.72.28:8002/rtp/226.0.2.84:8584
-#EXTINF:-1 group-title="山西联通M",重庆汽摩
-http://60.223.72.28:8002/rtp/226.0.2.95:8672
-#EXTINF:-1 group-title="山西联通M",武术世界
-http://60.223.72.28:8002/rtp/226.0.2.97:8688
-#EXTINF:-1 group-title="山西联通M",书画
-http://60.223.72.28:8002/rtp/226.0.2.102:8728
-#EXTINF:-1 group-title="山西联通M",中国天气
-http://60.223.72.28:8002/rtp/226.0.2.103:8736
-#EXTINF:-1 group-title="山西联通M",文物宝库
-http://60.223.72.28:8002/rtp/226.0.2.110:8792
-#EXTINF:-1 group-title="山西联通M",环球奇观
-http://60.223.72.28:8002/rtp/226.0.2.111:8800
-#EXTINF:-1 group-title="山西联通M",梨园
-http://60.223.72.28:8002/rtp/226.0.2.115:8832
-#EXTINF:-1 group-title="山西联通M",国学
-http://60.223.72.28:8002/rtp/226.0.2.116:8840
-#EXTINF:-1 group-title="山西联通M",优优宝贝
-http://60.223.72.28:8002/rtp/226.0.2.119:8864
-#EXTINF:-1 group-title="山西联通M",生态环境
-http://60.223.72.28:8002/rtp/226.0.2.120:8872
-#EXTINF:-1 group-title="山西联通M",先锋乒羽
-http://60.223.72.28:8002/rtp/226.0.2.121:8880
-#EXTINF:-1 group-title="山西联通M",四海钓鱼
-http://60.223.72.28:8002/rtp/226.0.2.123:8896
-#EXTINF:-1 group-title="山西联通M",天下收藏
-http://60.223.72.28:8002/rtp/226.0.2.124:8904
-#EXTINF:-1 group-title="山西联通M",环球旅游
-http://60.223.72.28:8002/rtp/226.0.2.127:8928
-#EXTINF:-1 group-title="山西联通M",中华特产
-http://60.223.72.28:8002/rtp/226.0.2.128:8936
-#EXTINF:-1 group-title="山西联通M",家庭理财
-http://60.223.72.28:8002/rtp/226.0.2.129:8944
-#EXTINF:-1 group-title="山西联通M",山东教育
-http://60.223.72.28:8002/rtp/226.0.2.130:8952
-#EXTINF:-1 group-title="山西联通M",百姓健康
-http://60.223.72.28:8002/rtp/226.0.2.132:8968
-#EXTINF:-1 group-title="山西联通M",车迷
-http://60.223.72.28:8002/rtp/226.0.2.138:9016
-#EXTINF:-1 group-title="山西联通M",财富天下
-http://60.223.72.28:8002/rtp/226.0.2.139:9024
-#EXTINF:-1 group-title="山西联通M",金色学堂
-http://60.223.72.28:8002/rtp/226.0.2.182:9368
-#EXTINF:-1 group-title="山西联通M",动漫秀场
-http://60.223.72.28:8002/rtp/226.0.2.183:9376
-#EXTINF:-1 group-title="山西联通M",茶
-http://60.223.72.28:8002/rtp/226.0.2.213:9616
-#EXTINF:-1 group-title="山西联通M",快乐垂钓
-http://60.223.72.28:8002/rtp/226.0.2.214:9624
-#EXTINF:-1 group-title="山西联通M",金鹰卡通
-http://60.223.72.28:8002/rtp/226.0.2.172:9288
-#EXTINF:-1 group-title="山西联通M",金鹰卡通
-http://60.223.72.28:8002/rtp/226.0.2.41:8240
-#EXTINF:-1 group-title="山西联通M",哈哈炫动
-http://60.223.72.28:8002/rtp/226.0.2.44:8264
-#EXTINF:-1 group-title="山西联通M",卡酷卡通
-http://60.223.72.28:8002/rtp/226.0.2.57:8368
-#EXTINF:-1 group-title="山西联通M",党建
-http://60.223.72.28:8002/rtp/226.0.2.184:9384
-#EXTINF:-1 group-title="山西联通M",山西黄河
-http://60.223.72.28:8002/rtp/226.0.2.235:9792
-#EXTINF:-1 group-title="山西联通M",山西经济与科技
-http://60.223.72.28:8002/rtp/226.0.2.236:9800
-#EXTINF:-1 group-title="山西联通M",山西影视
-http://60.223.72.28:8002/rtp/226.0.2.237:9808
-#EXTINF:-1 group-title="山西联通M",山西社会与法治
-http://60.223.72.28:8002/rtp/226.0.2.238:9816
-#EXTINF:-1 group-title="山西联通M",山西文体生活
-http://60.223.72.28:8002/rtp/226.0.2.16:8040
-#EXTINF:-1 group-title="山西联通M",山西文体生活
-http://60.223.72.28:8002/rtp/226.0.2.190:9432
-#EXTINF:-1 group-title="山西联通M",山西卫视
-http://60.223.72.28:8002/rtp/226.0.2.11:8000
-#EXTINF:-1 group-title="山西联通M",山西黄河
-http://60.223.72.28:8002/rtp/226.0.2.12:8008
-#EXTINF:-1 group-title="山西联通M",山西经济与科技
-http://60.223.72.28:8002/rtp/226.0.2.13:8016
-#EXTINF:-1 group-title="山西联通M",山西影视
-http://60.223.72.28:8002/rtp/226.0.2.14:8024
-#EXTINF:-1 group-title="山西联通M",山西社会与法治
-http://60.223.72.28:8002/rtp/226.0.2.15:8032
-#EXTINF:-1 group-title="山西联通M",朔州1
-http://60.223.72.28:8002/rtp/226.0.2.185:9392
-#EXTINF:-1 group-title="山西联通M",朔州2
-http://60.223.72.28:8002/rtp/226.0.2.186:9400
-#EXTINF:-1 group-title="山西联通M",孝义电视台
-http://60.223.72.28:8002/rtp/226.0.2.189:9424
-#EXTINF:-1 group-title="山西联通M",清徐
-http://60.223.72.28:8002/rtp/226.0.2.191:9440
-#EXTINF:-1 group-title="山西联通M",古交电视台
-http://60.223.72.28:8002/rtp/226.0.2.192:9448
-#EXTINF:-1 group-title="山西联通M",阳曲
-http://60.223.72.28:8002/rtp/226.0.2.196:9480
-#EXTINF:-1 group-title="山西联通M",太原1
-http://60.223.72.28:8002/rtp/226.0.2.201:9520
-#EXTINF:-1 group-title="山西联通M",太原2
-http://60.223.72.28:8002/rtp/226.0.2.202:9528
-#EXTINF:-1 group-title="山西联通M",太原3
-http://60.223.72.28:8002/rtp/226.0.2.203:9536
-#EXTINF:-1 group-title="山西联通M",太原4
-http://60.223.72.28:8002/rtp/226.0.2.204:9544
-#EXTINF:-1 group-title="山西联通M",太原5
-http://60.223.72.28:8002/rtp/226.0.2.205:9552
-#EXTINF:-1 group-title="山西联通M",太原教育
-http://60.223.72.28:8002/rtp/226.0.2.206:9560
-#EXTINF:-1 group-title="山西联通M",晋能控股
-http://60.223.72.28:8002/rtp/226.0.2.229:9744
-#EXTINF:-1 group-title="山西联通M",大同教育
-http://60.223.72.28:8002/rtp/226.0.2.232:9772
-#EXTINF:-1 group-title="山西联通M",阳泉1新闻综合
-http://60.223.72.28:8002/rtp/226.0.2.233:9776
-#EXTINF:-1 group-title="山西联通M",阳泉2科教
-http://60.223.72.28:8002/rtp/226.0.2.234:9784
-#EXTINF:-1 group-title="湖南电信M",CCTV1
-http://175.9.37.35:9999/udp/239.76.253.151:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV2
-http://175.9.37.35:9999/udp/239.76.246.152:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV3
-http://175.9.37.35:9999/udp/239.76.246.153:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV4
-http://175.9.37.35:9999/udp/239.76.245.195:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV5
-http://175.9.37.35:9999/udp/239.76.246.155:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV6
-http://175.9.37.35:9999/udp/239.76.246.156:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV7
-http://175.9.37.35:9999/udp/239.76.246.157:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV8
-http://175.9.37.35:9999/udp/239.76.246.158:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV9
-http://175.9.37.35:9999/udp/239.76.246.159:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV10
-http://175.9.37.35:9999/udp/239.76.246.160:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV11
-http://175.9.37.35:9999/udp/239.76.245.251:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV12
-http://175.9.37.35:9999/udp/239.76.253.162:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV13
-http://175.9.37.35:9999/udp/239.76.246.93:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV14
-http://175.9.37.35:9999/udp/239.76.246.164:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV15
-http://175.9.37.35:9999/udp/239.76.245.252:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV16
-http://175.9.37.35:9999/udp/239.76.246.98:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV17
-http://175.9.37.35:9999/udp/239.76.245.238:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV5+
-http://175.9.37.35:9999/udp/239.76.246.168:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV4K
-http://175.9.37.35:9999/udp/239.76.246.214:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV16-4K
-http://175.9.37.35:9999/udp/239.76.246.230:1234
-#EXTINF:-1 group-title="湖南电信M",CCTV电视指南
-http://175.9.37.35:9999/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV兵器科技
-http://175.9.37.35:9999/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV第一剧场
-http://175.9.37.35:9999/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV风云剧场
-http://175.9.37.35:9999/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV风云音乐
-http://175.9.37.35:9999/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV风云足球
-http://175.9.37.35:9999/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV怀旧剧场
-http://175.9.37.35:9999/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV女性时尚
-http://175.9.37.35:9999/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV世界地理
-http://175.9.37.35:9999/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV高尔夫网球
-http://175.9.37.35:9999/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV央视台球
-http://175.9.37.35:9999/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="湖南电信M",CCTV央视文化精品
-http://175.9.37.35:9999/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="湖南电信M",CGTN
-http://175.9.37.35:9999/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="湖南电信M",CGTN纪录
-http://175.9.37.35:9999/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="湖南电信M",CGTN阿拉伯语
-http://175.9.37.35:9999/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="湖南电信M",CGTN俄语
-http://175.9.37.35:9999/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="湖南电信M",CGTN法语
-http://175.9.37.35:9999/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="湖南电信M",CGTN西班牙语
-http://175.9.37.35:9999/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="湖南电信M",CHC动作电影
-http://175.9.37.35:9999/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="湖南电信M",CHC高清电影
-http://175.9.37.35:9999/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="湖南电信M",CHC家庭影院
-http://175.9.37.35:9999/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="湖南电信M",CETV1
-http://175.9.37.35:9999/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="湖南电信M",凤凰中文
-http://175.9.37.35:9999/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="湖南电信M",凤凰资讯
-http://175.9.37.35:9999/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="湖南电信M",IPTV4k电影
-http://175.9.37.35:9999/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="湖南电信M",IPTV4k
-http://175.9.37.35:9999/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV5
-http://175.9.37.35:9999/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="湖南电信M",IPTV电竞
-http://175.9.37.35:9999/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV高清院线
-http://175.9.37.35:9999/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV古装剧场
-http://175.9.37.35:9999/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV故事频道
-http://175.9.37.35:9999/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV广场舞
-http://175.9.37.35:9999/udp/239.76.252.134:9000
-#EXTINF:-1 group-title="湖南电信M",IPTV家庭剧场
-http://175.9.37.35:9999/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV健康之路
-http://175.9.37.35:9999/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV经典剧场
-http://175.9.37.35:9999/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV精选热播
-http://175.9.37.35:9999/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="湖南电信M",IPTV抗战剧场
-http://175.9.37.35:9999/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV芒果互娱
-http://175.9.37.35:9999/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV甜宠剧场
-http://175.9.37.35:9999/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="湖南电信M",IPTV戏曲频道
-http://175.9.37.35:9999/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV综艺纪实
-http://175.9.37.35:9999/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="湖南电信M",动漫秀场
-http://175.9.37.35:9999/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV健康电视
-http://175.9.37.35:9999/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="湖南电信M",IPTV金色夕阳
-http://175.9.37.35:9999/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="湖南电信M",梨园频道
-http://175.9.37.35:9999/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="湖南电信M",茶频道
-http://175.9.37.35:9999/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="湖南电信M",金鹰纪实
-http://175.9.37.35:9999/udp/239.76.245.122:1234
-#EXTINF:-1 group-title="湖南电信M",快乐垂钓
-http://175.9.37.35:9999/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="湖南电信M",芒果乐活
-http://175.9.37.35:9999/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="湖南电信M",芒果乐搜
-http://175.9.37.35:9999/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="湖南电信M",文物宝库
-http://175.9.37.35:9999/udp/239.76.252.180:9000
-#EXTINF:-1 group-title="湖南电信M",武术世界
-http://175.9.37.35:9999/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="湖南电信M",云南卫视
-http://175.9.37.35:9999/udp/239.76.254.60:9000
-#EXTINF:-1 group-title="湖南电信M",安徽卫视
-http://175.9.37.35:9999/udp/239.76.245.196:1234
-#EXTINF:-1 group-title="湖南电信M",北京卫视
-http://175.9.37.35:9999/udp/239.76.246.184:1234
-#EXTINF:-1 group-title="湖南电信M",东方卫视
-http://175.9.37.35:9999/udp/239.76.246.186:1234
-#EXTINF:-1 group-title="湖南电信M",东南卫视
-http://175.9.37.35:9999/udp/239.76.245.190:1234
-#EXTINF:-1 group-title="湖南电信M",甘肃卫视
-http://175.9.37.35:9999/udp/239.76.246.94:1234
-#EXTINF:-1 group-title="湖南电信M",广东卫视
-http://175.9.37.35:9999/udp/239.76.245.189:1234
-#EXTINF:-1 group-title="湖南电信M",广西卫视
-http://175.9.37.35:9999/udp/239.76.254.54:9000
-#EXTINF:-1 group-title="湖南电信M",贵州卫视
-http://175.9.37.35:9999/udp/239.76.245.198:1234
-#EXTINF:-1 group-title="湖南电信M",海南卫视
-http://175.9.37.35:9999/udp/239.76.253.203:9000
-#EXTINF:-1 group-title="湖南电信M",河北卫视
-http://175.9.37.35:9999/udp/239.76.245.199:1234
-#EXTINF:-1 group-title="湖南电信M",河南卫视
-http://175.9.37.35:9999/udp/239.76.246.202:1234
-#EXTINF:-1 group-title="湖南电信M",黑龙江卫视
-http://175.9.37.35:9999/udp/239.76.246.200:1234
-#EXTINF:-1 group-title="湖南电信M",湖北卫视
-http://175.9.37.35:9999/udp/239.76.246.193:1234
-#EXTINF:-1 group-title="湖南电信M",湖南卫视
-http://175.9.37.35:9999/udp/239.76.245.115:1234
-#EXTINF:-1 group-title="湖南电信M",吉林卫视
-http://175.9.37.35:9999/udp/239.76.246.201:1234
-#EXTINF:-1 group-title="湖南电信M",江苏卫视
-http://175.9.37.35:9999/udp/239.76.246.181:1234
-#EXTINF:-1 group-title="湖南电信M",江西卫视
-http://175.9.37.35:9999/udp/239.76.245.225:1234
-#EXTINF:-1 group-title="湖南电信M",辽宁卫视
-http://175.9.37.35:9999/udp/239.76.245.197:1234
-#EXTINF:-1 group-title="湖南电信M",青海卫视
-http://175.9.37.35:9999/udp/239.76.254.132:9000
-#EXTINF:-1 group-title="湖南电信M",山东卫视
-http://175.9.37.35:9999/udp/239.76.246.195:1234
-#EXTINF:-1 group-title="湖南电信M",陕西卫视
-http://175.9.37.35:9999/udp/239.76.254.76:9000
-#EXTINF:-1 group-title="湖南电信M",四川卫视
-http://175.9.37.35:9999/udp/239.76.246.91:1234
-#EXTINF:-1 group-title="湖南电信M",天津卫视
-http://175.9.37.35:9999/udp/239.76.246.185:1234
-#EXTINF:-1 group-title="湖南电信M",浙江卫视
-http://175.9.37.35:9999/udp/239.76.246.182:1234
-#EXTINF:-1 group-title="湖南电信M",重庆卫视
-http://175.9.37.35:9999/udp/239.76.246.92:1234
-#EXTINF:-1 group-title="湖南电信M",深圳卫视
-http://175.9.37.35:9999/udp/239.76.246.188:1234
-#EXTINF:-1 group-title="湖南电信M",湖南电视剧
-http://175.9.37.35:9999/udp/239.76.245.118:1234
-#EXTINF:-1 group-title="湖南电信M",湖南电影
-http://175.9.37.35:9999/udp/239.76.245.119:1234
-#EXTINF:-1 group-title="湖南电信M",湖南都市
-http://175.9.37.35:9999/udp/239.76.245.117:1234
-#EXTINF:-1 group-title="湖南电信M",湖南爱晚
-http://175.9.37.35:9999/udp/239.76.245.123:1234
-#EXTINF:-1 group-title="湖南电信M",湖南国际
-http://175.9.37.35:9999/udp/239.76.245.124:1234
-#EXTINF:-1 group-title="湖南电信M",湖南教育
-http://175.9.37.35:9999/udp/239.76.245.233:1234
-#EXTINF:-1 group-title="湖南电信M",湖南经视
-http://175.9.37.35:9999/udp/239.76.245.116:1234
-#EXTINF:-1 group-title="湖南电信M",湖南娱乐
-http://175.9.37.35:9999/udp/239.76.245.121:1234
-#EXTINF:-1 group-title="湖南电信M",长沙新闻
-http://175.9.37.35:9999/udp/239.76.246.121:1234
-#EXTINF:-1 group-title="湖南电信M",长沙政法
-http://175.9.37.35:9999/udp/239.76.246.122:1234
-#EXTINF:-1 group-title="湖南电信M",LDETV
-http://175.9.37.35:9999/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="湖南电信M",卡酷少儿
-http://175.9.37.35:9999/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="湖南电信M",金鹰卡通
-http://175.9.37.35:9999/udp/239.76.245.120:1234
+#EXTINF:-1 group-title="河北联通M",CCTV1
+http://121.29.84.62:5000/rtp/239.253.92.83:8012
+#EXTINF:-1 group-title="河北联通M",CCTV2
+http://121.29.84.62:5000/rtp/239.253.92.190:6065
+#EXTINF:-1 group-title="河北联通M",CCTV3
+http://121.29.84.62:5000/rtp/239.253.92.191:6057
+#EXTINF:-1 group-title="河北联通M",CCTV4
+http://121.29.84.62:5000/rtp/239.253.92.251:6141
+#EXTINF:-1 group-title="河北联通M",CCTV5
+http://121.29.84.62:5000/rtp/239.253.92.181:6046
+#EXTINF:-1 group-title="河北联通M",CCTV6
+http://121.29.84.62:5000/rtp/239.253.92.193:6058
+#EXTINF:-1 group-title="河北联通M",CCTV7
+http://121.29.84.62:5000/rtp/239.253.92.194:6059
+#EXTINF:-1 group-title="河北联通M",CCTV8
+http://121.29.84.62:5000/rtp/239.253.92.195:6060
+#EXTINF:-1 group-title="河北联通M",CCTV9
+http://121.29.84.62:5000/rtp/239.253.92.107:6020
+#EXTINF:-1 group-title="河北联通M",CCTV10
+http://121.29.84.62:5000/rtp/239.253.92.196:6061
+#EXTINF:-1 group-title="河北联通M",CCTV11
+http://121.29.84.62:5000/rtp/239.253.93.153:6321
+#EXTINF:-1 group-title="河北联通M",CCTV12
+http://121.29.84.62:5000/rtp/239.253.92.197:6062
+#EXTINF:-1 group-title="河北联通M",CCTV13
+http://121.29.84.62:5000/rtp/239.253.92.13:8008
+#EXTINF:-1 group-title="河北联通M",CCTV14
+http://121.29.84.62:5000/rtp/239.253.92.198:6063
+#EXTINF:-1 group-title="河北联通M",CCTV15
+http://121.29.84.62:5000/rtp/239.253.93.154:6322
+#EXTINF:-1 group-title="河北联通M",CCTV17
+http://121.29.84.62:5000/rtp/239.253.93.150:6318
+#EXTINF:-1 group-title="河北联通M",CCTV5+
+http://121.29.84.62:5000/rtp/239.253.92.82:8013
+#EXTINF:-1 group-title="河北联通M",CGTN国际
+http://121.29.84.62:5000/rtp/239.253.92.15:8011
+#EXTINF:-1 group-title="河北联通M",河北卫视
+http://121.29.84.62:5000/rtp/239.253.92.154:6011
+#EXTINF:-1 group-title="河北联通M",河北经济生活
+http://121.29.84.62:5000/rtp/239.253.92.171:6001
+#EXTINF:-1 group-title="河北联通M",河北都市
+http://121.29.84.62:5000/rtp/239.253.92.172:6002
+#EXTINF:-1 group-title="河北联通M",河北影视剧
+http://121.29.84.62:5000/rtp/239.253.92.173:6003
+#EXTINF:-1 group-title="河北联通M",河北少儿科教
+http://121.29.84.62:5000/rtp/239.253.92.174:6004
+#EXTINF:-1 group-title="河北联通M",河北公共
+http://121.29.84.62:5000/rtp/239.253.92.175:6005
+#EXTINF:-1 group-title="河北联通M",河北农民
+http://121.29.84.62:5000/rtp/239.253.92.176:6006
+#EXTINF:-1 group-title="河北联通M",睛彩河北
+http://121.29.84.62:5000/rtp/239.253.92.104:6221
+#EXTINF:-1 group-title="河北联通M",石家庄新闻综合
+http://121.29.84.62:5000/rtp/239.253.92.149:6035
+#EXTINF:-1 group-title="河北联通M",石家庄娱乐
+http://121.29.84.62:5000/rtp/239.253.92.93:8120
+#EXTINF:-1 group-title="河北联通M",石家庄生活
+http://121.29.84.62:5000/rtp/239.253.92.94:8121
+#EXTINF:-1 group-title="河北联通M",石家庄都市
+http://121.29.84.62:5000/rtp/239.253.92.95:8122
+#EXTINF:-1 group-title="河北联通M",湖南卫视
+http://121.29.84.62:5000/rtp/239.253.92.84:8015
+#EXTINF:-1 group-title="河北联通M",浙江卫视
+http://121.29.84.62:5000/rtp/239.253.92.90:8020
+#EXTINF:-1 group-title="河北联通M",江苏卫视
+http://121.29.84.62:5000/rtp/239.253.92.88:8018
+#EXTINF:-1 group-title="河北联通M",北京卫视
+http://121.29.84.62:5000/rtp/239.253.92.87:8014
+#EXTINF:-1 group-title="河北联通M",东南卫视
+http://121.29.84.62:5000/rtp/239.253.92.201:6146
+#EXTINF:-1 group-title="河北联通M",东方卫视
+http://121.29.84.62:5000/rtp/239.253.92.89:8019
+#EXTINF:-1 group-title="河北联通M",天津卫视
+http://121.29.84.62:5000/rtp/239.253.92.91:8021
+#EXTINF:-1 group-title="河北联通M",深圳卫视
+http://121.29.84.62:5000/rtp/239.253.92.86:8017
+#EXTINF:-1 group-title="河北联通M",山东卫视
+http://121.29.84.62:5000/rtp/239.253.92.207:8109
+#EXTINF:-1 group-title="河北联通M",广东卫视
+http://121.29.84.62:5000/rtp/239.253.92.206:8108
+#EXTINF:-1 group-title="河北联通M",黑龙江卫视
+http://121.29.84.62:5000/rtp/239.253.92.85:8016
+#EXTINF:-1 group-title="河北联通M",辽宁卫视
+http://121.29.84.62:5000/rtp/239.253.92.115:6056
+#EXTINF:-1 group-title="河北联通M",安徽卫视
+http://121.29.84.62:5000/rtp/239.253.92.209:6566
+#EXTINF:-1 group-title="河北联通M",湖北卫视
+http://121.29.84.62:5000/rtp/239.253.92.210:6567
+#EXTINF:-1 group-title="河北联通M",四川卫视
+http://121.29.84.62:5000/rtp/239.253.92.16:6043
+#EXTINF:-1 group-title="河北联通M",重庆卫视
+http://121.29.84.62:5000/rtp/239.253.92.10:6053
+#EXTINF:-1 group-title="河北联通M",河南卫视
+http://121.29.84.62:5000/rtp/239.253.92.137:6144
+#EXTINF:-1 group-title="河北联通M",金鹰纪实
+http://121.29.84.62:5000/rtp/239.253.92.103:6054
+#EXTINF:-1 group-title="河北联通M",广西卫视
+http://121.29.84.62:5000/rtp/239.253.92.76:8043
+#EXTINF:-1 group-title="河北联通M",贵州卫视
+http://121.29.84.62:5000/rtp/239.253.92.105:6055
+#EXTINF:-1 group-title="河北联通M",江西卫视
+http://121.29.84.62:5000/rtp/239.253.92.19:6145
+#EXTINF:-1 group-title="河北联通M",吉林卫视
+http://121.29.84.62:5000/rtp/239.253.92.202:6147
+#EXTINF:-1 group-title="河北联通M",海南卫视
+http://121.29.84.62:5000/rtp/239.253.93.155:6323
+#EXTINF:-1 group-title="河北联通M",北京纪实科教
+http://121.29.84.62:5000/rtp/239.253.93.190:6358
+#EXTINF:-1 group-title="河北联通M",承德新闻综合
+http://121.29.84.62:5000/rtp/239.253.92.222:8112
+#EXTINF:-1 group-title="河北联通M",承德公共
+http://121.29.84.62:5000/rtp/239.253.92.223:8113
+#EXTINF:-1 group-title="河北联通M",张家口新闻综合
+http://121.29.84.62:5000/rtp/239.253.92.225:8115
+#EXTINF:-1 group-title="河北联通M",张家口公共
+http://121.29.84.62:5000/rtp/239.253.92.226:8116
+#EXTINF:-1 group-title="河北联通M",秦皇岛新闻综合
+http://121.29.84.62:5000/rtp/239.253.92.52:6021
+#EXTINF:-1 group-title="河北联通M",秦皇岛公共
+http://121.29.84.62:5000/rtp/239.253.92.53:6022
+#EXTINF:-1 group-title="河北联通M",秦皇岛影视
+http://121.29.84.62:5000/rtp/239.253.92.54:6023
+#EXTINF:-1 group-title="河北联通M",唐山新闻综合
+http://121.29.84.62:5000/rtp/239.253.92.245:6089
+#EXTINF:-1 group-title="河北联通M",唐山生活服务
+http://121.29.84.62:5000/rtp/239.253.92.126:6026
+#EXTINF:-1 group-title="河北联通M",唐山影视
+http://121.29.84.62:5000/rtp/239.253.92.127:6027
+#EXTINF:-1 group-title="河北联通M",唐山公共
+http://121.29.84.62:5000/rtp/239.253.92.128:6028
+#EXTINF:-1 group-title="河北联通M",廊坊新闻
+http://121.29.84.62:5000/rtp/239.253.92.164:6036
+#EXTINF:-1 group-title="河北联通M",廊坊公共
+http://121.29.84.62:5000/rtp/239.253.92.166:6037
+#EXTINF:-1 group-title="河北联通M",沧州新闻综合
+http://121.29.84.62:5000/rtp/239.253.92.121:6015
+#EXTINF:-1 group-title="河北联通M",沧州公共
+http://121.29.84.62:5000/rtp/239.253.92.122:6016
+#EXTINF:-1 group-title="河北联通M",沧州影视娱乐
+http://121.29.84.62:5000/rtp/239.253.92.123:6017
+#EXTINF:-1 group-title="河北联通M",保定新闻综合
+http://121.29.84.62:5000/rtp/239.253.93.2:6153
+#EXTINF:-1 group-title="河北联通M",保定公共
+http://121.29.84.62:5000/rtp/239.253.93.4:6157
+#EXTINF:-1 group-title="河北联通M",保定生活健康
+http://121.29.84.62:5000/rtp/239.253.93.5:6158
+#EXTINF:-1 group-title="河北联通M",衡水新闻综合
+http://121.29.84.62:5000/rtp/239.253.93.3:6154
+#EXTINF:-1 group-title="河北联通M",衡水公共
+http://121.29.84.62:5000/rtp/239.253.93.7:6160
+#EXTINF:-1 group-title="河北联通M",邢台综合
+http://121.29.84.62:5000/rtp/239.253.93.8:6161
+#EXTINF:-1 group-title="河北联通M",邢台城市生活
+http://121.29.84.62:5000/rtp/239.253.93.10:6163
+#EXTINF:-1 group-title="河北联通M",邯郸新闻综合
+http://121.29.84.62:5000/rtp/239.253.93.11:6164
+#EXTINF:-1 group-title="河北联通M",邯郸公共
+http://121.29.84.62:5000/rtp/239.253.93.12:6165
+#EXTINF:-1 group-title="河北联通M",邯郸科技教育
+http://121.29.84.62:5000/rtp/239.253.93.13:6166
+#EXTINF:-1 group-title="河北联通M",元氏电视
+http://121.29.84.62:5000/rtp/239.253.92.142:6040
+#EXTINF:-1 group-title="河北联通M",无极电视
+http://121.29.84.62:5000/rtp/239.253.92.138:6222
+#EXTINF:-1 group-title="河北联通M",高邑电视
+http://121.29.84.62:5000/rtp/239.253.92.160:6041
+#EXTINF:-1 group-title="河北联通M",栾城电视
+http://121.29.84.62:5000/rtp/239.253.92.187:6051
+#EXTINF:-1 group-title="河北联通M",井陉矿区电视
+http://121.29.84.62:5000/rtp/239.253.92.215:6067
+#EXTINF:-1 group-title="河北联通M",赞皇电视
+http://121.29.84.62:5000/rtp/239.253.92.12:6042
+#EXTINF:-1 group-title="河北联通M",深泽电视
+http://121.29.84.62:5000/rtp/239.253.94.31:6630
+#EXTINF:-1 group-title="河北联通M",赵县电视
+http://121.29.84.62:5000/rtp/239.253.93.140:6308
+#EXTINF:-1 group-title="河北联通M",晋州电视
+http://121.29.84.62:5000/rtp/239.253.93.156:6324
+#EXTINF:-1 group-title="河北联通M",井陉电视
+http://121.29.84.62:5000/rtp/239.253.93.205:6383
+#EXTINF:-1 group-title="河北联通M",平泉电视
+http://121.29.84.62:5000/rtp/239.253.92.156:6012
+#EXTINF:-1 group-title="河北联通M",滦平电视
+http://121.29.84.62:5000/rtp/239.253.92.100:6142
+#EXTINF:-1 group-title="河北联通M",双滦电视
+http://121.29.84.62:5000/rtp/239.253.92.147:6224
+#EXTINF:-1 group-title="河北联通M",兴隆电视
+http://121.29.84.62:5000/rtp/239.253.93.104:6271
+#EXTINF:-1 group-title="河北联通M",隆化电视
+http://121.29.84.62:5000/rtp/239.253.93.174:6342
+#EXTINF:-1 group-title="河北联通M",承德电视
+http://121.29.84.62:5000/rtp/239.253.94.28:6627
+#EXTINF:-1 group-title="河北联通M",宽城新闻
+http://121.29.84.62:5000/rtp/239.253.93.117:6019
+#EXTINF:-1 group-title="河北联通M",任县电视
+http://121.29.84.62:5000/rtp/239.253.93.145:6313
+#EXTINF:-1 group-title="河北联通M",邯山电视
+http://121.29.84.62:5000/rtp/239.253.93.146:6314
+#EXTINF:-1 group-title="河北联通M",崇礼电视
+http://121.29.84.62:5000/rtp/239.253.93.147:6315
+#EXTINF:-1 group-title="河北联通M",顺平电视
+http://121.29.84.62:5000/rtp/239.253.93.148:6316
+#EXTINF:-1 group-title="河北联通M",张北电视
+http://121.29.84.62:5000/rtp/239.253.93.159:6327
+#EXTINF:-1 group-title="河北联通M",尚义电视
+http://121.29.84.62:5000/rtp/239.253.93.163:6331
+#EXTINF:-1 group-title="河北联通M",邱县电视
+http://121.29.84.62:5000/rtp/239.253.93.158:6326
+#EXTINF:-1 group-title="河北联通M",赤城电视
+http://121.29.84.62:5000/rtp/239.253.93.160:6328
+#EXTINF:-1 group-title="河北联通M",康保电视
+http://121.29.84.62:5000/rtp/239.253.93.165:6333
+#EXTINF:-1 group-title="河北联通M",遵化电视
+http://121.29.84.62:5000/rtp/239.253.93.177:6345
+#EXTINF:-1 group-title="河北联通M",昌黎电视
+http://121.29.84.62:5000/rtp/239.253.92.109:6217
+#EXTINF:-1 group-title="河北联通M",抚宁电视
+http://121.29.84.62:5000/rtp/239.253.93.201:6379
+#EXTINF:-1 group-title="河北联通M",卢龙电视
+http://121.29.84.62:5000/rtp/239.253.93.206:6384
+#EXTINF:-1 group-title="河北联通M",丰南电视
+http://121.29.84.62:5000/rtp/239.253.92.231:6070
+#EXTINF:-1 group-title="河北联通M",迁西电视
+http://121.29.84.62:5000/rtp/239.253.92.247:6091
+#EXTINF:-1 group-title="河北联通M",滦南电视
+http://121.29.84.62:5000/rtp/239.253.92.218:6100
+#EXTINF:-1 group-title="河北联通M",玉田电视
+http://121.29.84.62:5000/rtp/239.253.92.118:6133
+#EXTINF:-1 group-title="河北联通M",滦州电视
+http://121.29.84.62:5000/rtp/239.253.92.97:6138
+#EXTINF:-1 group-title="河北联通M",香河电视
+http://121.29.84.62:5000/rtp/239.253.92.185:6049
+#EXTINF:-1 group-title="河北联通M",大城电视
+http://121.29.84.62:5000/rtp/239.253.92.230:6068
+#EXTINF:-1 group-title="河北联通M",大厂电视
+http://121.29.84.62:5000/rtp/239.253.92.253:6244
+#EXTINF:-1 group-title="河北联通M",固安电视
+http://121.29.84.62:5000/rtp/239.253.93.109:6276
+#EXTINF:-1 group-title="河北联通M",文安电视
+http://121.29.84.62:5000/rtp/239.253.93.111:6278
+#EXTINF:-1 group-title="河北联通M",三河电视
+http://121.29.84.62:5000/rtp/239.253.93.143:6311
+#EXTINF:-1 group-title="河北联通M",永清电视
+http://121.29.84.62:5000/rtp/239.253.93.172:6340
+#EXTINF:-1 group-title="河北联通M",成安电视
+http://121.29.84.62:5000/rtp/239.253.93.178:6346
+#EXTINF:-1 group-title="河北联通M",魏县电视
+http://121.29.84.62:5000/rtp/239.253.93.185:6353
+#EXTINF:-1 group-title="河北联通M",霸州综合
+http://121.29.84.62:5000/rtp/239.253.93.209:6387
+#EXTINF:-1 group-title="河北联通M",黄骅电视
+http://121.29.84.62:5000/rtp/239.253.92.183:6047
+#EXTINF:-1 group-title="河北联通M",东光电视
+http://121.29.84.62:5000/rtp/239.253.93.96:6262
+#EXTINF:-1 group-title="河北联通M",青县电视
+http://121.29.84.62:5000/rtp/239.253.93.139:6307
+#EXTINF:-1 group-title="河北联通M",盐山电视
+http://121.29.84.62:5000/rtp/239.253.93.144:6312
+#EXTINF:-1 group-title="河北联通M",南皮电视
+http://121.29.84.62:5000/rtp/239.253.93.149:6317
+#EXTINF:-1 group-title="河北联通M",肃宁电视
+http://121.29.84.62:5000/rtp/239.253.93.152:6320
+#EXTINF:-1 group-title="河北联通M",吴桥电视
+http://121.29.84.62:5000/rtp/239.253.93.169:6337
+#EXTINF:-1 group-title="河北联通M",丰宁综合
+http://121.29.84.62:5000/rtp/239.253.93.210:6388
+#EXTINF:-1 group-title="河北联通M",定兴电视
+http://121.29.84.62:5000/rtp/239.253.93.14:6167
+#EXTINF:-1 group-title="河北联通M",阜平电视
+http://121.29.84.62:5000/rtp/239.253.93.16:6169
+#EXTINF:-1 group-title="河北联通M",涞水电视
+http://121.29.84.62:5000/rtp/239.253.93.17:6170
+#EXTINF:-1 group-title="河北联通M",满城电视
+http://121.29.84.62:5000/rtp/239.253.93.19:6172
+#EXTINF:-1 group-title="河北联通M",涞源电视
+http://121.29.84.62:5000/rtp/239.253.93.22:6175
+#EXTINF:-1 group-title="河北联通M",高碑店电视
+http://121.29.84.62:5000/rtp/239.253.93.23:6176
+#EXTINF:-1 group-title="河北联通M",清苑电视
+http://121.29.84.62:5000/rtp/239.253.93.24:6177
+#EXTINF:-1 group-title="河北联通M",涿州电视
+http://121.29.84.62:5000/rtp/239.253.93.27:6180
+#EXTINF:-1 group-title="河北联通M",唐县电视
+http://121.29.84.62:5000/rtp/239.253.93.30:6183
+#EXTINF:-1 group-title="河北联通M",曲阳电视
+http://121.29.84.62:5000/rtp/239.253.93.31:6184
+#EXTINF:-1 group-title="河北联通M",望都电视
+http://121.29.84.62:5000/rtp/239.253.93.32:6185
+#EXTINF:-1 group-title="河北联通M",定州电视
+http://121.29.84.62:5000/rtp/239.253.93.95:6260
+#EXTINF:-1 group-title="河北联通M",高阳电视
+http://121.29.84.62:5000/rtp/239.253.93.105:6272
+#EXTINF:-1 group-title="河北联通M",安新电视
+http://121.29.84.62:5000/rtp/239.253.93.107:6274
+#EXTINF:-1 group-title="河北联通M",容城电视
+http://121.29.84.62:5000/rtp/239.253.93.110:6277
+#EXTINF:-1 group-title="河北联通M",临城电视
+http://121.29.84.62:5000/rtp/239.253.93.167:6335
+#EXTINF:-1 group-title="河北联通M",柏乡电视
+http://121.29.84.62:5000/rtp/239.253.93.171:6339
+#EXTINF:-1 group-title="河北联通M",涿鹿电视
+http://121.29.84.62:5000/rtp/239.253.93.181:6349
+#EXTINF:-1 group-title="河北联通M",徐水电视
+http://121.29.84.62:5000/rtp/239.253.93.182:6350
+#EXTINF:-1 group-title="河北联通M",大名电视
+http://121.29.84.62:5000/rtp/239.253.93.186:6354
+#EXTINF:-1 group-title="河北联通M",巨鹿电视
+http://121.29.84.62:5000/rtp/239.253.92.254:6449
+#EXTINF:-1 group-title="河北联通M",临西电视
+http://121.29.84.62:5000/rtp/239.253.94.29:6628
+#EXTINF:-1 group-title="河北联通M",冀州电视
+http://121.29.84.62:5000/rtp/239.253.93.34:6187
+#EXTINF:-1 group-title="河北联通M",安平电视
+http://121.29.84.62:5000/rtp/239.253.93.36:6189
+#EXTINF:-1 group-title="河北联通M",景县电视
+http://121.29.84.62:5000/rtp/239.253.93.38:6191
+#EXTINF:-1 group-title="河北联通M",饶阳电视
+http://121.29.84.62:5000/rtp/239.253.93.40:6193
+#EXTINF:-1 group-title="河北联通M",深州电视
+http://121.29.84.62:5000/rtp/239.253.93.42:6195
+#EXTINF:-1 group-title="河北联通M",武强电视
+http://121.29.84.62:5000/rtp/239.253.93.79:6245
+#EXTINF:-1 group-title="河北联通M",阜城电视
+http://121.29.84.62:5000/rtp/239.253.93.168:6336
+#EXTINF:-1 group-title="河北联通M",故城电视
+http://121.29.84.62:5000/rtp/239.253.93.161:6329
+#EXTINF:-1 group-title="河北联通M",枣强电视
+http://121.29.84.62:5000/rtp/239.253.93.166:6334
+#EXTINF:-1 group-title="河北联通M",清河电视
+http://121.29.84.62:5000/rtp/239.253.93.44:6197
+#EXTINF:-1 group-title="河北联通M",广宗电视
+http://121.29.84.62:5000/rtp/239.253.93.50:6203
+#EXTINF:-1 group-title="河北联通M",武安电视
+http://121.29.84.62:5000/rtp/239.253.93.62:6215
+#EXTINF:-1 group-title="河北联通M",宁晋电视
+http://121.29.84.62:5000/rtp/239.253.93.51:6204
+#EXTINF:-1 group-title="河北联通M",平乡电视
+http://121.29.84.62:5000/rtp/239.253.93.53:6206
+#EXTINF:-1 group-title="河北联通M",鸡泽电视
+http://121.29.84.62:5000/rtp/239.253.93.64:6219
+#EXTINF:-1 group-title="河北联通M",隆尧电视
+http://121.29.84.62:5000/rtp/239.253.93.65:6230
+#EXTINF:-1 group-title="河北联通M",广平电视
+http://121.29.84.62:5000/rtp/239.253.93.66:6231
+#EXTINF:-1 group-title="河北联通M",南和电视
+http://121.29.84.62:5000/rtp/239.253.93.80:6246
+#EXTINF:-1 group-title="河北联通M",临漳电视
+http://121.29.84.62:5000/rtp/239.253.93.84:6250
+#EXTINF:-1 group-title="河北联通M",内丘电视
+http://121.29.84.62:5000/rtp/239.253.93.102:6268
+#EXTINF:-1 group-title="河北联通M",涉县电视
+http://121.29.84.62:5000/rtp/239.253.93.106:6273
+#EXTINF:-1 group-title="河北联通M",迁安电视
+http://121.29.84.62:5000/rtp/239.253.93.113:6280
+#EXTINF:-1 group-title="河北联通M",馆陶电视
+http://121.29.84.62:5000/rtp/239.253.93.115:6282
+#EXTINF:-1 group-title="河北联通M",乐亭电视
+http://121.29.84.62:5000/rtp/239.253.93.250:6290
+#EXTINF:-1 group-title="河北联通M",沙河电视
+http://121.29.84.62:5000/rtp/239.253.93.179:6347
+#EXTINF:-1 group-title="河北联通M",曲周电视
+http://121.29.84.62:5000/rtp/239.253.93.54:6207
+#EXTINF:-1 group-title="河北联通M",南宫电视
+http://121.29.84.62:5000/rtp/239.253.93.48:6201
+#EXTINF:-1 group-title="河北联通M",丰润电视
+http://121.29.84.62:5000/rtp/239.253.92.252:6156
+#EXTINF:-1 group-title="河北联通M",纪实人文
+http://121.29.84.62:5000/rtp/239.253.92.99:6013
+#EXTINF:-1 group-title="河北联通M",CETV1
+http://121.29.84.62:5000/rtp/239.253.92.211:6069
+#EXTINF:-1 group-title="河北联通M",中国交通
+http://121.29.84.62:5000/rtp/239.253.93.189:6357
+#EXTINF:-1 group-title="河北联通M",kaku少儿
+http://121.29.84.62:5000/rtp/239.253.92.162:8054
+#EXTINF:-1 group-title="河北联通M",金鹰卡通
+http://121.29.84.62:5000/rtp/239.253.92.163:8055
+#EXTINF:-1 group-title="河北联通M",嘉佳卡通
+http://121.29.84.62:5000/rtp/239.253.93.203:6381
+#EXTINF:-1 group-title="河北联通M",优漫卡通
+http://121.29.84.62:5000/rtp/239.253.93.204:6382
+#EXTINF:-1 group-title="河北联通M",山东教育
+http://121.29.84.62:5000/rtp/239.253.92.106:6135
+#EXTINF:-1 group-title="河北联通M",兵团卫视
+http://121.29.84.62:5000/rtp/239.253.93.176:6344
+#EXTINF:-1 group-title="河北联通M",百姓健康
+http://121.29.84.62:5000/rtp/239.253.92.199:6568
+#EXTINF:-1 group-title="河北联通M",证券服务
+http://121.29.84.62:5000/rtp/239.253.92.124:6569
+#EXTINF:-1 group-title="河北联通M",电视指南
+http://121.29.84.62:5000/rtp/239.253.92.17:6078
+#EXTINF:-1 group-title="河北联通M",第一剧场
+http://121.29.84.62:5000/rtp/239.253.92.18:6079
+#EXTINF:-1 group-title="河北联通M",风云剧场
+http://121.29.84.62:5000/rtp/239.253.92.22:6073
+#EXTINF:-1 group-title="河北联通M",怀旧剧场
+http://121.29.84.62:5000/rtp/239.253.92.98:6120
+#EXTINF:-1 group-title="河北联通M",风云音乐
+http://121.29.84.62:5000/rtp/239.253.92.111:8060
+#EXTINF:-1 group-title="河北联通M",风云足球
+http://121.29.84.62:5000/rtp/239.253.92.110:8061
+#EXTINF:-1 group-title="河北联通M",高尔夫网球
+http://121.29.84.62:5000/rtp/239.253.92.117:8062
+#EXTINF:-1 group-title="河北联通M",武术世界
+http://121.29.84.62:5000/rtp/239.253.92.141:8064
+#EXTINF:-1 group-title="河北联通M",兵器科技
+http://121.29.84.62:5000/rtp/239.253.92.119:8065
+#EXTINF:-1 group-title="河北联通M",世界地理
+http://121.29.84.62:5000/rtp/239.253.92.113:8066
+#EXTINF:-1 group-title="河北联通M",老故事
+http://121.29.84.62:5000/rtp/239.253.92.132:8068
+#EXTINF:-1 group-title="河北联通M",环球奇观
+http://121.29.84.62:5000/rtp/239.253.92.130:8069
+#EXTINF:-1 group-title="河北联通M",文物宝库
+http://121.29.84.62:5000/rtp/239.253.92.159:8070
+#EXTINF:-1 group-title="河北联通M",国学
+http://121.29.84.62:5000/rtp/239.253.92.158:8071
+#EXTINF:-1 group-title="河北联通M",女性时尚
+http://121.29.84.62:5000/rtp/239.253.92.249:6103
+#EXTINF:-1 group-title="河北联通M",文化精品
+http://121.29.84.62:5000/rtp/239.253.92.25:6104
+#EXTINF:-1 group-title="河北联通M",早期教育
+http://121.29.84.62:5000/rtp/239.253.92.39:6107
+#EXTINF:-1 group-title="河北联通M",梨园
+http://121.29.84.62:5000/rtp/239.253.92.152:8086
+#EXTINF:-1 group-title="河北联通M",汽摩
+http://121.29.84.62:5000/rtp/239.253.92.46:6110
+#EXTINF:-1 group-title="河北联通M",CETV2
+http://121.29.84.62:5000/rtp/239.253.92.108:6136
+#EXTINF:-1 group-title="河北联通M",CETV4
+http://121.29.84.62:5000/rtp/239.253.92.200:6137
+#EXTINF:-1 group-title="河北联通M",中学生
+http://121.29.84.62:5000/rtp/239.253.92.27:6106
+#EXTINF:-1 group-title="河北联通M",快乐垂钓
+http://121.29.84.62:5000/rtp/239.253.93.213:6391
+#EXTINF:-1 group-title="河北联通M",新动漫
+http://121.29.84.62:5000/rtp/239.253.93.217:6395
+#EXTINF:-1 group-title="河北联通M",先锋乒羽
+http://121.29.84.62:5000/rtp/239.253.93.219:6397
+#EXTINF:-1 group-title="河北联通M",发现之旅
+http://121.29.84.62:5000/rtp/239.253.94.30:6629
+#EXTINF:-1 group-title="河北联通M",环球旅游
+http://121.29.84.62:5000/rtp/239.253.93.220:6398
+#EXTINF:-1 group-title="河北联通M",车迷
+http://121.29.84.62:5000/rtp/239.253.93.221:6399
+#EXTINF:-1 group-title="河北联通M",游戏风云
+http://121.29.84.62:5000/rtp/239.253.93.222:6400
+#EXTINF:-1 group-title="河北联通M",欢笑剧场4K
+http://121.29.84.62:5000/rtp/239.253.93.223:6401
+#EXTINF:-1 group-title="河北联通M",乐游
+http://121.29.84.62:5000/rtp/239.253.93.224:6402
+#EXTINF:-1 group-title="河北联通M",动漫秀场
+http://121.29.84.62:5000/rtp/239.253.93.225:6403
+#EXTINF:-1 group-title="河北联通M",生活时尚
+http://121.29.84.62:5000/rtp/239.253.93.226:6404
+#EXTINF:-1 group-title="河北联通M",都市剧场
+http://121.29.84.62:5000/rtp/239.253.93.227:6405
+#EXTINF:-1 group-title="河北联通M",茶
+http://121.29.84.62:5000/rtp/239.253.93.212:6390
+#EXTINF:-1 group-title="河北联通M",天元围棋
+http://121.29.84.62:5000/rtp/239.253.93.211:6389
+#EXTINF:-1 group-title="河北联通M",书画
+http://121.29.84.62:5000/rtp/239.253.93.214:6392
+#EXTINF:-1 group-title="河北联通M",摄影
+http://121.29.84.62:5000/rtp/239.253.93.215:6393
+#EXTINF:-1 group-title="河北联通M",央视台球
+http://121.29.84.62:5000/rtp/239.253.93.231:6409
+#EXTINF:-1 group-title="河北联通M",求索纪录
+http://121.29.84.62:5000/rtp/239.253.93.236:6414
+#EXTINF:-1 group-title="河北联通M",东方财经
+http://121.29.84.62:5000/rtp/239.253.93.239:6417
+#EXTINF:-1 group-title="河北联通M",金色学堂
+http://121.29.84.62:5000/rtp/239.253.93.240:6418
+#EXTINF:-1 group-title="河北联通M",法治天地
+http://121.29.84.62:5000/rtp/239.253.93.241:6419
+#EXTINF:-1 group-title="河北联通M",中华特产
+http://121.29.84.62:5000/rtp/239.253.93.242:6420
+#EXTINF:-1 group-title="河北联通M",四海钓鱼
+http://121.29.84.62:5000/rtp/239.253.93.243:6421
+#EXTINF:-1 group-title="河北联通M",优优宝贝
+http://121.29.84.62:5000/rtp/239.253.93.244:6422
+#EXTINF:-1 group-title="河北联通M",生态环境
+http://121.29.84.62:5000/rtp/239.253.93.245:6423
+#EXTINF:-1 group-title="河北联通M",家庭理财
+http://121.29.84.62:5000/rtp/239.253.93.246:6424
+#EXTINF:-1 group-title="河北联通M",财富天下
+http://121.29.84.62:5000/rtp/239.253.93.247:6425
+#EXTINF:-1 group-title="河北联通M",中华美食
+http://121.29.84.62:5000/rtp/239.253.93.248:6426
+#EXTINF:-1 group-title="河北联通M",电视指南
+http://121.29.84.62:5000/rtp/239.253.93.249:6427
+#EXTINF:-1 group-title="河北联通M",第一剧场
+http://121.29.84.62:5000/rtp/239.253.93.138:6428
+#EXTINF:-1 group-title="河北联通M",风云剧场
+http://121.29.84.62:5000/rtp/239.253.93.251:6429
+#EXTINF:-1 group-title="河北联通M",怀旧剧场
+http://121.29.84.62:5000/rtp/239.253.93.252:6430
+#EXTINF:-1 group-title="河北联通M",风云音乐
+http://121.29.84.62:5000/rtp/239.253.93.253:6431
+#EXTINF:-1 group-title="河北联通M",风云足球
+http://121.29.84.62:5000/rtp/239.253.93.254:6432
+#EXTINF:-1 group-title="河北联通M",高尔夫网球
+http://121.29.84.62:5000/rtp/239.253.93.122:6465
+#EXTINF:-1 group-title="河北联通M",武术世界
+http://121.29.84.62:5000/rtp/239.253.93.46:6434
+#EXTINF:-1 group-title="河北联通M",兵器科技
+http://121.29.84.62:5000/rtp/239.253.93.47:6435
+#EXTINF:-1 group-title="河北联通M",世界地理
+http://121.29.84.62:5000/rtp/239.253.92.131:6113
+#EXTINF:-1 group-title="河北联通M",文物宝库
+http://121.29.84.62:5000/rtp/239.253.93.180:6437
+#EXTINF:-1 group-title="河北联通M",女性时尚
+http://121.29.84.62:5000/rtp/239.253.92.144:6114
+#EXTINF:-1 group-title="河北联通M",文化精品
+http://121.29.84.62:5000/rtp/239.253.93.175:6439
+#EXTINF:-1 group-title="河北联通M",早期教育
+http://121.29.84.62:5000/rtp/239.253.93.164:6440
+#EXTINF:-1 group-title="河北联通M",梨园
+http://121.29.84.62:5000/rtp/239.253.93.133:6441
+#EXTINF:-1 group-title="河北联通M",CCTV4K
+http://121.29.84.62:5000/rtp/239.253.93.134:6631
+#EXTINF:-1 group-title="河北联通M",CCTV4欧洲
+http://121.29.84.62:5000/rtp/239.253.93.192:6370
+#EXTINF:-1 group-title="河北联通M",CCTV4美洲
+http://121.29.84.62:5000/rtp/239.253.93.193:6371
+#EXTINF:-1 group-title="河北联通M",CGTN英文记录
+http://121.29.84.62:5000/rtp/239.253.93.195:6373
+#EXTINF:-1 group-title="河北联通M",CGTN西班牙语
+http://121.29.84.62:5000/rtp/239.253.93.196:6374
+#EXTINF:-1 group-title="河北联通M",CGTN法语
+http://121.29.84.62:5000/rtp/239.253.93.197:6375
+#EXTINF:-1 group-title="河北联通M",CGTN阿拉伯语
+http://121.29.84.62:5000/rtp/239.253.93.198:6376
+#EXTINF:-1 group-title="河北联通M",CGTN俄语
+http://121.29.84.62:5000/rtp/239.253.93.199:6377
+#EXTINF:-1 group-title="河北联通M",慢直播1
+http://121.29.84.62:5000/rtp/239.253.94.1:6600
+#EXTINF:-1 group-title="河北联通M",慢直播2
+http://121.29.84.62:5000/rtp/239.253.94.2:6601
+#EXTINF:-1 group-title="河北联通M",慢直播3
+http://121.29.84.62:5000/rtp/239.253.94.3:6602
+#EXTINF:-1 group-title="河北联通M",慢直播4
+http://121.29.84.62:5000/rtp/239.253.94.4:6603
+#EXTINF:-1 group-title="河北联通M",慢直播5
+http://121.29.84.62:5000/rtp/239.253.94.5:6604
+#EXTINF:-1 group-title="河北联通M",慢直播6
+http://121.29.84.62:5000/rtp/239.253.94.6:6605
+#EXTINF:-1 group-title="河北联通M",慢直播7
+http://121.29.84.62:5000/rtp/239.253.94.7:6606
+#EXTINF:-1 group-title="河北联通M",慢直播8
+http://121.29.84.62:5000/rtp/239.253.94.8:6607
+#EXTINF:-1 group-title="河北联通M",慢直播9
+http://121.29.84.62:5000/rtp/239.253.94.9:6608
+#EXTINF:-1 group-title="河北联通M",慢直播10
+http://121.29.84.62:5000/rtp/239.253.94.10:6609
+#EXTINF:-1 group-title="河北联通M",慢直播11
+http://121.29.84.62:5000/rtp/239.253.94.11:6610
+#EXTINF:-1 group-title="河北联通M",慢直播12
+http://121.29.84.62:5000/rtp/239.253.94.12:6611
+#EXTINF:-1 group-title="河北联通M",慢直播13
+http://121.29.84.62:5000/rtp/239.253.94.13:6612
+#EXTINF:-1 group-title="河北联通M",慢直播14
+http://121.29.84.62:5000/rtp/239.253.94.14:6613
+#EXTINF:-1 group-title="河北联通M",慢直播15
+http://121.29.84.62:5000/rtp/239.253.94.15:6614
+#EXTINF:-1 group-title="河北联通M",慢直播16
+http://121.29.84.62:5000/rtp/239.253.94.16:6615
+#EXTINF:-1 group-title="河北联通M",慢直播17
+http://121.29.84.62:5000/rtp/239.253.94.17:6616
+#EXTINF:-1 group-title="河北联通M",慢直播18
+http://121.29.84.62:5000/rtp/239.253.94.18:6617
+#EXTINF:-1 group-title="河北联通M",慢直播19
+http://121.29.84.62:5000/rtp/239.253.94.19:6618
+#EXTINF:-1 group-title="河北联通M",慢直播20
+http://121.29.84.62:5000/rtp/239.253.94.20:6619
+#EXTINF:-1 group-title="河北联通M",慢直播21
+http://121.29.84.62:5000/rtp/239.253.94.21:6620
+#EXTINF:-1 group-title="河北联通M",慢直播22
+http://121.29.84.62:5000/rtp/239.253.94.22:6621
+#EXTINF:-1 group-title="河北联通M",慢直播23
+http://121.29.84.62:5000/rtp/239.253.94.23:6622
+#EXTINF:-1 group-title="河北联通M",慢直播24
+http://121.29.84.62:5000/rtp/239.253.94.24:6623
+#EXTINF:-1 group-title="河北联通M",4K
+http://121.29.84.62:5000/rtp/239.253.92.114:6187
+#EXTINF:-1 group-title="河北联通M",羽毛球专区
+http://121.29.84.62:5000/rtp/239.253.93.202:6380
+#EXTINF:-1 group-title="河北联通M",点掌财经专区
+http://121.29.84.62:5000/rtp/239.253.92.236:6448
+#EXTINF:-1 group-title="河北联通M",主视角4K
+http://121.29.84.62:5000/rtp/239.253.93.123:6291
+#EXTINF:-1 group-title="河北联通M",主视角
+http://121.29.84.62:5000/rtp/239.253.93.124:6292
+#EXTINF:-1 group-title="河北联通M",辅视角1
+http://121.29.84.62:5000/rtp/239.253.93.125:6293
+#EXTINF:-1 group-title="河北联通M",辅视角2
+http://121.29.84.62:5000/rtp/239.253.93.126:6294
+#EXTINF:-1 group-title="河北联通M",辅视角3
+http://121.29.84.62:5000/rtp/239.253.93.127:6295
+#EXTINF:-1 group-title="河北联通M",临时直播2
+http://121.29.84.62:5000/rtp/239.253.92.21:6226
+#EXTINF:-1 group-title="河北联通M",临时直播3
+http://121.29.84.62:5000/rtp/239.253.92.216:6227
+#EXTINF:-1 group-title="河北联通M",临时直播4
+http://121.29.84.62:5000/rtp/239.253.92.219:6228
+#EXTINF:-1 group-title="河北联通M",临时直播5
+http://121.29.84.62:5000/rtp/239.253.92.220:6229
+#EXTINF:-1 group-title="河北联通M",临时直播
+http://121.29.84.62:5000/rtp/239.253.92.116:6029
 #EXTINF:-1 group-title="重庆联通M",CCTV1
-http://27.11.195.45:8006/udp/225.0.4.74:7980
+http://211.158.48.47:8004/udp/225.0.4.74:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV2
-http://27.11.195.45:8006/udp/225.0.4.132:7980
+http://211.158.48.47:8004/udp/225.0.4.132:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV3
-http://27.11.195.45:8006/udp/225.0.4.142:7980
+http://211.158.48.47:8004/udp/225.0.4.142:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV4
-http://27.11.195.45:8006/udp/225.0.4.176:7980
+http://211.158.48.47:8004/udp/225.0.4.176:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV5
-http://27.11.195.45:8006/udp/225.0.4.143:7980
+http://211.158.48.47:8004/udp/225.0.4.143:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV5+
-http://27.11.195.45:8006/udp/225.0.4.73:7980
+http://211.158.48.47:8004/udp/225.0.4.73:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV6
-http://27.11.195.45:8006/udp/225.0.4.144:7980
+http://211.158.48.47:8004/udp/225.0.4.144:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV7
-http://27.11.195.45:8006/udp/225.0.4.127:7980
+http://211.158.48.47:8004/udp/225.0.4.127:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV8
-http://27.11.195.45:8006/udp/225.0.4.137:7980
+http://211.158.48.47:8004/udp/225.0.4.137:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV9
-http://27.11.195.45:8006/udp/225.0.4.131:7980
+http://211.158.48.47:8004/udp/225.0.4.131:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV10
-http://27.11.195.45:8006/udp/225.0.4.130:7980
+http://211.158.48.47:8004/udp/225.0.4.130:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV11
-http://27.11.195.45:8006/udp/225.0.4.218:7980
+http://211.158.48.47:8004/udp/225.0.4.218:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV12
-http://27.11.195.45:8006/udp/225.0.4.129:7980
+http://211.158.48.47:8004/udp/225.0.4.129:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV13
-http://27.11.195.45:8006/udp/225.0.4.219:7980
+http://211.158.48.47:8004/udp/225.0.4.219:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV14
-http://27.11.195.45:8006/udp/225.0.4.128:7980
+http://211.158.48.47:8004/udp/225.0.4.128:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV15
-http://27.11.195.45:8006/udp/225.0.4.220:7980
+http://211.158.48.47:8004/udp/225.0.4.220:7980
 #EXTINF:-1 group-title="重庆联通M",CCTV17
-http://27.11.195.45:8006/udp/225.0.4.179:7980
+http://211.158.48.47:8004/udp/225.0.4.179:7980
 #EXTINF:-1 group-title="重庆联通M",CGTN
-http://27.11.195.45:8006/udp/225.0.4.12:7980
+http://211.158.48.47:8004/udp/225.0.4.12:7980
 #EXTINF:-1 group-title="重庆联通M",湖南卫视
-http://27.11.195.45:8006/udp/225.0.4.75:7980
+http://211.158.48.47:8004/udp/225.0.4.75:7980
 #EXTINF:-1 group-title="重庆联通M",浙江卫视
-http://27.11.195.45:8006/udp/225.0.4.81:7980
+http://211.158.48.47:8004/udp/225.0.4.81:7980
 #EXTINF:-1 group-title="重庆联通M",江苏卫视
-http://27.11.195.45:8006/udp/225.0.4.79:7980
+http://211.158.48.47:8004/udp/225.0.4.79:7980
 #EXTINF:-1 group-title="重庆联通M",安徽卫视
-http://27.11.195.45:8006/udp/225.0.4.133:7980
+http://211.158.48.47:8004/udp/225.0.4.133:7980
 #EXTINF:-1 group-title="重庆联通M",广东卫视
-http://27.11.195.45:8006/udp/225.0.4.84:7980
+http://211.158.48.47:8004/udp/225.0.4.84:7980
 #EXTINF:-1 group-title="重庆联通M",北京卫视
-http://27.11.195.45:8006/udp/225.0.4.78:7980
+http://211.158.48.47:8004/udp/225.0.4.78:7980
 #EXTINF:-1 group-title="重庆联通M",天津卫视
-http://27.11.195.45:8006/udp/225.0.4.82:7980
+http://211.158.48.47:8004/udp/225.0.4.82:7980
 #EXTINF:-1 group-title="重庆联通M",辽宁卫视
-http://27.11.195.45:8006/udp/225.0.4.98:7980
+http://211.158.48.47:8004/udp/225.0.4.98:7980
 #EXTINF:-1 group-title="重庆联通M",东方卫视
-http://27.11.195.45:8006/udp/225.0.4.80:7980
+http://211.158.48.47:8004/udp/225.0.4.80:7980
 #EXTINF:-1 group-title="重庆联通M",纪实
-http://27.11.195.45:8006/udp/225.0.4.99:7980
+http://211.158.48.47:8004/udp/225.0.4.99:7980
 #EXTINF:-1 group-title="重庆联通M",河北卫视
-http://27.11.195.45:8006/udp/225.0.4.174:7980
+http://211.158.48.47:8004/udp/225.0.4.174:7980
 #EXTINF:-1 group-title="重庆联通M",贵州卫视
-http://27.11.195.45:8006/udp/225.0.4.175:7980
+http://211.158.48.47:8004/udp/225.0.4.175:7980
 #EXTINF:-1 group-title="重庆联通M",山东卫视
-http://27.11.195.45:8006/udp/225.0.4.199:7980
+http://211.158.48.47:8004/udp/225.0.4.199:7980
 #EXTINF:-1 group-title="重庆联通M",东南卫视
-http://27.11.195.45:8006/udp/225.0.4.200:7980
+http://211.158.48.47:8004/udp/225.0.4.200:7980
 #EXTINF:-1 group-title="重庆联通M",黑龙江卫视
-http://27.11.195.45:8006/udp/225.0.4.201:7980
+http://211.158.48.47:8004/udp/225.0.4.201:7980
 #EXTINF:-1 group-title="重庆联通M",深圳卫视
-http://27.11.195.45:8006/udp/225.0.4.202:7980
+http://211.158.48.47:8004/udp/225.0.4.202:7980
 #EXTINF:-1 group-title="重庆联通M",江西卫视
-http://27.11.195.45:8006/udp/225.0.4.203:7980
+http://211.158.48.47:8004/udp/225.0.4.203:7980
 #EXTINF:-1 group-title="重庆联通M",四川卫视
-http://27.11.195.45:8006/udp/225.0.4.204:7980
+http://211.158.48.47:8004/udp/225.0.4.204:7980
 #EXTINF:-1 group-title="重庆联通M",重庆卫视
-http://27.11.195.45:8006/udp/225.0.4.187:7980
+http://211.158.48.47:8004/udp/225.0.4.187:7980
 #EXTINF:-1 group-title="重庆联通M",重庆新闻
-http://27.11.195.45:8006/udp/225.0.4.188:7980
+http://211.158.48.47:8004/udp/225.0.4.188:7980
 #EXTINF:-1 group-title="重庆联通M",重庆社会与法
-http://27.11.195.45:8006/udp/225.0.4.190:7980
+http://211.158.48.47:8004/udp/225.0.4.190:7980
 #EXTINF:-1 group-title="重庆联通M",重庆少儿
-http://27.11.195.45:8006/udp/225.0.4.191:7980
+http://211.158.48.47:8004/udp/225.0.4.191:7980
 #EXTINF:-1 group-title="重庆联通M",重庆影视
-http://27.11.195.45:8006/udp/225.0.4.192:7980
+http://211.158.48.47:8004/udp/225.0.4.192:7980
 #EXTINF:-1 group-title="重庆联通M",重庆科教
-http://27.11.195.45:8006/udp/225.0.4.193:7980
+http://211.158.48.47:8004/udp/225.0.4.193:7980
 #EXTINF:-1 group-title="重庆联通M",重庆娱乐
-http://27.11.195.45:8006/udp/225.0.4.194:7980
+http://211.158.48.47:8004/udp/225.0.4.194:7980
 #EXTINF:-1 group-title="重庆联通M",重庆汽摩
-http://27.11.195.45:8006/udp/225.0.4.195:7980
+http://211.158.48.47:8004/udp/225.0.4.195:7980
 #EXTINF:-1 group-title="重庆联通M",重庆时尚生活
-http://27.11.195.45:8006/udp/225.0.4.196:7980
+http://211.158.48.47:8004/udp/225.0.4.196:7980
 #EXTINF:-1 group-title="重庆联通M",重庆新农村
-http://27.11.195.45:8006/udp/225.0.4.189:7980
+http://211.158.48.47:8004/udp/225.0.4.189:7980
 #EXTINF:-1 group-title="重庆联通M",重庆移动
-http://27.11.195.45:8006/udp/225.0.4.215:7980
+http://211.158.48.47:8004/udp/225.0.4.215:7980
 #EXTINF:-1 group-title="重庆联通M",重庆新闻
-http://27.11.195.45:8006/udp/225.0.4.59:7980
+http://211.158.48.47:8004/udp/225.0.4.59:7980
 #EXTINF:-1 group-title="重庆联通M",重庆汽摩
-http://27.11.195.45:8006/udp/225.0.4.61:7980
+http://211.158.48.47:8004/udp/225.0.4.61:7980
 #EXTINF:-1 group-title="重庆联通M",重庆影视
-http://27.11.195.45:8006/udp/225.0.4.62:7980
+http://211.158.48.47:8004/udp/225.0.4.62:7980
 #EXTINF:-1 group-title="重庆联通M",重庆科教
-http://27.11.195.45:8006/udp/225.0.4.63:7980
+http://211.158.48.47:8004/udp/225.0.4.63:7980
 #EXTINF:-1 group-title="重庆联通M",重庆社会与法
-http://27.11.195.45:8006/udp/225.0.4.64:7980
+http://211.158.48.47:8004/udp/225.0.4.64:7980
 #EXTINF:-1 group-title="重庆联通M",重庆娱乐
-http://27.11.195.45:8006/udp/225.0.4.65:7980
+http://211.158.48.47:8004/udp/225.0.4.65:7980
 #EXTINF:-1 group-title="重庆联通M",重庆移动
-http://27.11.195.45:8006/udp/225.0.4.68:7980
+http://211.158.48.47:8004/udp/225.0.4.68:7980
 #EXTINF:-1 group-title="重庆联通M",重庆时尚生活
-http://27.11.195.45:8006/udp/225.0.4.69:7980
+http://211.158.48.47:8004/udp/225.0.4.69:7980
 #EXTINF:-1 group-title="重庆联通M",重庆新农村
-http://27.11.195.45:8006/udp/225.0.4.70:7980
+http://211.158.48.47:8004/udp/225.0.4.70:7980
 #EXTINF:-1 group-title="重庆联通M",重庆少儿
-http://27.11.195.45:8006/udp/225.0.4.71:7980
+http://211.158.48.47:8004/udp/225.0.4.71:7980
 #EXTINF:-1 group-title="重庆联通M",爱生活
-http://27.11.195.45:8006/udp/225.0.4.164:7980
+http://211.158.48.47:8004/udp/225.0.4.164:7980
 #EXTINF:-1 group-title="重庆联通M",IPTV相声小品
-http://27.11.195.45:8006/udp/225.0.4.56:7980
+http://211.158.48.47:8004/udp/225.0.4.56:7980
 #EXTINF:-1 group-title="重庆联通M",IPTV野外
-http://27.11.195.45:8006/udp/225.0.4.57:7980
+http://211.158.48.47:8004/udp/225.0.4.57:7980
 #EXTINF:-1 group-title="重庆联通M",IPTV3+
-http://27.11.195.45:8006/udp/225.0.4.51:7980
+http://211.158.48.47:8004/udp/225.0.4.51:7980
 #EXTINF:-1 group-title="重庆联通M",IPTV5+
-http://27.11.195.45:8006/udp/225.0.4.53:7980
+http://211.158.48.47:8004/udp/225.0.4.53:7980
 #EXTINF:-1 group-title="重庆联通M",IPTV6+
-http://27.11.195.45:8006/udp/225.0.4.50:7980
+http://211.158.48.47:8004/udp/225.0.4.50:7980
 #EXTINF:-1 group-title="重庆联通M",IPTV8+
-http://27.11.195.45:8006/udp/225.0.4.54:7980
+http://211.158.48.47:8004/udp/225.0.4.54:7980
 #EXTINF:-1 group-title="重庆联通M",经典电影
-http://27.11.195.45:8006/udp/225.0.4.48:7980
+http://211.158.48.47:8004/udp/225.0.4.48:7980
 #EXTINF:-1 group-title="重庆联通M",解密
-http://27.11.195.45:8006/udp/225.0.4.153:7980
+http://211.158.48.47:8004/udp/225.0.4.153:7980
 #EXTINF:-1 group-title="重庆联通M",全纪实
-http://27.11.195.45:8006/udp/225.0.4.113:7980
+http://211.158.48.47:8004/udp/225.0.4.113:7980
 #EXTINF:-1 group-title="重庆联通M",纪实
-http://27.11.195.45:8006/udp/225.0.4.99:7980
+http://211.158.48.47:8004/udp/225.0.4.99:7980
 #EXTINF:-1 group-title="重庆联通M",地理
-http://27.11.195.45:8006/udp/225.0.4.149:7980
+http://211.158.48.47:8004/udp/225.0.4.149:7980
 #EXTINF:-1 group-title="重庆联通M",古装剧场
-http://27.11.195.45:8006/udp/225.0.4.147:7980
+http://211.158.48.47:8004/udp/225.0.4.147:7980
 #EXTINF:-1 group-title="重庆联通M",武侠剧场
-http://27.11.195.45:8006/udp/225.0.4.168:7980
+http://211.158.48.47:8004/udp/225.0.4.168:7980
 #EXTINF:-1 group-title="重庆联通M",军旅剧场
-http://27.11.195.45:8006/udp/225.0.4.146:7980
+http://211.158.48.47:8004/udp/225.0.4.146:7980
 #EXTINF:-1 group-title="重庆联通M",喜剧影院
-http://27.11.195.45:8006/udp/225.0.4.169:7980
+http://211.158.48.47:8004/udp/225.0.4.169:7980
 #EXTINF:-1 group-title="重庆联通M",动作影院
-http://27.11.195.45:8006/udp/225.0.4.170:7980
+http://211.158.48.47:8004/udp/225.0.4.170:7980
 #EXTINF:-1 group-title="重庆联通M",家庭影院
-http://27.11.195.45:8006/udp/225.0.4.171:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV1
-http://27.11.195.45:8002/udp/225.0.4.74:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV2
-http://27.11.195.45:8002/udp/225.0.4.132:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV3
-http://27.11.195.45:8002/udp/225.0.4.142:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV4
-http://27.11.195.45:8002/udp/225.0.4.176:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV5
-http://27.11.195.45:8002/udp/225.0.4.143:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV5+
-http://27.11.195.45:8002/udp/225.0.4.73:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV6
-http://27.11.195.45:8002/udp/225.0.4.144:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV7
-http://27.11.195.45:8002/udp/225.0.4.127:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV8
-http://27.11.195.45:8002/udp/225.0.4.137:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV9
-http://27.11.195.45:8002/udp/225.0.4.131:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV10
-http://27.11.195.45:8002/udp/225.0.4.130:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV11
-http://27.11.195.45:8002/udp/225.0.4.218:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV12
-http://27.11.195.45:8002/udp/225.0.4.129:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV13
-http://27.11.195.45:8002/udp/225.0.4.219:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV14
-http://27.11.195.45:8002/udp/225.0.4.128:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV15
-http://27.11.195.45:8002/udp/225.0.4.220:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV17
-http://27.11.195.45:8002/udp/225.0.4.179:7980
-#EXTINF:-1 group-title="重庆联通M",CGTN
-http://27.11.195.45:8002/udp/225.0.4.12:7980
-#EXTINF:-1 group-title="重庆联通M",湖南卫视
-http://27.11.195.45:8002/udp/225.0.4.75:7980
-#EXTINF:-1 group-title="重庆联通M",浙江卫视
-http://27.11.195.45:8002/udp/225.0.4.81:7980
-#EXTINF:-1 group-title="重庆联通M",江苏卫视
-http://27.11.195.45:8002/udp/225.0.4.79:7980
-#EXTINF:-1 group-title="重庆联通M",安徽卫视
-http://27.11.195.45:8002/udp/225.0.4.133:7980
-#EXTINF:-1 group-title="重庆联通M",广东卫视
-http://27.11.195.45:8002/udp/225.0.4.84:7980
-#EXTINF:-1 group-title="重庆联通M",北京卫视
-http://27.11.195.45:8002/udp/225.0.4.78:7980
-#EXTINF:-1 group-title="重庆联通M",天津卫视
-http://27.11.195.45:8002/udp/225.0.4.82:7980
-#EXTINF:-1 group-title="重庆联通M",辽宁卫视
-http://27.11.195.45:8002/udp/225.0.4.98:7980
-#EXTINF:-1 group-title="重庆联通M",东方卫视
-http://27.11.195.45:8002/udp/225.0.4.80:7980
-#EXTINF:-1 group-title="重庆联通M",纪实
-http://27.11.195.45:8002/udp/225.0.4.99:7980
-#EXTINF:-1 group-title="重庆联通M",河北卫视
-http://27.11.195.45:8002/udp/225.0.4.174:7980
-#EXTINF:-1 group-title="重庆联通M",贵州卫视
-http://27.11.195.45:8002/udp/225.0.4.175:7980
-#EXTINF:-1 group-title="重庆联通M",山东卫视
-http://27.11.195.45:8002/udp/225.0.4.199:7980
-#EXTINF:-1 group-title="重庆联通M",东南卫视
-http://27.11.195.45:8002/udp/225.0.4.200:7980
-#EXTINF:-1 group-title="重庆联通M",黑龙江卫视
-http://27.11.195.45:8002/udp/225.0.4.201:7980
-#EXTINF:-1 group-title="重庆联通M",深圳卫视
-http://27.11.195.45:8002/udp/225.0.4.202:7980
-#EXTINF:-1 group-title="重庆联通M",江西卫视
-http://27.11.195.45:8002/udp/225.0.4.203:7980
-#EXTINF:-1 group-title="重庆联通M",四川卫视
-http://27.11.195.45:8002/udp/225.0.4.204:7980
-#EXTINF:-1 group-title="重庆联通M",重庆卫视
-http://27.11.195.45:8002/udp/225.0.4.187:7980
-#EXTINF:-1 group-title="重庆联通M",重庆新闻
-http://27.11.195.45:8002/udp/225.0.4.188:7980
-#EXTINF:-1 group-title="重庆联通M",重庆社会与法
-http://27.11.195.45:8002/udp/225.0.4.190:7980
-#EXTINF:-1 group-title="重庆联通M",重庆少儿
-http://27.11.195.45:8002/udp/225.0.4.191:7980
-#EXTINF:-1 group-title="重庆联通M",重庆影视
-http://27.11.195.45:8002/udp/225.0.4.192:7980
-#EXTINF:-1 group-title="重庆联通M",重庆科教
-http://27.11.195.45:8002/udp/225.0.4.193:7980
-#EXTINF:-1 group-title="重庆联通M",重庆娱乐
-http://27.11.195.45:8002/udp/225.0.4.194:7980
-#EXTINF:-1 group-title="重庆联通M",重庆汽摩
-http://27.11.195.45:8002/udp/225.0.4.195:7980
-#EXTINF:-1 group-title="重庆联通M",重庆时尚生活
-http://27.11.195.45:8002/udp/225.0.4.196:7980
-#EXTINF:-1 group-title="重庆联通M",重庆新农村
-http://27.11.195.45:8002/udp/225.0.4.189:7980
-#EXTINF:-1 group-title="重庆联通M",重庆移动
-http://27.11.195.45:8002/udp/225.0.4.215:7980
-#EXTINF:-1 group-title="重庆联通M",重庆新闻
-http://27.11.195.45:8002/udp/225.0.4.59:7980
-#EXTINF:-1 group-title="重庆联通M",重庆汽摩
-http://27.11.195.45:8002/udp/225.0.4.61:7980
-#EXTINF:-1 group-title="重庆联通M",重庆影视
-http://27.11.195.45:8002/udp/225.0.4.62:7980
-#EXTINF:-1 group-title="重庆联通M",重庆科教
-http://27.11.195.45:8002/udp/225.0.4.63:7980
-#EXTINF:-1 group-title="重庆联通M",重庆社会与法
-http://27.11.195.45:8002/udp/225.0.4.64:7980
-#EXTINF:-1 group-title="重庆联通M",重庆娱乐
-http://27.11.195.45:8002/udp/225.0.4.65:7980
-#EXTINF:-1 group-title="重庆联通M",重庆移动
-http://27.11.195.45:8002/udp/225.0.4.68:7980
-#EXTINF:-1 group-title="重庆联通M",重庆时尚生活
-http://27.11.195.45:8002/udp/225.0.4.69:7980
-#EXTINF:-1 group-title="重庆联通M",重庆新农村
-http://27.11.195.45:8002/udp/225.0.4.70:7980
-#EXTINF:-1 group-title="重庆联通M",重庆少儿
-http://27.11.195.45:8002/udp/225.0.4.71:7980
-#EXTINF:-1 group-title="重庆联通M",爱生活
-http://27.11.195.45:8002/udp/225.0.4.164:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV相声小品
-http://27.11.195.45:8002/udp/225.0.4.56:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV野外
-http://27.11.195.45:8002/udp/225.0.4.57:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV3+
-http://27.11.195.45:8002/udp/225.0.4.51:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV5+
-http://27.11.195.45:8002/udp/225.0.4.53:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV6+
-http://27.11.195.45:8002/udp/225.0.4.50:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV8+
-http://27.11.195.45:8002/udp/225.0.4.54:7980
-#EXTINF:-1 group-title="重庆联通M",经典电影
-http://27.11.195.45:8002/udp/225.0.4.48:7980
-#EXTINF:-1 group-title="重庆联通M",解密
-http://27.11.195.45:8002/udp/225.0.4.153:7980
-#EXTINF:-1 group-title="重庆联通M",全纪实
-http://27.11.195.45:8002/udp/225.0.4.113:7980
-#EXTINF:-1 group-title="重庆联通M",纪实
-http://27.11.195.45:8002/udp/225.0.4.99:7980
-#EXTINF:-1 group-title="重庆联通M",地理
-http://27.11.195.45:8002/udp/225.0.4.149:7980
-#EXTINF:-1 group-title="重庆联通M",古装剧场
-http://27.11.195.45:8002/udp/225.0.4.147:7980
-#EXTINF:-1 group-title="重庆联通M",武侠剧场
-http://27.11.195.45:8002/udp/225.0.4.168:7980
-#EXTINF:-1 group-title="重庆联通M",军旅剧场
-http://27.11.195.45:8002/udp/225.0.4.146:7980
-#EXTINF:-1 group-title="重庆联通M",喜剧影院
-http://27.11.195.45:8002/udp/225.0.4.169:7980
-#EXTINF:-1 group-title="重庆联通M",动作影院
-http://27.11.195.45:8002/udp/225.0.4.170:7980
-#EXTINF:-1 group-title="重庆联通M",家庭影院
-http://27.11.195.45:8002/udp/225.0.4.171:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV1
-http://27.11.195.45:8003/udp/225.0.4.74:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV2
-http://27.11.195.45:8003/udp/225.0.4.132:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV3
-http://27.11.195.45:8003/udp/225.0.4.142:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV4
-http://27.11.195.45:8003/udp/225.0.4.176:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV5
-http://27.11.195.45:8003/udp/225.0.4.143:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV5+
-http://27.11.195.45:8003/udp/225.0.4.73:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV6
-http://27.11.195.45:8003/udp/225.0.4.144:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV7
-http://27.11.195.45:8003/udp/225.0.4.127:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV8
-http://27.11.195.45:8003/udp/225.0.4.137:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV9
-http://27.11.195.45:8003/udp/225.0.4.131:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV10
-http://27.11.195.45:8003/udp/225.0.4.130:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV11
-http://27.11.195.45:8003/udp/225.0.4.218:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV12
-http://27.11.195.45:8003/udp/225.0.4.129:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV13
-http://27.11.195.45:8003/udp/225.0.4.219:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV14
-http://27.11.195.45:8003/udp/225.0.4.128:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV15
-http://27.11.195.45:8003/udp/225.0.4.220:7980
-#EXTINF:-1 group-title="重庆联通M",CCTV17
-http://27.11.195.45:8003/udp/225.0.4.179:7980
-#EXTINF:-1 group-title="重庆联通M",CGTN
-http://27.11.195.45:8003/udp/225.0.4.12:7980
-#EXTINF:-1 group-title="重庆联通M",湖南卫视
-http://27.11.195.45:8003/udp/225.0.4.75:7980
-#EXTINF:-1 group-title="重庆联通M",浙江卫视
-http://27.11.195.45:8003/udp/225.0.4.81:7980
-#EXTINF:-1 group-title="重庆联通M",江苏卫视
-http://27.11.195.45:8003/udp/225.0.4.79:7980
-#EXTINF:-1 group-title="重庆联通M",安徽卫视
-http://27.11.195.45:8003/udp/225.0.4.133:7980
-#EXTINF:-1 group-title="重庆联通M",广东卫视
-http://27.11.195.45:8003/udp/225.0.4.84:7980
-#EXTINF:-1 group-title="重庆联通M",北京卫视
-http://27.11.195.45:8003/udp/225.0.4.78:7980
-#EXTINF:-1 group-title="重庆联通M",天津卫视
-http://27.11.195.45:8003/udp/225.0.4.82:7980
-#EXTINF:-1 group-title="重庆联通M",辽宁卫视
-http://27.11.195.45:8003/udp/225.0.4.98:7980
-#EXTINF:-1 group-title="重庆联通M",东方卫视
-http://27.11.195.45:8003/udp/225.0.4.80:7980
-#EXTINF:-1 group-title="重庆联通M",纪实
-http://27.11.195.45:8003/udp/225.0.4.99:7980
-#EXTINF:-1 group-title="重庆联通M",河北卫视
-http://27.11.195.45:8003/udp/225.0.4.174:7980
-#EXTINF:-1 group-title="重庆联通M",贵州卫视
-http://27.11.195.45:8003/udp/225.0.4.175:7980
-#EXTINF:-1 group-title="重庆联通M",山东卫视
-http://27.11.195.45:8003/udp/225.0.4.199:7980
-#EXTINF:-1 group-title="重庆联通M",东南卫视
-http://27.11.195.45:8003/udp/225.0.4.200:7980
-#EXTINF:-1 group-title="重庆联通M",黑龙江卫视
-http://27.11.195.45:8003/udp/225.0.4.201:7980
-#EXTINF:-1 group-title="重庆联通M",深圳卫视
-http://27.11.195.45:8003/udp/225.0.4.202:7980
-#EXTINF:-1 group-title="重庆联通M",江西卫视
-http://27.11.195.45:8003/udp/225.0.4.203:7980
-#EXTINF:-1 group-title="重庆联通M",四川卫视
-http://27.11.195.45:8003/udp/225.0.4.204:7980
-#EXTINF:-1 group-title="重庆联通M",重庆卫视
-http://27.11.195.45:8003/udp/225.0.4.187:7980
-#EXTINF:-1 group-title="重庆联通M",重庆新闻
-http://27.11.195.45:8003/udp/225.0.4.188:7980
-#EXTINF:-1 group-title="重庆联通M",重庆社会与法
-http://27.11.195.45:8003/udp/225.0.4.190:7980
-#EXTINF:-1 group-title="重庆联通M",重庆少儿
-http://27.11.195.45:8003/udp/225.0.4.191:7980
-#EXTINF:-1 group-title="重庆联通M",重庆影视
-http://27.11.195.45:8003/udp/225.0.4.192:7980
-#EXTINF:-1 group-title="重庆联通M",重庆科教
-http://27.11.195.45:8003/udp/225.0.4.193:7980
-#EXTINF:-1 group-title="重庆联通M",重庆娱乐
-http://27.11.195.45:8003/udp/225.0.4.194:7980
-#EXTINF:-1 group-title="重庆联通M",重庆汽摩
-http://27.11.195.45:8003/udp/225.0.4.195:7980
-#EXTINF:-1 group-title="重庆联通M",重庆时尚生活
-http://27.11.195.45:8003/udp/225.0.4.196:7980
-#EXTINF:-1 group-title="重庆联通M",重庆新农村
-http://27.11.195.45:8003/udp/225.0.4.189:7980
-#EXTINF:-1 group-title="重庆联通M",重庆移动
-http://27.11.195.45:8003/udp/225.0.4.215:7980
-#EXTINF:-1 group-title="重庆联通M",重庆新闻
-http://27.11.195.45:8003/udp/225.0.4.59:7980
-#EXTINF:-1 group-title="重庆联通M",重庆汽摩
-http://27.11.195.45:8003/udp/225.0.4.61:7980
-#EXTINF:-1 group-title="重庆联通M",重庆影视
-http://27.11.195.45:8003/udp/225.0.4.62:7980
-#EXTINF:-1 group-title="重庆联通M",重庆科教
-http://27.11.195.45:8003/udp/225.0.4.63:7980
-#EXTINF:-1 group-title="重庆联通M",重庆社会与法
-http://27.11.195.45:8003/udp/225.0.4.64:7980
-#EXTINF:-1 group-title="重庆联通M",重庆娱乐
-http://27.11.195.45:8003/udp/225.0.4.65:7980
-#EXTINF:-1 group-title="重庆联通M",重庆移动
-http://27.11.195.45:8003/udp/225.0.4.68:7980
-#EXTINF:-1 group-title="重庆联通M",重庆时尚生活
-http://27.11.195.45:8003/udp/225.0.4.69:7980
-#EXTINF:-1 group-title="重庆联通M",重庆新农村
-http://27.11.195.45:8003/udp/225.0.4.70:7980
-#EXTINF:-1 group-title="重庆联通M",重庆少儿
-http://27.11.195.45:8003/udp/225.0.4.71:7980
-#EXTINF:-1 group-title="重庆联通M",爱生活
-http://27.11.195.45:8003/udp/225.0.4.164:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV相声小品
-http://27.11.195.45:8003/udp/225.0.4.56:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV野外
-http://27.11.195.45:8003/udp/225.0.4.57:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV3+
-http://27.11.195.45:8003/udp/225.0.4.51:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV5+
-http://27.11.195.45:8003/udp/225.0.4.53:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV6+
-http://27.11.195.45:8003/udp/225.0.4.50:7980
-#EXTINF:-1 group-title="重庆联通M",IPTV8+
-http://27.11.195.45:8003/udp/225.0.4.54:7980
-#EXTINF:-1 group-title="重庆联通M",经典电影
-http://27.11.195.45:8003/udp/225.0.4.48:7980
-#EXTINF:-1 group-title="重庆联通M",解密
-http://27.11.195.45:8003/udp/225.0.4.153:7980
-#EXTINF:-1 group-title="重庆联通M",全纪实
-http://27.11.195.45:8003/udp/225.0.4.113:7980
-#EXTINF:-1 group-title="重庆联通M",纪实
-http://27.11.195.45:8003/udp/225.0.4.99:7980
-#EXTINF:-1 group-title="重庆联通M",地理
-http://27.11.195.45:8003/udp/225.0.4.149:7980
-#EXTINF:-1 group-title="重庆联通M",古装剧场
-http://27.11.195.45:8003/udp/225.0.4.147:7980
-#EXTINF:-1 group-title="重庆联通M",武侠剧场
-http://27.11.195.45:8003/udp/225.0.4.168:7980
-#EXTINF:-1 group-title="重庆联通M",军旅剧场
-http://27.11.195.45:8003/udp/225.0.4.146:7980
-#EXTINF:-1 group-title="重庆联通M",喜剧影院
-http://27.11.195.45:8003/udp/225.0.4.169:7980
-#EXTINF:-1 group-title="重庆联通M",动作影院
-http://27.11.195.45:8003/udp/225.0.4.170:7980
-#EXTINF:-1 group-title="重庆联通M",家庭影院
-http://27.11.195.45:8003/udp/225.0.4.171:7980
-#EXTINF:-1 group-title="浙江电信M",CCTV1
-http://183.141.216.122:9999/udp/233.50.200.99:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV2
-http://183.141.216.122:9999/udp/233.50.200.25:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV3
-http://183.141.216.122:9999/udp/233.50.200.107:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV4
-http://183.141.216.122:9999/udp/233.50.202.38:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV5
-http://183.141.216.122:9999/udp/233.50.200.108:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV6
-http://183.141.216.122:9999/udp/233.50.200.109:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV7
-http://183.141.216.122:9999/udp/233.50.200.24:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV8
-http://183.141.216.122:9999/udp/233.50.200.110:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV9
-http://183.141.216.122:9999/udp/233.50.200.23:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV10
-http://183.141.216.122:9999/udp/233.50.200.22:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV11
-http://183.141.216.122:9999/udp/233.50.202.39:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV12
-http://183.141.216.122:9999/udp/233.50.200.21:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV13
-http://183.141.216.122:9999/udp/233.50.200.111:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV14
-http://183.141.216.122:9999/udp/233.50.200.103:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV15
-http://183.141.216.122:9999/udp/233.50.202.40:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV16
-http://183.141.216.122:9999/udp/233.50.200.112:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV17
-http://183.141.216.122:9999/udp/233.50.200.113:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV5+
-http://183.141.216.122:9999/udp/233.50.201.220:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV16-4K
-http://183.141.216.122:9999/udp/233.50.201.63:5140
-#EXTINF:-1 group-title="浙江电信M",CETV1
-http://183.141.216.122:9999/udp/233.50.200.169:5140
-#EXTINF:-1 group-title="浙江电信M",CETV4
-http://183.141.216.122:9999/udp/233.50.200.162:5140
-#EXTINF:-1 group-title="浙江电信M",凤凰中文
-http://183.141.216.122:9999/udp/233.50.202.35:5140
-#EXTINF:-1 group-title="浙江电信M",凤凰资讯
-http://183.141.216.122:9999/udp/233.50.202.36:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩竞技
-http://183.141.216.122:9999/udp/233.50.201.193:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩篮球
-http://183.141.216.122:9999/udp/233.50.201.194:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩青少
-http://183.141.216.122:9999/udp/233.50.201.195:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩广场舞
-http://183.141.216.122:9999/udp/233.50.202.29:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV纪实4K
-http://183.141.216.122:9999/udp/233.50.200.182:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV少儿4K
-http://183.141.216.122:9999/udp/233.50.200.183:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV视界4K
-http://183.141.216.122:9999/udp/233.50.200.185:5140
-#EXTINF:-1 group-title="浙江电信M",华数电视剧
-http://183.141.216.122:9999/udp/233.50.201.116:5140
-#EXTINF:-1 group-title="浙江电信M",探索记录
-http://183.141.216.122:9999/udp/233.50.201.117:5140
-#EXTINF:-1 group-title="浙江电信M",茶频道
-http://183.141.216.122:9999/udp/233.50.200.124:5140
-#EXTINF:-1 group-title="浙江电信M",动漫秀场
-http://183.141.216.122:9999/udp/233.50.200.12:5140
-#EXTINF:-1 group-title="浙江电信M",都市剧场
-http://183.141.216.122:9999/udp/233.50.200.11:5140
-#EXTINF:-1 group-title="浙江电信M",法治天地
-http://183.141.216.122:9999/udp/233.50.200.120:5140
-#EXTINF:-1 group-title="浙江电信M",欢笑剧场4K
-http://183.141.216.122:9999/udp/233.50.200.229:5140
-#EXTINF:-1 group-title="浙江电信M",金色学堂
-http://183.141.216.122:9999/udp/233.50.200.122:5140
-#EXTINF:-1 group-title="浙江电信M",快乐垂钓
-http://183.141.216.122:9999/udp/233.50.200.123:5140
-#EXTINF:-1 group-title="浙江电信M",乐游
-http://183.141.216.122:9999/udp/233.50.200.148:5140
-#EXTINF:-1 group-title="浙江电信M",生活时尚
-http://183.141.216.122:9999/udp/233.50.200.15:5140
-#EXTINF:-1 group-title="浙江电信M",游戏风云
-http://183.141.216.122:9999/udp/233.50.200.14:5140
-#EXTINF:-1 group-title="浙江电信M",环球旅游
-http://183.141.216.122:9999/udp/233.50.202.31:5140
-#EXTINF:-1 group-title="浙江电信M",魅力足球
-http://183.141.216.122:9999/udp/233.50.200.176:5140
-#EXTINF:-1 group-title="浙江电信M",第一财经
-http://183.141.216.122:9999/udp/233.50.200.125:5140
-#EXTINF:-1 group-title="浙江电信M",东方财经
-http://183.141.216.122:9999/udp/233.50.200.177:5140
-#EXTINF:-1 group-title="浙江电信M",纪实人文
-http://183.141.216.122:9999/udp/233.50.200.168:5140
-#EXTINF:-1 group-title="浙江电信M",北京纪实科教
-http://183.141.216.122:9999/udp/233.50.202.34:5140
-#EXTINF:-1 group-title="浙江电信M",云南卫视
-http://183.141.216.122:9999/udp/233.50.200.115:5140
-#EXTINF:-1 group-title="浙江电信M",安徽卫视
-http://183.141.216.122:9999/udp/233.50.200.106:5140
-#EXTINF:-1 group-title="浙江电信M",北京卫视
-http://183.141.216.122:9999/udp/233.50.200.179:5140
-#EXTINF:-1 group-title="浙江电信M",东方卫视
-http://183.141.216.122:9999/udp/233.50.200.248:5140
-#EXTINF:-1 group-title="浙江电信M",东南卫视
-http://183.141.216.122:9999/udp/233.50.201.146:5140
-#EXTINF:-1 group-title="浙江电信M",广东卫视
-http://183.141.216.122:9999/udp/233.50.200.149:5140
-#EXTINF:-1 group-title="浙江电信M",广西卫视
-http://183.141.216.122:9999/udp/233.50.200.136:5140
-#EXTINF:-1 group-title="浙江电信M",贵州卫视
-http://183.141.216.122:9999/udp/233.50.201.142:5140
-#EXTINF:-1 group-title="浙江电信M",海南卫视
-http://183.141.216.122:9999/udp/233.50.200.165:5140
-#EXTINF:-1 group-title="浙江电信M",河北卫视
-http://183.141.216.122:9999/udp/233.50.200.105:5140
-#EXTINF:-1 group-title="浙江电信M",河南卫视
-http://183.141.216.122:9999/udp/233.50.201.144:5140
-#EXTINF:-1 group-title="浙江电信M",黑龙江卫视
-http://183.141.216.122:9999/udp/233.50.200.189:5140
-#EXTINF:-1 group-title="浙江电信M",湖北卫视
-http://183.141.216.122:9999/udp/233.50.200.147:5140
-#EXTINF:-1 group-title="浙江电信M",湖南卫视
-http://183.141.216.122:9999/udp/233.50.200.190:5140
-#EXTINF:-1 group-title="浙江电信M",吉林卫视
-http://183.141.216.122:9999/udp/233.50.202.42:5140
-#EXTINF:-1 group-title="浙江电信M",江苏卫视
-http://183.141.216.122:9999/udp/233.50.200.144:5140
-#EXTINF:-1 group-title="浙江电信M",江西卫视
-http://183.141.216.122:9999/udp/233.50.200.119:5140
-#EXTINF:-1 group-title="浙江电信M",辽宁卫视
-http://183.141.216.122:9999/udp/233.50.201.141:5140
-#EXTINF:-1 group-title="浙江电信M",山东卫视
-http://183.141.216.122:9999/udp/233.50.201.105:5140
-#EXTINF:-1 group-title="浙江电信M",四川卫视
-http://183.141.216.122:9999/udp/233.50.200.118:5140
-#EXTINF:-1 group-title="浙江电信M",天津卫视
-http://183.141.216.122:9999/udp/233.50.200.104:5140
-#EXTINF:-1 group-title="浙江电信M",浙江卫视
-http://183.141.216.122:9999/udp/233.50.201.100:5140
-#EXTINF:-1 group-title="浙江电信M",重庆卫视
-http://183.141.216.122:9999/udp/233.50.200.114:5140
-#EXTINF:-1 group-title="浙江电信M",甘肃卫视
-http://183.141.216.122:9999/udp/233.50.200.163:5140
-#EXTINF:-1 group-title="浙江电信M",山西卫视
-http://183.141.216.122:9999/udp/233.50.201.51:5140
-#EXTINF:-1 group-title="浙江电信M",陕西卫视
-http://183.141.216.122:9999/udp/233.50.201.59:5140
-#EXTINF:-1 group-title="浙江电信M",宁夏卫视
-http://183.141.216.122:9999/udp/233.50.201.57:5140
-#EXTINF:-1 group-title="浙江电信M",青海卫视
-http://183.141.216.122:9999/udp/233.50.201.65:5140
-#EXTINF:-1 group-title="浙江电信M",西藏卫视
-http://183.141.216.122:9999/udp/233.50.201.70:5140
-#EXTINF:-1 group-title="浙江电信M",兵团卫视
-http://183.141.216.122:9999/udp/233.50.201.72:5140
-#EXTINF:-1 group-title="浙江电信M",深圳卫视
-http://183.141.216.122:9999/udp/233.50.200.188:5140
-#EXTINF:-1 group-title="浙江电信M",三沙卫视
-http://183.141.216.122:9999/udp/233.50.200.175:5140
-#EXTINF:-1 group-title="浙江电信M",江苏国际
-http://183.141.216.122:9999/udp/233.50.202.37:5140
-#EXTINF:-1 group-title="浙江电信M",浙江新闻
-http://183.141.216.122:9999/udp/233.50.201.137:5140
-#EXTINF:-1 group-title="浙江电信M",浙江之江纪录
-http://183.141.216.122:9999/udp/233.50.202.25:5140
-#EXTINF:-1 group-title="浙江电信M",浙江教育
-http://183.141.216.122:9999/udp/233.50.201.134:5140
-#EXTINF:-1 group-title="浙江电信M",浙江经济
-http://183.141.216.122:9999/udp/233.50.201.133:5140
-#EXTINF:-1 group-title="浙江电信M",浙江民生
-http://183.141.216.122:9999/udp/233.50.201.136:5140
-#EXTINF:-1 group-title="浙江电信M",浙江钱江
-http://183.141.216.122:9999/udp/233.50.201.132:5140
-#EXTINF:-1 group-title="浙江电信M",浙江少儿
-http://183.141.216.122:9999/udp/233.50.201.138:5140
-#EXTINF:-1 group-title="浙江电信M",杭州导视
-http://183.141.216.122:9999/udp/233.50.201.182:5140
-#EXTINF:-1 group-title="浙江电信M",杭州综合
-http://183.141.216.122:9999/udp/233.50.201.173:5140
-#EXTINF:-1 group-title="浙江电信M",杭州明珠
-http://183.141.216.122:9999/udp/233.50.201.174:5140
-#EXTINF:-1 group-title="浙江电信M",杭州生活
-http://183.141.216.122:9999/udp/233.50.201.175:5140
-#EXTINF:-1 group-title="浙江电信M",杭州影视
-http://183.141.216.122:9999/udp/233.50.201.176:5140
-#EXTINF:-1 group-title="浙江电信M",杭州青少
-http://183.141.216.122:9999/udp/233.50.201.177:5140
-#EXTINF:-1 group-title="浙江电信M",哈哈炫动
-http://183.141.216.122:9999/udp/233.50.200.167:5140
-#EXTINF:-1 group-title="浙江电信M",卡酷少儿
-http://183.141.216.122:9999/udp/233.50.202.33:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV1
-http://183.141.216.122:9999/udp/233.50.200.99:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV2
-http://183.141.216.122:9999/udp/233.50.200.25:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV3
-http://183.141.216.122:9999/udp/233.50.200.107:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV4
-http://183.141.216.122:9999/udp/233.50.202.38:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV5
-http://183.141.216.122:9999/udp/233.50.200.108:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV6
-http://183.141.216.122:9999/udp/233.50.200.109:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV7
-http://183.141.216.122:9999/udp/233.50.200.24:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV8
-http://183.141.216.122:9999/udp/233.50.200.110:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV9
-http://183.141.216.122:9999/udp/233.50.200.23:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV10
-http://183.141.216.122:9999/udp/233.50.200.22:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV11
-http://183.141.216.122:9999/udp/233.50.202.39:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV12
-http://183.141.216.122:9999/udp/233.50.200.21:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV13
-http://183.141.216.122:9999/udp/233.50.200.111:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV14
-http://183.141.216.122:9999/udp/233.50.200.103:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV15
-http://183.141.216.122:9999/udp/233.50.202.40:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV16
-http://183.141.216.122:9999/udp/233.50.200.112:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV17
-http://183.141.216.122:9999/udp/233.50.200.113:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV5+
-http://183.141.216.122:9999/udp/233.50.201.220:5140
-#EXTINF:-1 group-title="浙江电信M",CCTV16-4K
-http://183.141.216.122:9999/udp/233.50.201.63:5140
-#EXTINF:-1 group-title="浙江电信M",CETV1
-http://183.141.216.122:9999/udp/233.50.200.169:5140
-#EXTINF:-1 group-title="浙江电信M",CETV4
-http://183.141.216.122:9999/udp/233.50.200.162:5140
-#EXTINF:-1 group-title="浙江电信M",凤凰中文
-http://183.141.216.122:9999/udp/233.50.202.35:5140
-#EXTINF:-1 group-title="浙江电信M",凤凰资讯
-http://183.141.216.122:9999/udp/233.50.202.36:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩竞技
-http://183.141.216.122:9999/udp/233.50.201.193:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩篮球
-http://183.141.216.122:9999/udp/233.50.201.194:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩青少
-http://183.141.216.122:9999/udp/233.50.201.195:5140
-#EXTINF:-1 group-title="浙江电信M",睛彩广场舞
-http://183.141.216.122:9999/udp/233.50.202.29:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV纪实4K
-http://183.141.216.122:9999/udp/233.50.200.182:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV少儿4K
-http://183.141.216.122:9999/udp/233.50.200.183:5140
-#EXTINF:-1 group-title="浙江电信M",BesTV视界4K
-http://183.141.216.122:9999/udp/233.50.200.185:5140
-#EXTINF:-1 group-title="浙江电信M",华数电视剧
-http://183.141.216.122:9999/udp/233.50.201.116:5140
-#EXTINF:-1 group-title="浙江电信M",探索记录
-http://183.141.216.122:9999/udp/233.50.201.117:5140
-#EXTINF:-1 group-title="浙江电信M",茶频道
-http://183.141.216.122:9999/udp/233.50.200.124:5140
-#EXTINF:-1 group-title="浙江电信M",动漫秀场
-http://183.141.216.122:9999/udp/233.50.200.12:5140
-#EXTINF:-1 group-title="浙江电信M",都市剧场
-http://183.141.216.122:9999/udp/233.50.200.11:5140
-#EXTINF:-1 group-title="浙江电信M",法治天地
-http://183.141.216.122:9999/udp/233.50.200.120:5140
-#EXTINF:-1 group-title="浙江电信M",欢笑剧场4K
-http://183.141.216.122:9999/udp/233.50.200.229:5140
-#EXTINF:-1 group-title="浙江电信M",金色学堂
-http://183.141.216.122:9999/udp/233.50.200.122:5140
-#EXTINF:-1 group-title="浙江电信M",快乐垂钓
-http://183.141.216.122:9999/udp/233.50.200.123:5140
-#EXTINF:-1 group-title="浙江电信M",乐游
-http://183.141.216.122:9999/udp/233.50.200.148:5140
-#EXTINF:-1 group-title="浙江电信M",生活时尚
-http://183.141.216.122:9999/udp/233.50.200.15:5140
-#EXTINF:-1 group-title="浙江电信M",游戏风云
-http://183.141.216.122:9999/udp/233.50.200.14:5140
-#EXTINF:-1 group-title="浙江电信M",环球旅游
-http://183.141.216.122:9999/udp/233.50.202.31:5140
-#EXTINF:-1 group-title="浙江电信M",魅力足球
-http://183.141.216.122:9999/udp/233.50.200.176:5140
-#EXTINF:-1 group-title="浙江电信M",第一财经
-http://183.141.216.122:9999/udp/233.50.200.125:5140
-#EXTINF:-1 group-title="浙江电信M",东方财经
-http://183.141.216.122:9999/udp/233.50.200.177:5140
-#EXTINF:-1 group-title="浙江电信M",纪实人文
-http://183.141.216.122:9999/udp/233.50.200.168:5140
-#EXTINF:-1 group-title="浙江电信M",北京纪实科教
-http://183.141.216.122:9999/udp/233.50.202.34:5140
-#EXTINF:-1 group-title="浙江电信M",云南卫视
-http://183.141.216.122:9999/udp/233.50.200.115:5140
-#EXTINF:-1 group-title="浙江电信M",安徽卫视
-http://183.141.216.122:9999/udp/233.50.200.106:5140
-#EXTINF:-1 group-title="浙江电信M",北京卫视
-http://183.141.216.122:9999/udp/233.50.200.179:5140
-#EXTINF:-1 group-title="浙江电信M",东方卫视
-http://183.141.216.122:9999/udp/233.50.200.248:5140
-#EXTINF:-1 group-title="浙江电信M",东南卫视
-http://183.141.216.122:9999/udp/233.50.201.146:5140
-#EXTINF:-1 group-title="浙江电信M",广东卫视
-http://183.141.216.122:9999/udp/233.50.200.149:5140
-#EXTINF:-1 group-title="浙江电信M",广西卫视
-http://183.141.216.122:9999/udp/233.50.200.136:5140
-#EXTINF:-1 group-title="浙江电信M",贵州卫视
-http://183.141.216.122:9999/udp/233.50.201.142:5140
-#EXTINF:-1 group-title="浙江电信M",海南卫视
-http://183.141.216.122:9999/udp/233.50.200.165:5140
-#EXTINF:-1 group-title="浙江电信M",河北卫视
-http://183.141.216.122:9999/udp/233.50.200.105:5140
-#EXTINF:-1 group-title="浙江电信M",河南卫视
-http://183.141.216.122:9999/udp/233.50.201.144:5140
-#EXTINF:-1 group-title="浙江电信M",黑龙江卫视
-http://183.141.216.122:9999/udp/233.50.200.189:5140
-#EXTINF:-1 group-title="浙江电信M",湖北卫视
-http://183.141.216.122:9999/udp/233.50.200.147:5140
-#EXTINF:-1 group-title="浙江电信M",湖南卫视
-http://183.141.216.122:9999/udp/233.50.200.190:5140
-#EXTINF:-1 group-title="浙江电信M",吉林卫视
-http://183.141.216.122:9999/udp/233.50.202.42:5140
-#EXTINF:-1 group-title="浙江电信M",江苏卫视
-http://183.141.216.122:9999/udp/233.50.200.144:5140
-#EXTINF:-1 group-title="浙江电信M",江西卫视
-http://183.141.216.122:9999/udp/233.50.200.119:5140
-#EXTINF:-1 group-title="浙江电信M",辽宁卫视
-http://183.141.216.122:9999/udp/233.50.201.141:5140
-#EXTINF:-1 group-title="浙江电信M",山东卫视
-http://183.141.216.122:9999/udp/233.50.201.105:5140
-#EXTINF:-1 group-title="浙江电信M",四川卫视
-http://183.141.216.122:9999/udp/233.50.200.118:5140
-#EXTINF:-1 group-title="浙江电信M",天津卫视
-http://183.141.216.122:9999/udp/233.50.200.104:5140
-#EXTINF:-1 group-title="浙江电信M",浙江卫视
-http://183.141.216.122:9999/udp/233.50.201.100:5140
-#EXTINF:-1 group-title="浙江电信M",重庆卫视
-http://183.141.216.122:9999/udp/233.50.200.114:5140
-#EXTINF:-1 group-title="浙江电信M",甘肃卫视
-http://183.141.216.122:9999/udp/233.50.200.163:5140
-#EXTINF:-1 group-title="浙江电信M",山西卫视
-http://183.141.216.122:9999/udp/233.50.201.51:5140
-#EXTINF:-1 group-title="浙江电信M",陕西卫视
-http://183.141.216.122:9999/udp/233.50.201.59:5140
-#EXTINF:-1 group-title="浙江电信M",宁夏卫视
-http://183.141.216.122:9999/udp/233.50.201.57:5140
-#EXTINF:-1 group-title="浙江电信M",青海卫视
-http://183.141.216.122:9999/udp/233.50.201.65:5140
-#EXTINF:-1 group-title="浙江电信M",西藏卫视
-http://183.141.216.122:9999/udp/233.50.201.70:5140
-#EXTINF:-1 group-title="浙江电信M",兵团卫视
-http://183.141.216.122:9999/udp/233.50.201.72:5140
-#EXTINF:-1 group-title="浙江电信M",深圳卫视
-http://183.141.216.122:9999/udp/233.50.200.188:5140
-#EXTINF:-1 group-title="浙江电信M",三沙卫视
-http://183.141.216.122:9999/udp/233.50.200.175:5140
-#EXTINF:-1 group-title="浙江电信M",江苏国际
-http://183.141.216.122:9999/udp/233.50.202.37:5140
-#EXTINF:-1 group-title="浙江电信M",浙江新闻
-http://183.141.216.122:9999/udp/233.50.201.137:5140
-#EXTINF:-1 group-title="浙江电信M",浙江之江纪录
-http://183.141.216.122:9999/udp/233.50.202.25:5140
-#EXTINF:-1 group-title="浙江电信M",浙江教育
-http://183.141.216.122:9999/udp/233.50.201.134:5140
-#EXTINF:-1 group-title="浙江电信M",浙江经济
-http://183.141.216.122:9999/udp/233.50.201.133:5140
-#EXTINF:-1 group-title="浙江电信M",浙江民生
-http://183.141.216.122:9999/udp/233.50.201.136:5140
-#EXTINF:-1 group-title="浙江电信M",浙江钱江
-http://183.141.216.122:9999/udp/233.50.201.132:5140
-#EXTINF:-1 group-title="浙江电信M",浙江少儿
-http://183.141.216.122:9999/udp/233.50.201.138:5140
-#EXTINF:-1 group-title="浙江电信M",杭州导视
-http://183.141.216.122:9999/udp/233.50.201.182:5140
-#EXTINF:-1 group-title="浙江电信M",杭州综合
-http://183.141.216.122:9999/udp/233.50.201.173:5140
-#EXTINF:-1 group-title="浙江电信M",杭州明珠
-http://183.141.216.122:9999/udp/233.50.201.174:5140
-#EXTINF:-1 group-title="浙江电信M",杭州生活
-http://183.141.216.122:9999/udp/233.50.201.175:5140
-#EXTINF:-1 group-title="浙江电信M",杭州影视
-http://183.141.216.122:9999/udp/233.50.201.176:5140
-#EXTINF:-1 group-title="浙江电信M",杭州青少
-http://183.141.216.122:9999/udp/233.50.201.177:5140
-#EXTINF:-1 group-title="浙江电信M",哈哈炫动
-http://183.141.216.122:9999/udp/233.50.200.167:5140
-#EXTINF:-1 group-title="浙江电信M",卡酷少儿
-http://183.141.216.122:9999/udp/233.50.202.33:5140
+http://211.158.48.47:8004/udp/225.0.4.171:7980
+#EXTINF:-1 group-title="陕西电信M",CCTV1
+http://36.46.98.218:8009/rtp/239.112.205.59:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV2
+http://36.46.98.218:8009/rtp/239.112.205.78:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV3
+http://36.46.98.218:8009/rtp/239.112.205.221:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV4
+http://36.46.98.218:8009/rtp/239.112.205.202:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV5
+http://36.46.98.218:8009/rtp/239.112.205.222:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV5+
+http://36.46.98.218:8009/rtp/239.111.205.13:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV6
+http://36.46.98.218:8009/rtp/239.112.205.223:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV7
+http://36.46.98.218:8009/rtp/239.112.205.83:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV8
+http://36.46.98.218:8009/rtp/239.112.205.224:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV9
+http://36.46.98.218:8009/rtp/239.112.205.85:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV10
+http://36.46.98.218:8009/rtp/239.112.205.86:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV11
+http://36.46.98.218:8009/rtp/239.112.205.213:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV12
+http://36.46.98.218:8009/rtp/239.112.205.88:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV14
+http://36.46.98.218:8009/rtp/239.112.205.91:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV15
+http://36.46.98.218:8009/rtp/239.112.205.214:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV16
+http://36.46.98.218:8009/rtp/239.111.205.134:5140
+#EXTINF:-1 group-title="陕西电信M",CCTV17
+http://36.46.98.218:8009/rtp/239.112.205.211:5140
+#EXTINF:-1 group-title="陕西电信M",CGTN
+http://36.46.98.218:8009/rtp/239.111.205.32:5140
+#EXTINF:-1 group-title="陕西电信M",CGTN espsnol
+http://36.46.98.218:8009/rtp/239.111.205.33:5140
+#EXTINF:-1 group-title="陕西电信M",CGTN francais
+http://36.46.98.218:8009/rtp/239.111.205.34:5140
+#EXTINF:-1 group-title="陕西电信M",陕视直播
+http://36.46.98.218:8009/rtp/239.112.205.217:5140
+#EXTINF:-1 group-title="陕西电信M",陕西卫视
+http://36.46.98.218:8009/rtp/239.111.205.35:5140
+#EXTINF:-1 group-title="陕西电信M",农林卫视
+http://36.46.98.218:8009/rtp/239.112.205.27:5140
+#EXTINF:-1 group-title="陕西电信M",新闻资讯
+http://36.46.98.218:8009/rtp/239.111.205.28:5140
+#EXTINF:-1 group-title="陕西电信M",都市青春
+http://36.46.98.218:8009/rtp/239.111.205.42:5140
+#EXTINF:-1 group-title="陕西电信M",陕西生活
+http://36.46.98.218:8009/rtp/239.112.205.20:5140
+#EXTINF:-1 group-title="陕西电信M",陕西影视
+http://36.46.98.218:8009/rtp/239.112.205.21:5140
+#EXTINF:-1 group-title="陕西电信M",陕西公共
+http://36.46.98.218:8009/rtp/239.112.205.22:5140
+#EXTINF:-1 group-title="陕西电信M",体育休闲
+http://36.46.98.218:8009/rtp/239.111.205.36:5140
+#EXTINF:-1 group-title="陕西电信M",西部电影
+http://36.46.98.218:8009/rtp/239.111.205.41:5140
+#EXTINF:-1 group-title="陕西电信M",新闻综合
+http://36.46.98.218:8009/rtp/239.111.205.242:5140
+#EXTINF:-1 group-title="陕西电信M",都市
+http://36.46.98.218:8009/rtp/239.111.205.243:5140
+#EXTINF:-1 group-title="陕西电信M",商务资讯
+http://36.46.98.218:8009/rtp/239.112.205.174:5140
+#EXTINF:-1 group-title="陕西电信M",影视
+http://36.46.98.218:8009/rtp/239.112.205.175:5140
+#EXTINF:-1 group-title="陕西电信M",丝路
+http://36.46.98.218:8009/rtp/239.112.205.176:5140
+#EXTINF:-1 group-title="陕西电信M",西安教育
+http://36.46.98.218:8009/rtp/239.112.205.142:5140
+#EXTINF:-1 group-title="陕西电信M",圆点导视
+http://36.46.98.218:8009/rtp/239.112.205.237:5140
+#EXTINF:-1 group-title="陕西电信M",圆点生活
+http://36.46.98.218:8009/rtp/239.111.205.15:5140
+#EXTINF:-1 group-title="陕西电信M",圆点影视
+http://36.46.98.218:8009/rtp/239.111.205.64:5140
+#EXTINF:-1 group-title="陕西电信M",悦美生活
+http://36.46.98.218:8009/rtp/239.111.205.30:5140
+#EXTINF:-1 group-title="陕西电信M",曲艺大观
+http://36.46.98.218:8009/rtp/239.111.205.31:5140
+#EXTINF:-1 group-title="陕西电信M",睛彩三秦
+http://36.46.98.218:8009/rtp/239.112.205.26:5140
+#EXTINF:-1 group-title="陕西电信M",生态环境
+http://36.46.98.218:8009/rtp/239.111.205.60:5140
+#EXTINF:-1 group-title="陕西电信M",环球旅游
+http://36.46.98.218:8009/rtp/239.111.205.61:5140
+#EXTINF:-1 group-title="陕西电信M",优优宝贝
+http://36.46.98.218:8009/rtp/239.111.205.62:5140
+#EXTINF:-1 group-title="陕西电信M",车迷
+http://36.46.98.218:8009/rtp/239.111.205.63:5140
+#EXTINF:-1 group-title="陕西电信M",全纪实
+http://36.46.98.218:8009/rtp/239.111.205.3:5140
+#EXTINF:-1 group-title="陕西电信M",纪实人文
+http://36.46.98.218:8009/rtp/239.112.205.204:5140
+#EXTINF:-1 group-title="陕西电信M",都市剧场
+http://36.46.98.218:8009/rtp/239.111.205.2:5140
+#EXTINF:-1 group-title="陕西电信M",欢笑剧场
+http://36.46.98.218:8009/rtp/239.112.205.236:5140
+#EXTINF:-1 group-title="陕西电信M",游戏风云
+http://36.46.98.218:8009/rtp/239.111.205.4:5140
+#EXTINF:-1 group-title="陕西电信M",CHC家庭影院
+http://36.46.98.218:8009/rtp/239.112.205.205:5140
+#EXTINF:-1 group-title="陕西电信M",CHC高清电影
+http://36.46.98.218:8009/rtp/239.112.205.206:5140
+#EXTINF:-1 group-title="陕西电信M",CHC动作电影
+http://36.46.98.218:8009/rtp/239.112.205.207:5140
+#EXTINF:-1 group-title="陕西电信M",第一剧场
+http://36.46.98.218:8009/rtp/239.111.205.65:5140
+#EXTINF:-1 group-title="陕西电信M",风云剧场
+http://36.46.98.218:8009/rtp/239.111.205.66:5140
+#EXTINF:-1 group-title="陕西电信M",怀旧剧场
+http://36.46.98.218:8009/rtp/239.111.205.67:5140
+#EXTINF:-1 group-title="陕西电信M",风云足球
+http://36.46.98.218:8009/rtp/239.111.205.68:5140
+#EXTINF:-1 group-title="陕西电信M",风云音乐
+http://36.46.98.218:8009/rtp/239.111.205.69:5140
+#EXTINF:-1 group-title="陕西电信M",央视台球
+http://36.46.98.218:8009/rtp/239.111.205.70:5140
+#EXTINF:-1 group-title="陕西电信M",世界地理
+http://36.46.98.218:8009/rtp/239.111.205.71:5140
+#EXTINF:-1 group-title="陕西电信M",女性时尚
+http://36.46.98.218:8009/rtp/239.111.205.72:5140
+#EXTINF:-1 group-title="陕西电信M",高尔夫网球
+http://36.46.98.218:8009/rtp/239.111.205.73:5140
+#EXTINF:-1 group-title="陕西电信M",兵器科技
+http://36.46.98.218:8009/rtp/239.111.205.74:5140
+#EXTINF:-1 group-title="陕西电信M",央视文化精品
+http://36.46.98.218:8009/rtp/239.111.205.75:5140
+#EXTINF:-1 group-title="陕西电信M",CETV1
+http://36.46.98.218:8009/rtp/239.109.205.47:8312
+#EXTINF:-1 group-title="陕西电信M",CETV2
+http://36.46.98.218:8009/rtp/239.109.205.48:8320
+#EXTINF:-1 group-title="陕西电信M",CETV4
+http://36.46.98.218:8009/rtp/239.109.205.49:8328
+#EXTINF:-1 group-title="陕西电信M",CETV1
+http://36.46.98.218:8009/rtp/239.112.205.137:5140
+#EXTINF:-1 group-title="陕西电信M",CETV4
+http://36.46.98.218:8009/rtp/239.111.205.169:5140
+#EXTINF:-1 group-title="陕西电信M",东方卫视
+http://36.46.98.218:8009/rtp/239.112.205.61:5140
+#EXTINF:-1 group-title="陕西电信M",湖南卫视
+http://36.46.98.218:8009/rtp/239.112.205.62:5140
+#EXTINF:-1 group-title="陕西电信M",金鹰纪实
+http://36.46.98.218:8009/rtp/239.112.205.203:5140
+#EXTINF:-1 group-title="陕西电信M",金鹰卡通
+http://36.46.98.218:8009/rtp/239.112.205.136:5140
+#EXTINF:-1 group-title="陕西电信M",江苏卫视
+http://36.46.98.218:8009/rtp/239.112.205.63:5140
+#EXTINF:-1 group-title="陕西电信M",优漫卡通
+http://36.46.98.218:8009/rtp/239.112.205.185:5140
+#EXTINF:-1 group-title="陕西电信M",浙江卫视
+http://36.46.98.218:8009/rtp/239.112.205.64:5140
+#EXTINF:-1 group-title="陕西电信M",北京卫视
+http://36.46.98.218:8009/rtp/239.112.205.65:5140
+#EXTINF:-1 group-title="陕西电信M",卡酷动画
+http://36.46.98.218:8009/rtp/239.112.205.138:5140
+#EXTINF:-1 group-title="陕西电信M",广东卫视
+http://36.46.98.218:8009/rtp/239.112.205.66:5140
+#EXTINF:-1 group-title="陕西电信M",嘉佳卡通
+http://36.46.98.218:8009/rtp/239.112.205.135:5140
+#EXTINF:-1 group-title="陕西电信M",深圳卫视
+http://36.46.98.218:8009/rtp/239.112.205.67:5140
+#EXTINF:-1 group-title="陕西电信M",黑龙江卫视
+http://36.46.98.218:8009/rtp/239.112.205.68:5140
+#EXTINF:-1 group-title="陕西电信M",湖北卫视
+http://36.46.98.218:8009/rtp/239.112.205.69:5140
+#EXTINF:-1 group-title="陕西电信M",山东卫视
+http://36.46.98.218:8009/rtp/239.112.205.70:5140
+#EXTINF:-1 group-title="陕西电信M",山东教育
+http://36.46.98.218:8009/rtp/239.109.205.91:8664
+#EXTINF:-1 group-title="陕西电信M",四川卫视
+http://36.46.98.218:8009/rtp/239.112.205.184:5140
+#EXTINF:-1 group-title="陕西电信M",安徽卫视
+http://36.46.98.218:8009/rtp/239.112.205.72:5140
+#EXTINF:-1 group-title="陕西电信M",重庆卫视
+http://36.46.98.218:8009/rtp/239.112.205.179:5140
+#EXTINF:-1 group-title="陕西电信M",天津卫视
+http://36.46.98.218:8009/rtp/239.112.205.74:5140
+#EXTINF:-1 group-title="陕西电信M",东南卫视
+http://36.46.98.218:8009/rtp/239.112.205.182:5140
+#EXTINF:-1 group-title="陕西电信M",厦门卫视
+http://36.46.98.218:8009/rtp/239.112.205.60:5140
+#EXTINF:-1 group-title="陕西电信M",河南卫视
+http://36.46.98.218:8009/rtp/239.112.205.180:5140
+#EXTINF:-1 group-title="陕西电信M",江西卫视
+http://36.46.98.218:8009/rtp/239.111.205.16:5140
+#EXTINF:-1 group-title="陕西电信M",吉林卫视
+http://36.46.98.218:8009/rtp/239.112.205.183:5140
+#EXTINF:-1 group-title="陕西电信M",贵州卫视
+http://36.46.98.218:8009/rtp/239.112.205.178:5140
+#EXTINF:-1 group-title="陕西电信M",辽宁卫视
+http://36.46.98.218:8009/rtp/239.112.205.73:5140
+#EXTINF:-1 group-title="陕西电信M",河北卫视
+http://36.46.98.218:8009/rtp/239.112.205.200:5140
+#EXTINF:-1 group-title="陕西电信M",云南卫视
+http://36.46.98.218:8009/rtp/239.112.205.58:5140
+#EXTINF:-1 group-title="陕西电信M",山西卫视
+http://36.46.98.218:8009/rtp/239.112.205.46:5140
+#EXTINF:-1 group-title="陕西电信M",甘肃卫视
+http://36.46.98.218:8009/rtp/239.112.205.48:5140
+#EXTINF:-1 group-title="陕西电信M",宁夏卫视
+http://36.46.98.218:8009/rtp/239.112.205.49:5140
+#EXTINF:-1 group-title="陕西电信M",海南卫视
+http://36.46.98.218:8009/rtp/239.112.205.50:5140
+#EXTINF:-1 group-title="陕西电信M",广西卫视
+http://36.46.98.218:8009/rtp/239.112.205.51:5140
+#EXTINF:-1 group-title="陕西电信M",青海卫视
+http://36.46.98.218:8009/rtp/239.112.205.53:5140
+#EXTINF:-1 group-title="陕西电信M",西藏卫视
+http://36.46.98.218:8009/rtp/239.112.205.54:5140
+#EXTINF:-1 group-title="陕西电信M",内蒙古卫视
+http://36.46.98.218:8009/rtp/239.112.205.55:5140
+#EXTINF:-1 group-title="陕西电信M",新疆卫视
+http://36.46.98.218:8009/rtp/239.112.205.56:5140
+#EXTINF:-1 group-title="陕西电信M",兵团卫视
+http://36.46.98.218:8009/rtp/239.112.205.198:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.20:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.21:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.22:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.23:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.25:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.43:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.47:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.49:5140
+#EXTINF:-1 group-title="陕西电信M",百事直播
+http://36.46.98.218:8009/rtp/239.111.205.202:5140
+#EXTINF:-1 group-title="广东电信M",CCTV1
+http://116.30.248.95:9876/udp/239.77.0.129:5146
+#EXTINF:-1 group-title="广东电信M",CCTV2
+http://116.30.248.95:9876/udp/239.77.1.158:5146
+#EXTINF:-1 group-title="广东电信M",CCTV3
+http://116.30.248.95:9876/udp/239.77.0.169:5146
+#EXTINF:-1 group-title="广东电信M",CCTV4
+http://116.30.248.95:9876/udp/239.77.1.163:5146
+#EXTINF:-1 group-title="广东电信M",CCTV4美洲
+http://116.30.248.95:9876/udp/239.253.43.121:5146
+#EXTINF:-1 group-title="广东电信M",CCTV4欧洲
+http://116.30.248.95:9876/udp/239.253.43.120:5146
+#EXTINF:-1 group-title="广东电信M",CCTV5
+http://116.30.248.95:9876/udp/239.77.0.170:5146
+#EXTINF:-1 group-title="广东电信M",CCTV6
+http://116.30.248.95:9876/udp/239.77.0.171:5146
+#EXTINF:-1 group-title="广东电信M",CCTV7
+http://116.30.248.95:9876/udp/239.77.1.159:5146
+#EXTINF:-1 group-title="广东电信M",CCTV8
+http://116.30.248.95:9876/udp/239.77.0.172:5146
+#EXTINF:-1 group-title="广东电信M",CCTV9
+http://116.30.248.95:9876/udp/239.77.1.160:5146
+#EXTINF:-1 group-title="广东电信M",CCTV10
+http://116.30.248.95:9876/udp/239.77.1.113:5146
+#EXTINF:-1 group-title="广东电信M",CCTV11
+http://116.30.248.95:9876/udp/239.77.1.238:5146
+#EXTINF:-1 group-title="广东电信M",CCTV12
+http://116.30.248.95:9876/udp/239.77.1.109:5146
+#EXTINF:-1 group-title="广东电信M",CCTV13
+http://116.30.248.95:9876/udp/239.77.0.188:5146
+#EXTINF:-1 group-title="广东电信M",CCTV14
+http://116.30.248.95:9876/udp/239.77.1.161:5146
+#EXTINF:-1 group-title="广东电信M",CCTV15
+http://116.30.248.95:9876/udp/239.77.1.239:5146
+#EXTINF:-1 group-title="广东电信M",CCTV16
+http://116.30.248.95:9876/udp/239.77.1.76:5146
+#EXTINF:-1 group-title="广东电信M",CCTV17
+http://116.30.248.95:9876/udp/239.77.1.121:5146
+#EXTINF:-1 group-title="广东电信M",CCTV4K
+http://116.30.248.95:9876/udp/239.77.0.194:5146
+#EXTINF:-1 group-title="广东电信M",CCTV8K
+http://116.30.248.95:9876/udp/239.253.43.106:5146
+#EXTINF:-1 group-title="广东电信M",CCTV5+
+http://116.30.248.95:9876/udp/239.77.0.87:5146
+#EXTINF:-1 group-title="广东电信M",CCTV16-4K
+http://116.30.248.95:9876/udp/239.77.1.98:5146
+#EXTINF:-1 group-title="广东电信M",CCTV电视指南
+http://116.30.248.95:9876/udp/239.253.43.10:5146
+#EXTINF:-1 group-title="广东电信M",CCTV第一剧场
+http://116.30.248.95:9876/udp/239.253.43.15:5146
+#EXTINF:-1 group-title="广东电信M",CCTV怀旧剧场
+http://116.30.248.95:9876/udp/239.253.43.5:5146
+#EXTINF:-1 group-title="广东电信M",CCTV风云剧场
+http://116.30.248.95:9876/udp/239.253.43.16:5146
+#EXTINF:-1 group-title="广东电信M",CCTV世界地理
+http://116.30.248.95:9876/udp/239.253.43.7:5146
+#EXTINF:-1 group-title="广东电信M",CCTV兵器科技
+http://116.30.248.95:9876/udp/239.253.43.9:5146
+#EXTINF:-1 group-title="广东电信M",CCTV女性时尚
+http://116.30.248.95:9876/udp/239.253.43.8:5146
+#EXTINF:-1 group-title="广东电信M",CCTV央视台球
+http://116.30.248.95:9876/udp/239.253.43.11:5146
+#EXTINF:-1 group-title="广东电信M",CCTV风云足球
+http://116.30.248.95:9876/udp/239.253.43.14:5146
+#EXTINF:-1 group-title="广东电信M",CCTV高尔夫网球
+http://116.30.248.95:9876/udp/239.253.43.12:5146
+#EXTINF:-1 group-title="广东电信M",CCTV央视文化精品
+http://116.30.248.95:9876/udp/239.253.43.13:5146
+#EXTINF:-1 group-title="广东电信M",CCTV风云音乐
+http://116.30.248.95:9876/udp/239.253.43.6:5146
+#EXTINF:-1 group-title="广东电信M",CCTV老故事
+http://116.30.248.95:9876/udp/239.77.0.220:5146
+#EXTINF:-1 group-title="广东电信M",CCTV发现之旅
+http://116.30.248.95:9876/udp/239.253.43.127:5146
+#EXTINF:-1 group-title="广东电信M",CCTV中学生
+http://116.30.248.95:9876/udp/239.77.1.195:5146
+#EXTINF:-1 group-title="广东电信M",CGTN
+http://116.30.248.95:9876/udp/239.77.0.199:5146
+#EXTINF:-1 group-title="广东电信M",CGTN纪录
+http://116.30.248.95:9876/udp/239.253.43.122:5146
+#EXTINF:-1 group-title="广东电信M",CGTN西班牙语
+http://116.30.248.95:9876/udp/239.77.0.221:5146
+#EXTINF:-1 group-title="广东电信M",CGTN法语
+http://116.30.248.95:9876/udp/239.77.0.228:5146
+#EXTINF:-1 group-title="广东电信M",CGTN阿拉伯语
+http://116.30.248.95:9876/udp/239.253.43.200:5146
+#EXTINF:-1 group-title="广东电信M",CGTN俄语
+http://116.30.248.95:9876/udp/239.253.43.201:5146
+#EXTINF:-1 group-title="广东电信M",CETV1
+http://116.30.248.95:9876/udp/239.77.0.200:5146
+#EXTINF:-1 group-title="广东电信M",CETV2
+http://116.30.248.95:9876/udp/239.77.1.69:5146
+#EXTINF:-1 group-title="广东电信M",CETV4
+http://116.30.248.95:9876/udp/239.77.1.200:5146
+#EXTINF:-1 group-title="广东电信M",CHC高清电影
+http://116.30.248.95:9876/udp/239.77.0.27:5146
+#EXTINF:-1 group-title="广东电信M",中国交通
+http://116.30.248.95:9876/udp/239.77.1.249:5146
+#EXTINF:-1 group-title="广东电信M",中国天气
+http://116.30.248.95:9876/udp/239.77.1.143:5146
+#EXTINF:-1 group-title="广东电信M",云南卫视
+http://116.30.248.95:9876/udp/239.253.43.100:5146
+#EXTINF:-1 group-title="广东电信M",湖南卫视
+http://116.30.248.95:9876/udp/239.77.0.127:5146
+#EXTINF:-1 group-title="广东电信M",浙江卫视
+http://116.30.248.95:9876/udp/239.77.0.89:5146
+#EXTINF:-1 group-title="广东电信M",江苏卫视
+http://116.30.248.95:9876/udp/239.77.0.90:5146
+#EXTINF:-1 group-title="广东电信M",东方卫视
+http://116.30.248.95:9876/udp/239.77.0.98:5146
+#EXTINF:-1 group-title="广东电信M",安徽卫视
+http://116.30.248.95:9876/udp/239.77.0.183:5146
+#EXTINF:-1 group-title="广东电信M",北京卫视
+http://116.30.248.95:9876/udp/239.77.0.91:5146
+#EXTINF:-1 group-title="广东电信M",天津卫视
+http://116.30.248.95:9876/udp/239.77.0.131:5146
+#EXTINF:-1 group-title="广东电信M",山东卫视
+http://116.30.248.95:9876/udp/239.77.0.94:5146
+#EXTINF:-1 group-title="广东电信M",江西卫视
+http://116.30.248.95:9876/udp/239.77.0.149:5146
+#EXTINF:-1 group-title="广东电信M",湖北卫视
+http://116.30.248.95:9876/udp/239.77.0.128:5146
+#EXTINF:-1 group-title="广东电信M",辽宁卫视
+http://116.30.248.95:9876/udp/239.77.0.123:5146
+#EXTINF:-1 group-title="广东电信M",黑龙江卫视
+http://116.30.248.95:9876/udp/239.77.0.124:5146
+#EXTINF:-1 group-title="广东电信M",贵州卫视
+http://116.30.248.95:9876/udp/239.77.0.230:5146
+#EXTINF:-1 group-title="广东电信M",四川卫视
+http://116.30.248.95:9876/udp/239.77.0.159:5146
+#EXTINF:-1 group-title="广东电信M",河南卫视
+http://116.30.248.95:9876/udp/239.77.0.17:5146
+#EXTINF:-1 group-title="广东电信M",重庆卫视
+http://116.30.248.95:9876/udp/239.77.0.182:5146
+#EXTINF:-1 group-title="广东电信M",河北卫视
+http://116.30.248.95:9876/udp/239.77.0.148:5146
+#EXTINF:-1 group-title="广东电信M",东南卫视
+http://116.30.248.95:9876/udp/239.77.0.146:5146
+#EXTINF:-1 group-title="广东电信M",广东卫视
+http://116.30.248.95:9876/udp/239.77.0.166:5146
+#EXTINF:-1 group-title="广东电信M",广西卫视
+http://116.30.248.95:9876/udp/239.77.0.139:5146
+#EXTINF:-1 group-title="广东电信M",吉林卫视
+http://116.30.248.95:9876/udp/239.77.0.150:5146
+#EXTINF:-1 group-title="广东电信M",海南卫视
+http://116.30.248.95:9876/udp/239.253.43.101:5146
+#EXTINF:-1 group-title="广东电信M",甘肃卫视
+http://116.30.248.95:9876/udp/239.77.0.189:5146
+#EXTINF:-1 group-title="广东电信M",青海卫视
+http://116.30.248.95:9876/udp/239.253.43.125:5146
+#EXTINF:-1 group-title="广东电信M",陕西卫视
+http://116.30.248.95:9876/udp/239.77.1.54:5146
+#EXTINF:-1 group-title="广东电信M",山西卫视
+http://116.30.248.95:9876/udp/239.77.1.74:5146
+#EXTINF:-1 group-title="广东电信M",内蒙古卫视
+http://116.30.248.95:9876/udp/239.77.1.55:5146
+#EXTINF:-1 group-title="广东电信M",宁夏卫视
+http://116.30.248.95:9876/udp/239.77.1.47:5146
+#EXTINF:-1 group-title="广东电信M",西藏卫视
+http://116.30.248.95:9876/udp/239.77.1.49:5146
+#EXTINF:-1 group-title="广东电信M",新疆卫视
+http://116.30.248.95:9876/udp/239.77.1.53:5146
+#EXTINF:-1 group-title="广东电信M",兵团卫视
+http://116.30.248.95:9876/udp/239.77.1.80:5146
+#EXTINF:-1 group-title="广东电信M",深圳卫视
+http://116.30.248.95:9876/udp/239.77.0.130:5146
+#EXTINF:-1 group-title="广东电信M",厦门卫视
+http://116.30.248.95:9876/udp/239.77.0.96:5146
+#EXTINF:-1 group-title="广东电信M",三沙卫视
+http://116.30.248.95:9876/udp/239.253.43.113:5146
+#EXTINF:-1 group-title="广东电信M",延边卫视
+http://116.30.248.95:9876/udp/239.77.1.99:5146
+#EXTINF:-1 group-title="广东电信M",大湾区卫视
+http://116.30.248.95:9876/udp/239.77.0.215:5146
+#EXTINF:-1 group-title="广东电信M",金鹰纪实
+http://116.30.248.95:9876/udp/239.77.1.217:5146
+#EXTINF:-1 group-title="广东电信M",纪实人文
+http://116.30.248.95:9876/udp/239.77.1.216:5146
+#EXTINF:-1 group-title="广东电信M",求索纪录
+http://116.30.248.95:9876/udp/239.77.0.21:5146
+#EXTINF:-1 group-title="广东电信M",求索生活
+http://116.30.248.95:9876/udp/239.77.0.153:5146
+#EXTINF:-1 group-title="广东电信M",早期教育
+http://116.30.248.95:9876/udp/239.77.0.180:5146
+#EXTINF:-1 group-title="广东电信M",山东教育卫视
+http://116.30.248.95:9876/udp/239.77.0.83:5146
+#EXTINF:-1 group-title="广东电信M",财富天下
+http://116.30.248.95:9876/udp/239.77.0.113:5146
+#EXTINF:-1 group-title="广东电信M",茶频道
+http://116.30.248.95:9876/udp/239.77.0.15:5146
+#EXTINF:-1 group-title="广东电信M",快乐垂钓
+http://116.30.248.95:9876/udp/239.77.0.145:5146
+#EXTINF:-1 group-title="广东电信M",环球奇观
+http://116.30.248.95:9876/udp/239.77.1.198:5146
+#EXTINF:-1 group-title="广东电信M",书画
+http://116.30.248.95:9876/udp/239.77.1.115:5146
+#EXTINF:-1 group-title="广东电信M",国学
+http://116.30.248.95:9876/udp/239.77.1.105:5146
+#EXTINF:-1 group-title="广东电信M",汽摩
+http://116.30.248.95:9876/udp/239.77.1.205:5146
+#EXTINF:-1 group-title="广东电信M",天元围棋
+http://116.30.248.95:9876/udp/239.253.43.98:5146
+#EXTINF:-1 group-title="广东电信M",证券服务
+http://116.30.248.95:9876/udp/239.77.1.135:5146
+#EXTINF:-1 group-title="广东电信M",喜粤TV导视
+http://116.30.248.95:9876/udp/239.77.0.185:5146
+#EXTINF:-1 group-title="广东电信M",IPTV1
+http://116.30.248.95:9876/udp/239.77.1.203:5146
+#EXTINF:-1 group-title="广东电信M",IPTV2
+http://116.30.248.95:9876/udp/239.77.1.201:5146
+#EXTINF:-1 group-title="广东电信M",IPTV3
+http://116.30.248.95:9876/udp/239.77.1.64:5146
+#EXTINF:-1 group-title="广东电信M",IPTV4
+http://116.30.248.95:9876/udp/239.77.1.56:5146
+#EXTINF:-1 group-title="广东电信M",IPTV爱综艺
+http://116.30.248.95:9876/udp/239.77.1.78:5146
+#EXTINF:-1 group-title="广东电信M",IPTV爱体育
+http://116.30.248.95:9876/udp/239.77.1.116:5146
+#EXTINF:-1 group-title="广东电信M",IPTV爱电影
+http://116.30.248.95:9876/udp/239.77.1.138:5146
+#EXTINF:-1 group-title="广东电信M",IPTV爱大剧
+http://116.30.248.95:9876/udp/239.77.1.82:5146
+#EXTINF:-1 group-title="广东电信M",IPTV谍战剧场
+http://116.30.248.95:9876/udp/239.77.1.83:5146
+#EXTINF:-1 group-title="广东电信M",IPTV相声小品
+http://116.30.248.95:9876/udp/239.77.1.84:5146
+#EXTINF:-1 group-title="广东电信M",IPTV野外
+http://116.30.248.95:9876/udp/239.77.1.85:5146
+#EXTINF:-1 group-title="广东电信M",IPTV法治
+http://116.30.248.95:9876/udp/239.77.1.86:5146
+#EXTINF:-1 group-title="广东电信M",IPTV魅力时尚
+http://116.30.248.95:9876/udp/239.77.1.88:5146
+#EXTINF:-1 group-title="广东电信M",IPTV经典电影
+http://116.30.248.95:9876/udp/239.77.1.89:5146
+#EXTINF:-1 group-title="广东电信M",IPTV热播剧场
+http://116.30.248.95:9876/udp/239.77.1.90:5146
+#EXTINF:-1 group-title="广东电信M",IPTV少儿动画
+http://116.30.248.95:9876/udp/239.77.1.91:5146
+#EXTINF:-1 group-title="广东电信M",IPTV收视指南
+http://116.30.248.95:9876/udp/239.77.0.111:5146
+#EXTINF:-1 group-title="广东电信M",EBU
+http://116.30.248.95:9876/udp/239.253.43.165:5146
+#EXTINF:-1 group-title="广东电信M",Bestv1
+http://116.30.248.95:9876/udp/239.253.43.115:5146
+#EXTINF:-1 group-title="广东电信M",Bestv2
+http://116.30.248.95:9876/udp/239.253.43.116:5146
+#EXTINF:-1 group-title="广东电信M",Bestv3
+http://116.30.248.95:9876/udp/239.253.43.117:5146
+#EXTINF:-1 group-title="广东电信M",Bestv4
+http://116.30.248.95:9876/udp/239.253.43.118:5146
+#EXTINF:-1 group-title="广东电信M",Bestv5
+http://116.30.248.95:9876/udp/239.253.43.119:5146
+#EXTINF:-1 group-title="广东电信M",金鹰卡通
+http://116.30.248.95:9876/udp/239.77.0.164:5146
+#EXTINF:-1 group-title="广东电信M",嘉佳卡通
+http://116.30.248.95:9876/udp/239.77.0.179:5146
+#EXTINF:-1 group-title="广东电信M",广东珠江
+http://116.30.248.95:9876/udp/239.77.0.114:5146
+#EXTINF:-1 group-title="广东电信M",广东新闻
+http://116.30.248.95:9876/udp/239.77.0.173:5146
+#EXTINF:-1 group-title="广东电信M",广东民生
+http://116.30.248.95:9876/udp/239.77.0.225:5146
+#EXTINF:-1 group-title="广东电信M",广东体育
+http://116.30.248.95:9876/udp/239.77.0.168:5146
+#EXTINF:-1 group-title="广东电信M",经济科教
+http://116.30.248.95:9876/udp/239.77.0.167:5146
+#EXTINF:-1 group-title="广东电信M",广东影视
+http://116.30.248.95:9876/udp/239.77.0.217:5146
+#EXTINF:-1 group-title="广东电信M",广东少儿
+http://116.30.248.95:9876/udp/239.77.0.250:5146
+#EXTINF:-1 group-title="广东电信M",岭南戏曲
+http://116.30.248.95:9876/udp/239.77.0.16:5146
+#EXTINF:-1 group-title="广东电信M",现代教育
+http://116.30.248.95:9876/udp/239.77.0.18:5146
+#EXTINF:-1 group-title="广东电信M",广东移动
+http://116.30.248.95:9876/udp/239.77.0.20:5146
+#EXTINF:-1 group-title="广东电信M",广东4K
+http://116.30.248.95:9876/udp/239.77.0.245:5146
+#EXTINF:-1 group-title="广东电信M",广州综合
+http://116.30.248.95:9876/udp/239.253.43.71:5146
+#EXTINF:-1 group-title="广东电信M",广州新闻
+http://116.30.248.95:9876/udp/239.253.43.72:5146
+#EXTINF:-1 group-title="广东电信M",广州影视
+http://116.30.248.95:9876/udp/239.253.43.73:5146
+#EXTINF:-1 group-title="广东电信M",广州法治
+http://116.30.248.95:9876/udp/239.253.43.74:5146
+#EXTINF:-1 group-title="广东电信M",南国都市4K
+http://116.30.248.95:9876/udp/239.253.43.99:5146
+#EXTINF:-1 group-title="广东电信M",深圳都市
+http://116.30.248.95:9876/udp/239.77.1.176:5146
+#EXTINF:-1 group-title="广东电信M",深圳电视剧
+http://116.30.248.95:9876/udp/239.77.1.177:5146
+#EXTINF:-1 group-title="广东电信M",深圳财经生活
+http://116.30.248.95:9876/udp/239.77.1.242:5146
+#EXTINF:-1 group-title="广东电信M",深圳体育健康
+http://116.30.248.95:9876/udp/239.77.1.128:5146
+#EXTINF:-1 group-title="广东电信M",深圳少儿
+http://116.30.248.95:9876/udp/239.77.1.244:5146
+#EXTINF:-1 group-title="广东电信M",深圳宝安
+http://116.30.248.95:9876/udp/239.77.1.67:5146
+#EXTINF:-1 group-title="广东电信M",深圳宝安第一课
+http://116.30.248.95:9876/udp/239.77.1.225:5146
+#EXTINF:-1 group-title="广东电信M",深圳龙岗频道
+http://116.30.248.95:9876/udp/239.77.1.223:5146
+#EXTINF:-1 group-title="广东电信M",深圳众创TV
+http://116.30.248.95:9876/udp/239.77.1.247:5146
+#EXTINF:-1 group-title="广东电信M",深圳移动电视
+http://116.30.248.95:9876/udp/239.77.1.175:5146
+#EXTINF:-1 group-title="广东电信M",韶关新闻综合
+http://116.30.248.95:9876/udp/239.77.0.117:5146
+#EXTINF:-1 group-title="广东电信M",湛江新闻综合
+http://116.30.248.95:9876/udp/239.77.0.141:5146
+#EXTINF:-1 group-title="广东电信M",湛江公共
+http://116.30.248.95:9876/udp/239.77.0.140:5146
+#EXTINF:-1 group-title="广东电信M",揭阳综合
+http://116.30.248.95:9876/udp/239.77.0.229:5146
+#EXTINF:-1 group-title="广东电信M",揭阳生活
+http://116.30.248.95:9876/udp/239.77.0.251:5146
+#EXTINF:-1 group-title="广东电信M",江门综合
+http://116.30.248.95:9876/udp/239.77.0.201:5146
+#EXTINF:-1 group-title="广东电信M",江门侨乡生活
+http://116.30.248.95:9876/udp/239.77.0.202:5146
+#EXTINF:-1 group-title="广东电信M",惠州1
+http://116.30.248.95:9876/udp/239.77.1.232:5146
+#EXTINF:-1 group-title="广东电信M",惠州2
+http://116.30.248.95:9876/udp/239.77.1.233:5146
+#EXTINF:-1 group-title="广东电信M",汕尾新闻综合
+http://116.30.248.95:9876/udp/239.77.0.25:5146
+#EXTINF:-1 group-title="广东电信M",汕尾文化生活
+http://116.30.248.95:9876/udp/239.77.0.187:5146
+#EXTINF:-1 group-title="广东电信M",珠海
+http://116.30.248.95:9876/udp/239.77.0.155:5146
+#EXTINF:-1 group-title="广东电信M",肇庆综合
+http://116.30.248.95:9876/udp/239.253.43.1:5146
+#EXTINF:-1 group-title="广东电信M",肇庆生活服务
+http://116.30.248.95:9876/udp/239.253.43.2:5146
+#EXTINF:-1 group-title="广东电信M",河源综合
+http://116.30.248.95:9876/udp/239.253.43.213:5146
+#EXTINF:-1 group-title="广东电信M",河源公共
+http://116.30.248.95:9876/udp/239.253.43.214:5146
+#EXTINF:-1 group-title="广东电信M",汕头综合
+http://116.30.248.95:9876/udp/239.253.43.45:5146
+#EXTINF:-1 group-title="广东电信M",汕头经济生活
+http://116.30.248.95:9876/udp/239.253.43.46:5146
+#EXTINF:-1 group-title="广东电信M",汕头文旅体育
+http://116.30.248.95:9876/udp/239.253.43.47:5146
+#EXTINF:-1 group-title="广东电信M",清远新闻综合
+http://116.30.248.95:9876/udp/239.253.43.33:5146
+#EXTINF:-1 group-title="广东电信M",清远文旅生活
+http://116.30.248.95:9876/udp/239.253.43.34:5146
+#EXTINF:-1 group-title="广东电信M",云浮综合
+http://116.30.248.95:9876/udp/239.77.0.253:5146
+#EXTINF:-1 group-title="广东电信M",云浮文旅
+http://116.30.248.95:9876/udp/239.77.0.254:5146
+#EXTINF:-1 group-title="广东电信M",茂名综合
+http://116.30.248.95:9876/udp/239.77.0.206:5146
+#EXTINF:-1 group-title="广东电信M",茂名文化生活
+http://116.30.248.95:9876/udp/239.77.0.207:5146
+#EXTINF:-1 group-title="广东电信M",佛山综合
+http://116.30.248.95:9876/udp/239.253.43.57:5146
+#EXTINF:-1 group-title="广东电信M",佛山公共
+http://116.30.248.95:9876/udp/239.253.43.53:5146
+#EXTINF:-1 group-title="广东电信M",佛山影视
+http://116.30.248.95:9876/udp/239.253.43.56:5146
+#EXTINF:-1 group-title="广东电信M",佛山顺德
+http://116.30.248.95:9876/udp/239.253.43.55:5146
+#EXTINF:-1 group-title="广东电信M",佛山南海
+http://116.30.248.95:9876/udp/239.253.43.54:5146
+#EXTINF:-1 group-title="广东电信M",中山综合
+http://116.30.248.95:9876/udp/239.253.43.62:5146
+#EXTINF:-1 group-title="广东电信M",香山文化
+http://116.30.248.95:9876/udp/239.253.43.63:5146
+#EXTINF:-1 group-title="广东电信M",潮州综合
+http://116.30.248.95:9876/udp/239.253.43.70:5146
+#EXTINF:-1 group-title="广东电信M",潮州民生
+http://116.30.248.95:9876/udp/239.253.43.75:5146
+#EXTINF:-1 group-title="广东电信M",东莞新闻综合
+http://116.30.248.95:9876/udp/239.253.43.104:5146
+#EXTINF:-1 group-title="广东电信M",东莞生活资讯
+http://116.30.248.95:9876/udp/239.253.43.105:5146
+#EXTINF:-1 group-title="广东电信M",徐闻综合
+http://116.30.248.95:9876/udp/239.253.43.112:5146
+#EXTINF:-1 group-title="广东电信M",梅州综合
+http://116.30.248.95:9876/udp/239.253.43.123:5146
+#EXTINF:-1 group-title="广东电信M",客家生活
+http://116.30.248.95:9876/udp/239.253.43.124:5146
+#EXTINF:-1 group-title="内蒙联通M",内蒙古蒙古语卫视
+http://116.116.118.244:9999/udp/239.125.1.66:5000
+#EXTINF:-1 group-title="内蒙联通M",内蒙古卫视
+http://116.116.118.244:9999/udp/239.125.1.59:5000
+#EXTINF:-1 group-title="内蒙联通M",内蒙古经济
+http://116.116.118.244:9999/udp/239.125.1.74:4120
+#EXTINF:-1 group-title="内蒙联通M",内蒙古文体
+http://116.116.118.244:9999/udp/239.125.1.72:4120
+#EXTINF:-1 group-title="内蒙联通M",内蒙古农牧
+http://116.116.118.244:9999/udp/239.125.1.73:4120
+#EXTINF:-1 group-title="内蒙联通M",内蒙古新闻
+http://116.116.118.244:9999/udp/239.125.1.70:4120
+#EXTINF:-1 group-title="内蒙联通M",内蒙古蒙语文化
+http://116.116.118.244:9999/udp/239.125.1.71:4120
+#EXTINF:-1 group-title="内蒙联通M",内蒙古少儿
+http://116.116.118.244:9999/udp/239.125.1.69:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV1
+http://116.116.118.244:9999/udp/239.125.2.66:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV2
+http://116.116.118.244:9999/udp/239.125.2.65:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV3
+http://116.116.118.244:9999/udp/239.125.2.52:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV4
+http://116.116.118.244:9999/udp/239.125.2.64:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV5
+http://116.116.118.244:9999/udp/239.125.2.54:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV5+
+http://116.116.118.244:9999/udp/239.125.1.57:5000
+#EXTINF:-1 group-title="内蒙联通M",CCTV6
+http://116.116.118.244:9999/udp/239.125.2.56:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV7
+http://116.116.118.244:9999/udp/239.125.2.63:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV8
+http://116.116.118.244:9999/udp/239.125.2.58:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV9
+http://116.116.118.244:9999/udp/239.125.2.62:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV10
+http://116.116.118.244:9999/udp/239.125.2.61:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV11
+http://116.116.118.244:9999/udp/239.125.1.101:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV12
+http://116.116.118.244:9999/udp/239.125.2.60:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV13
+http://116.116.118.244:9999/udp/239.125.1.53:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV14
+http://116.116.118.244:9999/udp/239.125.2.59:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV15
+http://116.116.118.244:9999/udp/239.125.1.102:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTVNEWS
+http://116.116.118.244:9999/udp/239.125.1.140:4130
+#EXTINF:-1 group-title="内蒙联通M",鄂尔多斯蒙古语综合
+http://116.116.118.244:9999/udp/239.125.2.162:4151
+#EXTINF:-1 group-title="内蒙联通M",鄂尔多斯新闻
+http://116.116.118.244:9999/udp/239.125.2.165:4154
+#EXTINF:-1 group-title="内蒙联通M",鄂尔多斯经济
+http://116.116.118.244:9999/udp/239.125.2.164:4153
+#EXTINF:-1 group-title="内蒙联通M",鄂尔多斯城市
+http://116.116.118.244:9999/udp/239.125.2.163:4152
+#EXTINF:-1 group-title="内蒙联通M",浙江卫视
+http://116.116.118.244:9999/udp/239.125.2.68:4120
+#EXTINF:-1 group-title="内蒙联通M",江苏卫视
+http://116.116.118.244:9999/udp/239.125.2.69:4120
+#EXTINF:-1 group-title="内蒙联通M",湖北卫视
+http://116.116.118.244:9999/udp/239.125.2.74:4120
+#EXTINF:-1 group-title="内蒙联通M",广东卫视
+http://116.116.118.244:9999/udp/239.125.2.71:4120
+#EXTINF:-1 group-title="内蒙联通M",山西卫视
+http://116.116.118.244:9999/udp/239.125.1.119:4130
+#EXTINF:-1 group-title="内蒙联通M",贵州卫视
+http://116.116.118.244:9999/udp/239.125.2.80:4120
+#EXTINF:-1 group-title="内蒙联通M",东方卫视
+http://116.116.118.244:9999/udp/239.125.2.82:4120
+#EXTINF:-1 group-title="内蒙联通M",辽宁卫视
+http://116.116.118.244:9999/udp/239.125.2.72:4120
+#EXTINF:-1 group-title="内蒙联通M",山东卫视
+http://116.116.118.244:9999/udp/239.125.2.75:4120
+#EXTINF:-1 group-title="内蒙联通M",吉林卫视
+http://116.116.118.244:9999/udp/239.125.2.191:4120
+#EXTINF:-1 group-title="内蒙联通M",黑龙江卫视
+http://116.116.118.244:9999/udp/239.125.2.83:4120
+#EXTINF:-1 group-title="内蒙联通M",广西卫视
+http://116.116.118.244:9999/udp/239.125.1.167:4130
+#EXTINF:-1 group-title="内蒙联通M",兵团卫视
+http://116.116.118.244:9999/udp/239.125.1.135:4130
+#EXTINF:-1 group-title="内蒙联通M",安徽卫视
+http://116.116.118.244:9999/udp/239.125.2.78:4120
+#EXTINF:-1 group-title="内蒙联通M",北京卫视
+http://116.116.118.244:9999/udp/239.125.2.73:4120
+#EXTINF:-1 group-title="内蒙联通M",东南卫视
+http://116.116.118.244:9999/udp/239.125.2.77:4120
+#EXTINF:-1 group-title="内蒙联通M",河北卫视
+http://116.116.118.244:9999/udp/239.125.2.70:4120
+#EXTINF:-1 group-title="内蒙联通M",天津卫视
+http://116.116.118.244:9999/udp/239.125.2.81:4120
+#EXTINF:-1 group-title="内蒙联通M",湖南卫视
+http://116.116.118.244:9999/udp/239.125.2.67:4120
+#EXTINF:-1 group-title="内蒙联通M",四川卫视
+http://116.116.118.244:9999/udp/239.125.2.79:4120
+#EXTINF:-1 group-title="内蒙联通M",卡酷动画
+http://116.116.118.244:9999/udp/239.125.1.127:4130
+#EXTINF:-1 group-title="内蒙联通M",深圳卫视
+http://116.116.118.244:9999/udp/239.125.2.76:4120
+#EXTINF:-1 group-title="内蒙联通M",宁夏卫视
+http://116.116.118.244:9999/udp/239.125.1.157:4130
+#EXTINF:-1 group-title="内蒙联通M",IPTV谍战剧场
+http://116.116.118.244:9999/udp/239.125.1.130:4130
+#EXTINF:-1 group-title="内蒙联通M",云南卫视
+http://116.116.118.244:9999/udp/239.125.1.160:4130
+#EXTINF:-1 group-title="内蒙联通M",重庆卫视
+http://116.116.118.244:9999/udp/239.125.2.102:4130
+#EXTINF:-1 group-title="内蒙联通M",河南卫视
+http://116.116.118.244:9999/udp/239.125.1.156:4130
+#EXTINF:-1 group-title="内蒙联通M",江西卫视
+http://116.116.118.244:9999/udp/239.125.2.101:4129
+#EXTINF:-1 group-title="内蒙联通M",爱综艺
+http://116.116.118.244:9999/udp/239.125.1.120:4130
+#EXTINF:-1 group-title="内蒙联通M",爱体育
+http://116.116.118.244:9999/udp/239.125.1.122:4130
+#EXTINF:-1 group-title="内蒙联通M",爱电影
+http://116.116.118.244:9999/udp/239.125.1.124:4130
+#EXTINF:-1 group-title="内蒙联通M",爱大剧
+http://116.116.118.244:9999/udp/239.125.1.126:4130
+#EXTINF:-1 group-title="内蒙联通M",海南卫视
+http://116.116.118.244:9999/udp/239.125.2.189:4120
+#EXTINF:-1 group-title="内蒙联通M",青海卫视
+http://116.116.118.244:9999/udp/239.125.1.150:4130
+#EXTINF:-1 group-title="内蒙联通M",IPTV野外
+http://116.116.118.244:9999/udp/234.1.3.126:5000
+#EXTINF:-1 group-title="内蒙联通M",甘肃卫视
+http://116.116.118.244:9999/udp/239.125.2.190:4120
+#EXTINF:-1 group-title="内蒙联通M",陕西卫视
+http://116.116.118.244:9999/udp/239.125.1.155:4130
+#EXTINF:-1 group-title="内蒙联通M",足球
+http://116.116.118.244:9999/udp/239.125.1.51:5000
+#EXTINF:-1 group-title="内蒙联通M",三沙卫视
+http://116.116.118.244:9999/udp/239.125.1.180:4130
+#EXTINF:-1 group-title="内蒙联通M",西藏卫视
+http://116.116.118.244:9999/udp/239.125.1.117:4130
+#EXTINF:-1 group-title="内蒙联通M",CETV4
+http://116.116.118.244:9999/udp/239.125.1.110:4120
+#EXTINF:-1 group-title="内蒙联通M",城市剧场
+http://116.116.118.244:9999/udp/239.125.1.148:4130
+#EXTINF:-1 group-title="内蒙联通M",古装剧场
+http://116.116.118.244:9999/udp/239.125.1.146:4130
+#EXTINF:-1 group-title="内蒙联通M",音乐现场
+http://116.116.118.244:9999/udp/239.125.1.40:5000
+#EXTINF:-1 group-title="内蒙联通M",星影
+http://116.116.118.244:9999/udp/239.125.1.55:5000
+#EXTINF:-1 group-title="内蒙联通M",武侠剧场
+http://116.116.118.244:9999/udp/239.125.1.145:4130
+#EXTINF:-1 group-title="内蒙联通M",动作影院
+http://116.116.118.244:9999/udp/239.125.1.53:5000
+#EXTINF:-1 group-title="内蒙联通M",地理
+http://116.116.118.244:9999/udp/239.125.1.41:5000
+#EXTINF:-1 group-title="内蒙联通M",新疆卫视
+http://116.116.118.244:9999/udp/239.125.1.123:4130
+#EXTINF:-1 group-title="内蒙联通M",军旅剧场
+http://116.116.118.244:9999/udp/239.125.1.147:4130
+#EXTINF:-1 group-title="内蒙联通M",金鹰卡通
+http://116.116.118.244:9999/udp/239.125.1.128:4130
+#EXTINF:-1 group-title="内蒙联通M",全纪实
+http://116.116.118.244:9999/udp/239.125.1.38:5000
+#EXTINF:-1 group-title="内蒙联通M",山东教育
+http://116.116.118.244:9999/udp/239.125.1.178:4130
+#EXTINF:-1 group-title="内蒙联通M",动漫秀场
+http://116.116.118.244:9999/udp/239.125.1.31:5000
+#EXTINF:-1 group-title="内蒙联通M",精选
+http://116.116.118.244:9999/udp/239.125.1.43:5000
+#EXTINF:-1 group-title="内蒙联通M",动画
+http://116.116.118.244:9999/udp/239.125.1.45:5000
+#EXTINF:-1 group-title="内蒙联通M",都市剧场
+http://116.116.118.244:9999/udp/239.125.1.129:4130
+#EXTINF:-1 group-title="内蒙联通M",IPTV少儿动画
+http://116.116.118.244:9999/udp/239.125.1.121:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV17
+http://116.116.118.244:9999/udp/239.125.2.204:4120
+#EXTINF:-1 group-title="内蒙联通M",金色
+http://116.116.118.244:9999/udp/239.125.1.39:5000
+#EXTINF:-1 group-title="内蒙联通M",喜剧影院
+http://116.116.118.244:9999/udp/239.125.1.52:5000
+#EXTINF:-1 group-title="内蒙联通M",早教
+http://116.116.118.244:9999/udp/239.125.1.44:5000
+#EXTINF:-1 group-title="内蒙联通M",家庭影院
+http://116.116.118.244:9999/udp/239.125.1.54:5000
+#EXTINF:-1 group-title="内蒙联通M",好学生
+http://116.116.118.244:9999/udp/239.125.1.17:4120
+#EXTINF:-1 group-title="内蒙联通M",魅力时尚
+http://116.116.118.244:9999/udp/239.125.1.27:5000
+#EXTINF:-1 group-title="内蒙联通M",游戏风云
+http://116.116.118.244:9999/udp/239.125.1.33:5000
+#EXTINF:-1 group-title="内蒙联通M",光影
+http://116.116.118.244:9999/udp/239.125.1.49:5000
+#EXTINF:-1 group-title="内蒙联通M",收视指南
+http://116.116.118.244:9999/udp/239.125.44.3:5000
+#EXTINF:-1 group-title="内蒙联通M",热播剧场
+http://116.116.118.244:9999/udp/239.125.1.125:4130
+#EXTINF:-1 group-title="内蒙联通M",CETV2
+http://116.116.118.244:9999/udp/239.125.1.29:5000
+#EXTINF:-1 group-title="内蒙联通M",嘉佳卡通
+http://116.116.118.244:9999/udp/239.125.2.213:4120
+#EXTINF:-1 group-title="内蒙联通M",IPTV法治
+http://116.116.118.244:9999/udp/239.125.1.56:5000
+#EXTINF:-1 group-title="内蒙联通M",杭锦旗
+http://116.116.118.244:9999/udp/239.125.2.212:4120
+#EXTINF:-1 group-title="内蒙联通M",乌审旗
+http://116.116.118.244:9999/udp/239.125.2.194:4120
+#EXTINF:-1 group-title="内蒙联通M",IPTV相声小品
+http://116.116.118.244:9999/udp/239.125.1.30:5000
+#EXTINF:-1 group-title="内蒙联通M",湖南卫视
+http://116.116.118.244:9999/udp/239.125.1.170:4130
+#EXTINF:-1 group-title="内蒙联通M",江苏卫视
+http://116.116.118.244:9999/udp/239.125.1.172:4130
+#EXTINF:-1 group-title="内蒙联通M",深圳卫视
+http://116.116.118.244:9999/udp/239.125.1.166:4130
+#EXTINF:-1 group-title="内蒙联通M",黑龙江卫视
+http://116.116.118.244:9999/udp/239.125.1.171:4130
+#EXTINF:-1 group-title="内蒙联通M",四川卫视
+http://116.116.118.244:9999/udp/239.125.1.175:4130
+#EXTINF:-1 group-title="内蒙联通M",吉林卫视
+http://116.116.118.244:9999/udp/239.125.2.205:4120
+#EXTINF:-1 group-title="内蒙联通M",经典电影
+http://116.116.118.244:9999/udp/239.125.1.28:5000
+#EXTINF:-1 group-title="内蒙联通M",墨宝
+http://116.116.118.244:9999/udp/239.125.1.48:5000
+#EXTINF:-1 group-title="内蒙联通M",美人
+http://116.116.118.244:9999/udp/239.125.44.9:4120
+#EXTINF:-1 group-title="内蒙联通M",鉴赏
+http://116.116.118.244:9999/udp/239.125.1.47:5000
+#EXTINF:-1 group-title="内蒙联通M",IPTV5+
+http://116.116.118.244:9999/udp/239.125.1.25:5000
+#EXTINF:-1 group-title="内蒙联通M",海南卫视
+http://116.116.118.244:9999/udp/239.125.1.165:4130
+#EXTINF:-1 group-title="内蒙联通M",甘肃卫视
+http://116.116.118.244:9999/udp/239.125.1.151:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV16-4K
+http://116.116.118.244:9999/udp/239.125.2.218:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV1
+http://116.116.118.244:9999/udp/239.125.1.177:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV2
+http://116.116.118.244:9999/udp/239.125.1.118:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV4
+http://116.116.118.244:9999/udp/239.125.1.141:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV7
+http://116.116.118.244:9999/udp/239.125.1.131:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV9
+http://116.116.118.244:9999/udp/239.125.1.142:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV10
+http://116.116.118.244:9999/udp/239.125.1.143:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV12
+http://116.116.118.244:9999/udp/239.125.1.161:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV14
+http://116.116.118.244:9999/udp/239.125.1.162:4130
+#EXTINF:-1 group-title="内蒙联通M",东南卫视
+http://116.116.118.244:9999/udp/239.125.1.164:4130
+#EXTINF:-1 group-title="内蒙联通M",辽宁卫视
+http://116.116.118.244:9999/udp/239.125.1.115:4130
+#EXTINF:-1 group-title="内蒙联通M",广东卫视
+http://116.116.118.244:9999/udp/239.125.1.154:4130
+#EXTINF:-1 group-title="内蒙联通M",湖北卫视
+http://116.116.118.244:9999/udp/239.125.1.152:4130
+#EXTINF:-1 group-title="内蒙联通M",山东卫视
+http://116.116.118.244:9999/udp/239.125.1.149:4130
+#EXTINF:-1 group-title="内蒙联通M",贵州卫视
+http://116.116.118.244:9999/udp/239.125.1.158:4130
+#EXTINF:-1 group-title="内蒙联通M",天津卫视
+http://116.116.118.244:9999/udp/239.125.1.153:4130
+#EXTINF:-1 group-title="内蒙联通M",东方卫视
+http://116.116.118.244:9999/udp/239.125.1.116:4130
+#EXTINF:-1 group-title="内蒙联通M",北京卫视
+http://116.116.118.244:9999/udp/239.125.1.176:4130
+#EXTINF:-1 group-title="内蒙联通M",金鹰纪实
+http://116.116.118.244:9999/udp/239.125.2.106:4134
+#EXTINF:-1 group-title="内蒙联通M",安徽卫视
+http://116.116.118.244:9999/udp/239.125.1.173:4130
+#EXTINF:-1 group-title="内蒙联通M",江西卫视
+http://116.116.118.244:9999/udp/239.125.1.174:4130
+#EXTINF:-1 group-title="内蒙联通M",重庆卫视
+http://116.116.118.244:9999/udp/239.125.1.168:4130
+#EXTINF:-1 group-title="内蒙联通M",浙江卫视
+http://116.116.118.244:9999/udp/239.125.1.159:4130
+#EXTINF:-1 group-title="内蒙联通M",河北卫视
+http://116.116.118.244:9999/udp/239.125.1.169:4130
+#EXTINF:-1 group-title="内蒙联通M",CETV1
+http://116.116.118.244:9999/udp/239.125.1.139:4130
+#EXTINF:-1 group-title="内蒙联通M",CCTV4美洲
+http://116.116.118.244:9999/udp/239.125.2.197:4120
+#EXTINF:-1 group-title="内蒙联通M",CGTN英文纪录
+http://116.116.118.244:9999/udp/239.125.2.199:4120
+#EXTINF:-1 group-title="内蒙联通M",CGTN英语
+http://116.116.118.244:9999/udp/239.125.2.198:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV4欧洲
+http://116.116.118.244:9999/udp/239.125.2.196:4120
+#EXTINF:-1 group-title="内蒙联通M",CGTN西班牙语
+http://116.116.118.244:9999/udp/239.125.2.200:4120
+#EXTINF:-1 group-title="内蒙联通M",CGTN法语
+http://116.116.118.244:9999/udp/239.125.2.201:4120
+#EXTINF:-1 group-title="内蒙联通M",CGTN阿拉伯语
+http://116.116.118.244:9999/udp/239.125.2.202:4120
+#EXTINF:-1 group-title="内蒙联通M",CGTN俄语
+http://116.116.118.244:9999/udp/239.125.2.203:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV16
+http://116.116.118.244:9999/udp/239.125.2.206:4120
+#EXTINF:-1 group-title="内蒙联通M",CCTV15
+http://116.116.118.244:9999/udp/239.125.1.163:4130
+#EXTINF:-1 group-title="内蒙联通M",爱生活
+http://116.116.118.244:9999/udp/239.125.1.50:5000
+#EXTINF:-1 group-title="内蒙联通M",CCTV11
+http://116.116.118.244:9999/udp/239.125.1.134:4130
 #EXTINF:-1 group-title="云南地方台",云南卫视
 https://hwapi.yntv.net/62hdvf/41hse3.m3u8
 #EXTINF:-1 group-title="云南地方台",云南都市
@@ -1952,9 +2038,9 @@ http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="广东地方台",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 group-title="广东地方台",江门综合
-http://tidelive.jmtv.cn/lsdream/4x3T0dO/m534l00.m3u8
+http://tidelive.jmtv.cn/lsdream/4x3T0dO/5634g00.m3u8
 #EXTINF:-1 group-title="广东地方台",江门侨乡生活
-http://tidelive.jmtv.cn/lsdream/qzohscw/w1lqlo0.m3u8
+http://tidelive.jmtv.cn/lsdream/qzohscw/d1lqgo0.m3u8
 #EXTINF:-1 group-title="广东地方台",梅州|丰顺
 http://p2.vzan.com/701678271/024926084736123670/live.m3u8
 #EXTINF:-1 group-title="广东地方台",梅州|五华
@@ -2570,7 +2656,7 @@ https://rmplive.hljtv.com/live/tongjiang.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江
 https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|东宁
-http://vod.center.hljtv.com/lsdream/7gf6a72/85h7lf0.m3u8
+http://vod.center.hljtv.com/lsdream/7gf6a72/r5h7gf0.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|东宁
 https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|东宁
@@ -2584,7 +2670,7 @@ https://masterpull.hljtv.com/live/pqheD07F.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|林口
 https://rmplive.hljtv.com/live/linkou.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|穆棱
-http://vod.center.hljtv.com/lsdream/wy7HG9x/n22wl70.m3u8
+http://vod.center.hljtv.com/lsdream/wy7HG9x/632wg70.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|穆棱
 https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|穆棱
@@ -2594,7 +2680,7 @@ https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|宁安
 https://rmplive.hljtv.com/live/ningan.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|绥芬河
-http://vod.center.hljtv.com/lsdream/gS7S5pS/93g0l70.m3u8
+http://vod.center.hljtv.com/lsdream/gS7S5pS/s3g0g70.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|绥芬河
 https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",牡丹江|绥芬河
@@ -2650,7 +2736,7 @@ https://masterpull.hljtv.com/live/cfkAgOUK.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",齐齐哈尔|泰来
 https://rmplive.hljtv.com/live/tailai.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",齐齐哈尔|依安
-http://vod.center.hljtv.com/lsdream/1szOvMr/s2x1lz0.m3u8
+http://vod.center.hljtv.com/lsdream/1szOvMr/b3x1gz0.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",齐齐哈尔|依安
 https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",齐齐哈尔|依安
@@ -2668,7 +2754,7 @@ https://masterpull.hljtv.com/live/DokNxER6.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",双鸭山|饶河
 https://rmplive.hljtv.com/live/raohe.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",双鸭山|友谊
-http://vod.center.hljtv.com/lsdream/d037rmI/o31dl30.m3u8
+http://vod.center.hljtv.com/lsdream/d037rmI/741dg30.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",双鸭山|友谊
 https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",双鸭山|友谊
@@ -2722,13 +2808,13 @@ https://rmplive.hljtv.com/live/yichun.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",伊春绿色林都
 https://liveplaysr.dbw.cn/lsdream/6i4bn74/2000/live.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",伊春|嘉荫
-http://vod.center.hljtv.com/lsdream/1lqKC4B/g591lq0.m3u8
+http://vod.center.hljtv.com/lsdream/1lqKC4B/z591gq0.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",伊春|嘉荫
 https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",伊春|嘉荫
 https://rmplive.hljtv.com/live/jiayin.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",伊春|铁力
-http://vod.center.hljtv.com/lsdream/QgOu88F/s3xQlO0.m3u8
+http://vod.center.hljtv.com/lsdream/QgOu88F/b4xQgO0.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",伊春|铁力
 https://masterpull.hljtv.com/live/iUtbDFud.m3u8
 #EXTINF:-1 group-title="黑龙江地方台",伊春|铁力
@@ -3366,11 +3452,11 @@ http://play-live-hls.jxtvcn.com.cn/live-city/tv_yingtan.m3u8
 #EXTINF:-1 group-title="江西地方台",鹰潭|贵溪
 http://guixibc.jxshiju.com/live/guixi.m3u8
 #EXTINF:-1 group-title="辽宁地方台",大连新闻
-http://live.dltv.cn/tcb3IB5/i27tlb0.m3u8
+http://live.dltv.cn/tcb3IB5/137tgb0.m3u8
 #EXTINF:-1 group-title="辽宁地方台",大连生活
-http://live.dltv.cn/JzcFkF4/l24Jlc0.m3u8
+http://live.dltv.cn/JzcFkF4/434Jgc0.m3u8
 #EXTINF:-1 group-title="辽宁地方台",大连文体
-http://live.dltv.cn/hxT7Fc3/12omlT0.m3u8
+http://live.dltv.cn/hxT7Fc3/k2omgT0.m3u8
 #EXTINF:-1 group-title="辽宁地方台",丹东新闻
 https://pili-live-hls.ddrtv.cn/zhddgbds/ddnews.m3u8
 #EXTINF:-1 group-title="辽宁地方台",盘锦|大洼
@@ -3530,31 +3616,31 @@ http://stream.zztvzd.com/2/sd/live.m3u8
 #EXTINF:-1 group-title="山东地方台",枣庄公共
 http://stream.zztvzd.com/3/sd/live.m3u8
 #EXTINF:-1 group-title="山西地方台",山西卫视
-https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/x1sqlR0.m3u8
+https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/g2sqgR0.m3u8
 #EXTINF:-1 group-title="山西地方台",山西经济
-https://livehhhttps.sxrtv.com/lsdream/4j01KWX/o614l00.m3u8
+https://livehhhttps.sxrtv.com/lsdream/4j01KWX/7714g00.m3u8
 #EXTINF:-1 group-title="山西地方台",山西影视
-https://livehhhttps.sxrtv.com/lsdream/Md571Kv/76iMl50.m3u8
+https://livehhhttps.sxrtv.com/lsdream/Md571Kv/q6iMg50.m3u8
 #EXTINF:-1 group-title="山西地方台",山西社会与法治
-https://livehhhttps.sxrtv.com/lsdream/p4y5do9/c1dply0.m3u8
+https://livehhhttps.sxrtv.com/lsdream/p4y5do9/v1dpgy0.m3u8
 #EXTINF:-1 group-title="山西地方台",山西文体生活
-https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/g39Yl00.m3u8
+https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/z39Yg00.m3u8
 #EXTINF:-1 group-title="山西地方台",山西黄河
-https://livehhhttps.sxrtv.com/lsdream/lce1mC4/w1t9le0.m3u8
+https://livehhhttps.sxrtv.com/lsdream/lce1mC4/f2tlge0.m3u8
 #EXTINF:-1 group-title="山西地方台",太原新闻综合
-https://tytv-hls.sxtygdy.com/49VAfrw/15o4lV0.m3u8
+https://tytv-hls.sxtygdy.com/49VAfrw/k5o4gV0.m3u8
 #EXTINF:-1 group-title="山西地方台",太原经济生活
-https://tytv-hls.sxtygdy.com/u8BmT6h/y2rulB0.m3u8
+https://tytv-hls.sxtygdy.com/u8BmT6h/h3rugB0.m3u8
 #EXTINF:-1 group-title="山西地方台",太原社教法制
-https://tytv-hls.sxtygdy.com/phsry3e/k9plc0y.m3u8
+https://tytv-hls.sxtygdy.com/phsry3e/19pgs0y.m3u8
 #EXTINF:-1 group-title="山西地方台",太原影视
-https://tytv-hls.sxtygdy.com/J4EX72D/v6uJlE0.m3u8
+https://tytv-hls.sxtygdy.com/J4EX72D/e7uJgE0.m3u8
 #EXTINF:-1 group-title="山西地方台",太原文体
-https://tytv-hls.sxtygdy.com/rk8Z088/g39rl80.m3u8
+https://tytv-hls.sxtygdy.com/rk8Z088/z39rg80.m3u8
 #EXTINF:-1 group-title="山西地方台",太原城市生活
-https://tytv-hls.sxtygdy.com/i88rmGU/l24il80.m3u8
+https://tytv-hls.sxtygdy.com/i88rmGU/434ig80.m3u8
 #EXTINF:-1 group-title="山西地方台",太原教育
-https://tytv-hls.sxtygdy.com/g4XtSCF/p20glX0.m3u8
+https://tytv-hls.sxtygdy.com/g4XtSCF/8309gX0.m3u8
 #EXTINF:-1 group-title="山西地方台",太原|娄烦
 https://d2lp2ch2.live.sxmty.com/live/hls/dd05b3d63074444abe815913a24d3a35/4c59b61fb67f4a45b7fa1f8416b9fffb-1.m3u8
 #EXTINF:-1 group-title="山西地方台",太原|阳曲
@@ -5425,3 +5511,139 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=30000
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=2&$5M FHD
 #EXTINF:-1 group-title="ITV",咪咕足球赛事
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=2&$5M FHD
+#EXTINF:-1 group-title="历届春晚",1983年
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+#EXTINF:-1 group-title="历届春晚",1984年
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 group-title="历届春晚",1985年
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 group-title="历届春晚",1986年
+https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+#EXTINF:-1 group-title="历届春晚",1987年
+https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+#EXTINF:-1 group-title="历届春晚",1988年
+https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+#EXTINF:-1 group-title="历届春晚",1989年
+https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+#EXTINF:-1 group-title="历届春晚",1991年
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+#EXTINF:-1 group-title="历届春晚",1992年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",1993年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+#EXTINF:-1 group-title="历届春晚",1994年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+#EXTINF:-1 group-title="历届春晚",1995年
+https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+#EXTINF:-1 group-title="历届春晚",1996年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1 group-title="历届春晚",1997年
+https://txmov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1 group-title="历届春晚",1998年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",1999年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+#EXTINF:-1 group-title="历届春晚",2000年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+#EXTINF:-1 group-title="历届春晚",2001年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+#EXTINF:-1 group-title="历届春晚",2002年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1 group-title="历届春晚",2003年
+https://txmov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+#EXTINF:-1 group-title="历届春晚",2004年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+#EXTINF:-1 group-title="历届春晚",2005年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+#EXTINF:-1 group-title="历届春晚",2006年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1 group-title="历届春晚",2007年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+#EXTINF:-1 group-title="历届春晚",2008年
+https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+#EXTINF:-1 group-title="历届春晚",2009年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+#EXTINF:-1 group-title="历届春晚",2010年
+https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1 group-title="历届春晚",2011年
+https://txmov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+#EXTINF:-1 group-title="历届春晚",2013年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+#EXTINF:-1 group-title="历届春晚",2014年
+https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+#EXTINF:-1 group-title="历届春晚",2015年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+#EXTINF:-1 group-title="历届春晚",2017年
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+#EXTINF:-1 group-title="历届春晚",2018年
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1 group-title="历届春晚",2019年
+https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1 group-title="历届春晚",2020年
+https://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 group-title="历届春晚",2021年
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1 group-title="历届春晚",2022年
+https://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 group-title="历届春晚",1983年
+https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
+#EXTINF:-1 group-title="历届春晚",1984年
+http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 group-title="历届春晚",1985年
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 group-title="历届春晚",1986年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",1987年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 group-title="历届春晚",1987年
+http://50069.njc.svp.tencent-cloud.com/0bc3fuaaiaaavuaibgr5f5rfalodaqwqabaa.f10003.mp4
+#EXTINF:-1 group-title="历届春晚",1988年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 group-title="历届春晚",1989年
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+#EXTINF:-1 group-title="历届春晚",1991年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",1993年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",1994年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",1995年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",1997年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",1999年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2000年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2001年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2002年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2004年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2005年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2006年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2007年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2008年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2009年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2014年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2019年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2020年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2020年
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 group-title="历届春晚",2021年
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1 group-title="历届春晚",2022年
+http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 group-title="历届春晚",2023年
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 group-title="历届春晚",2024年
+https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240210/1d7c7f27f96f4155b2037e8c4db41c7e_H264_3000K_MP4/20240210040209928.m3u8
