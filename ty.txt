@@ -1,5 +1,5 @@
 {
-  "cookies": "Y19wcm92aW5jZT0wODY7IGNfdF9pZD1kYWQ5YzE3YzhjNzU0Mzk0ZjJhNzMwNTQwMjc2NGE5Mg==",
-  "expires": 1793817017,
-  "update_day": "2026-10-22"
+  "cookies": "Y19wcm92aW5jZT0wODY7IGNfdF9pZD04ZjU2ZTEwNjA5ZTc1YmY1MjQxNjcwMTQxYmM1NDZmZQ==",
+  "expires": 1795026617,
+  "update_day": "2026-11-05"
 }
